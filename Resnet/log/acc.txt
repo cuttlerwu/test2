@@ -1,0 +1,30 @@
+EPOCH=201,Accuracy= 94.640%
+--- 伪量化 ---
+EPOCH=201,Accuracy= 94.600%
+EPOCH=202,Accuracy= 94.710%
+--- 伪量化 ---
+EPOCH=202,Accuracy= 94.660%
+EPOCH=203,Accuracy= 94.490%
+--- 伪量化 ---
+EPOCH=203,Accuracy= 94.530%
+EPOCH=204,Accuracy= 94.640%
+--- 伪量化 ---
+EPOCH=204,Accuracy= 94.590%
+EPOCH=205,Accuracy= 94.480%
+--- 伪量化 ---
+EPOCH=205,Accuracy= 94.550%
+EPOCH=206,Accuracy= 94.440%
+--- 伪量化 ---
+EPOCH=206,Accuracy= 94.490%
+EPOCH=207,Accuracy= 94.560%
+--- 伪量化 ---
+EPOCH=207,Accuracy= 94.560%
+EPOCH=208,Accuracy= 94.540%
+--- 伪量化 ---
+EPOCH=208,Accuracy= 94.590%
+EPOCH=209,Accuracy= 94.650%
+--- 伪量化 ---
+EPOCH=209,Accuracy= 94.630%
+EPOCH=210,Accuracy= 94.620%
+--- 伪量化 ---
+EPOCH=210,Accuracy= 94.740%

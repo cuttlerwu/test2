@@ -1,0 +1,552 @@
+co0.weight
+ba0.weight
+ba0.bias
+ba0.running_mean
+ba0.running_var
+ba0.num_batches_tracked
+layer1.0.conv1.weight
+layer1.0.bn1.weight
+layer1.0.bn1.bias
+layer1.0.bn1.running_mean
+layer1.0.bn1.running_var
+layer1.0.bn1.num_batches_tracked
+layer1.0.conv2.weight
+layer1.0.bn2.weight
+layer1.0.bn2.bias
+layer1.0.bn2.running_mean
+layer1.0.bn2.running_var
+layer1.0.bn2.num_batches_tracked
+layer1.0.conv3.weight
+layer1.0.bn3.weight
+layer1.0.bn3.bias
+layer1.0.bn3.running_mean
+layer1.0.bn3.running_var
+layer1.0.bn3.num_batches_tracked
+layer1.1.conv1.weight
+layer1.1.bn1.weight
+layer1.1.bn1.bias
+layer1.1.bn1.running_mean
+layer1.1.bn1.running_var
+layer1.1.bn1.num_batches_tracked
+layer1.1.conv2.weight
+layer1.1.bn2.weight
+layer1.1.bn2.bias
+layer1.1.bn2.running_mean
+layer1.1.bn2.running_var
+layer1.1.bn2.num_batches_tracked
+layer1.1.conv3.weight
+layer1.1.bn3.weight
+layer1.1.bn3.bias
+layer1.1.bn3.running_mean
+layer1.1.bn3.running_var
+layer1.1.bn3.num_batches_tracked
+layer2.0.conv1.weight
+layer2.0.bn1.weight
+layer2.0.bn1.bias
+layer2.0.bn1.running_mean
+layer2.0.bn1.running_var
+layer2.0.bn1.num_batches_tracked
+layer2.0.conv2.weight
+layer2.0.bn2.weight
+layer2.0.bn2.bias
+layer2.0.bn2.running_mean
+layer2.0.bn2.running_var
+layer2.0.bn2.num_batches_tracked
+layer2.0.conv3.weight
+layer2.0.bn3.weight
+layer2.0.bn3.bias
+layer2.0.bn3.running_mean
+layer2.0.bn3.running_var
+layer2.0.bn3.num_batches_tracked
+layer2.1.conv1.weight
+layer2.1.bn1.weight
+layer2.1.bn1.bias
+layer2.1.bn1.running_mean
+layer2.1.bn1.running_var
+layer2.1.bn1.num_batches_tracked
+layer2.1.conv2.weight
+layer2.1.bn2.weight
+layer2.1.bn2.bias
+layer2.1.bn2.running_mean
+layer2.1.bn2.running_var
+layer2.1.bn2.num_batches_tracked
+layer2.1.conv3.weight
+layer2.1.bn3.weight
+layer2.1.bn3.bias
+layer2.1.bn3.running_mean
+layer2.1.bn3.running_var
+layer2.1.bn3.num_batches_tracked
+layer3.0.conv1.weight
+layer3.0.bn1.weight
+layer3.0.bn1.bias
+layer3.0.bn1.running_mean
+layer3.0.bn1.running_var
+layer3.0.bn1.num_batches_tracked
+layer3.0.conv2.weight
+layer3.0.bn2.weight
+layer3.0.bn2.bias
+layer3.0.bn2.running_mean
+layer3.0.bn2.running_var
+layer3.0.bn2.num_batches_tracked
+layer3.0.conv3.weight
+layer3.0.bn3.weight
+layer3.0.bn3.bias
+layer3.0.bn3.running_mean
+layer3.0.bn3.running_var
+layer3.0.bn3.num_batches_tracked
+layer3.1.conv1.weight
+layer3.1.bn1.weight
+layer3.1.bn1.bias
+layer3.1.bn1.running_mean
+layer3.1.bn1.running_var
+layer3.1.bn1.num_batches_tracked
+layer3.1.conv2.weight
+layer3.1.bn2.weight
+layer3.1.bn2.bias
+layer3.1.bn2.running_mean
+layer3.1.bn2.running_var
+layer3.1.bn2.num_batches_tracked
+layer3.1.conv3.weight
+layer3.1.bn3.weight
+layer3.1.bn3.bias
+layer3.1.bn3.running_mean
+layer3.1.bn3.running_var
+layer3.1.bn3.num_batches_tracked
+layer4.0.conv1.weight
+layer4.0.bn1.weight
+layer4.0.bn1.bias
+layer4.0.bn1.running_mean
+layer4.0.bn1.running_var
+layer4.0.bn1.num_batches_tracked
+layer4.0.conv2.weight
+layer4.0.bn2.weight
+layer4.0.bn2.bias
+layer4.0.bn2.running_mean
+layer4.0.bn2.running_var
+layer4.0.bn2.num_batches_tracked
+layer4.0.conv3.weight
+layer4.0.bn3.weight
+layer4.0.bn3.bias
+layer4.0.bn3.running_mean
+layer4.0.bn3.running_var
+layer4.0.bn3.num_batches_tracked
+layer4.1.conv1.weight
+layer4.1.bn1.weight
+layer4.1.bn1.bias
+layer4.1.bn1.running_mean
+layer4.1.bn1.running_var
+layer4.1.bn1.num_batches_tracked
+layer4.1.conv2.weight
+layer4.1.bn2.weight
+layer4.1.bn2.bias
+layer4.1.bn2.running_mean
+layer4.1.bn2.running_var
+layer4.1.bn2.num_batches_tracked
+layer4.1.conv3.weight
+layer4.1.bn3.weight
+layer4.1.bn3.bias
+layer4.1.bn3.running_mean
+layer4.1.bn3.running_var
+layer4.1.bn3.num_batches_tracked
+fc.weight
+fc.bias
+
+
+
+
+
+
+<bound method Module.state_dict of ResNet(
+  (co0): Conv2d(3, 64, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+  (ba0): BatchNorm2d(64, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (re0): ReLU()
+  (layer1): Sequential(
+    (0): ResidualBlock(
+      (conv1): Conv2d(64, 64, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+      (bn1): BatchNorm2d(64, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+      (relu): ReLU(inplace=True)
+      (conv2): Conv2d(64, 64, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+      (bn2): BatchNorm2d(64, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+      (conv3): Conv2d(64, 64, kernel_size=(1, 1), stride=(1, 1), bias=False)
+      (bn3): BatchNorm2d(64, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    )
+    (1): ResidualBlock(
+      (conv1): Conv2d(64, 64, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+      (bn1): BatchNorm2d(64, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+      (relu): ReLU(inplace=True)
+      (conv2): Conv2d(64, 64, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+      (bn2): BatchNorm2d(64, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+      (conv3): Conv2d(64, 64, kernel_size=(1, 1), stride=(1, 1), bias=False)
+      (bn3): BatchNorm2d(64, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    )
+  )
+  (layer2): Sequential(
+    (0): ResidualBlock(
+      (conv1): Conv2d(64, 128, kernel_size=(3, 3), stride=(2, 2), padding=(1, 1), bias=False)
+      (bn1): BatchNorm2d(128, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+      (relu): ReLU(inplace=True)
+      (conv2): Conv2d(128, 128, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+      (bn2): BatchNorm2d(128, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+      (conv3): Conv2d(64, 128, kernel_size=(1, 1), stride=(2, 2), bias=False)
+      (bn3): BatchNorm2d(128, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    )
+    (1): ResidualBlock(
+      (conv1): Conv2d(128, 128, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+      (bn1): BatchNorm2d(128, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+      (relu): ReLU(inplace=True)
+      (conv2): Conv2d(128, 128, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+      (bn2): BatchNorm2d(128, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+      (conv3): Conv2d(128, 128, kernel_size=(1, 1), stride=(1, 1), bias=False)
+      (bn3): BatchNorm2d(128, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    )
+  )
+  (layer3): Sequential(
+    (0): ResidualBlock(
+      (conv1): Conv2d(128, 256, kernel_size=(3, 3), stride=(2, 2), padding=(1, 1), bias=False)
+      (bn1): BatchNorm2d(256, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+      (relu): ReLU(inplace=True)
+      (conv2): Conv2d(256, 256, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+      (bn2): BatchNorm2d(256, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+      (conv3): Conv2d(128, 256, kernel_size=(1, 1), stride=(2, 2), bias=False)
+      (bn3): BatchNorm2d(256, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    )
+    (1): ResidualBlock(
+      (conv1): Conv2d(256, 256, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+      (bn1): BatchNorm2d(256, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+      (relu): ReLU(inplace=True)
+      (conv2): Conv2d(256, 256, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+      (bn2): BatchNorm2d(256, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+      (conv3): Conv2d(256, 256, kernel_size=(1, 1), stride=(1, 1), bias=False)
+      (bn3): BatchNorm2d(256, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    )
+  )
+  (layer4): Sequential(
+    (0): ResidualBlock(
+      (conv1): Conv2d(256, 512, kernel_size=(3, 3), stride=(2, 2), padding=(1, 1), bias=False)
+      (bn1): BatchNorm2d(512, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+      (relu): ReLU(inplace=True)
+      (conv2): Conv2d(512, 512, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+      (bn2): BatchNorm2d(512, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+      (conv3): Conv2d(256, 512, kernel_size=(1, 1), stride=(2, 2), bias=False)
+      (bn3): BatchNorm2d(512, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    )
+    (1): ResidualBlock(
+      (conv1): Conv2d(512, 512, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+      (bn1): BatchNorm2d(512, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+      (relu): ReLU(inplace=True)
+      (conv2): Conv2d(512, 512, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+      (bn2): BatchNorm2d(512, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+      (conv3): Conv2d(512, 512, kernel_size=(1, 1), stride=(1, 1), bias=False)
+      (bn3): BatchNorm2d(512, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    )
+  )
+  (fc): Linear(in_features=512, out_features=10, bias=True)
+)>
+
+
+
+
+co0.weight
+w 的统计特性: min= tensor(-0.4141, device='cuda:0') ; max= tensor(0.4219, device='cuda:0') ; mean= tensor(0.0006, device='cuda:0')
+ba0.weight
+w 的统计特性: min= tensor(0.0234, device='cuda:0') ; max= tensor(0.2969, device='cuda:0') ; mean= tensor(0.1425, device='cuda:0')
+ba0.bias
+w 的统计特性: min= tensor(-0.1250, device='cuda:0') ; max= tensor(0.3203, device='cuda:0') ; mean= tensor(0.0552, device='cuda:0')
+ba0.running_mean
+w 的统计特性: min= tensor(-0.1557, device='cuda:0') ; max= tensor(0.1760, device='cuda:0') ; mean= tensor(-0.0039, device='cuda:0')
+ba0.running_var
+w 的统计特性: min= tensor(0.0173, device='cuda:0') ; max= tensor(1.2571, device='cuda:0') ; mean= tensor(0.2284, device='cuda:0')
+ba0.num_batches_tracked
+w 的统计特性: min= tensor(54285., device='cuda:0') ; max= tensor(54285., device='cuda:0') ; mean= tensor(54285., device='cuda:0')
+layer1.0.conv1.weight
+w 的统计特性: min= tensor(-0.1328, device='cuda:0') ; max= tensor(0.1484, device='cuda:0') ; mean= tensor(-0.0014, device='cuda:0')
+layer1.0.bn1.weight
+w 的统计特性: min= tensor(0.0781, device='cuda:0') ; max= tensor(0.2266, device='cuda:0') ; mean= tensor(0.1334, device='cuda:0')
+layer1.0.bn1.bias
+w 的统计特性: min= tensor(-0.1406, device='cuda:0') ; max= tensor(0.1797, device='cuda:0') ; mean= tensor(-0.0020, device='cuda:0')
+layer1.0.bn1.running_mean
+w 的统计特性: min= tensor(-0.2764, device='cuda:0') ; max= tensor(0.2846, device='cuda:0') ; mean= tensor(-0.0819, device='cuda:0')
+layer1.0.bn1.running_var
+w 的统计特性: min= tensor(0.0049, device='cuda:0') ; max= tensor(0.0454, device='cuda:0') ; mean= tensor(0.0128, device='cuda:0')
+layer1.0.bn1.num_batches_tracked
+w 的统计特性: min= tensor(54285., device='cuda:0') ; max= tensor(54285., device='cuda:0') ; mean= tensor(54285., device='cuda:0')
+layer1.0.conv2.weight
+w 的统计特性: min= tensor(-0.1875, device='cuda:0') ; max= tensor(0.1328, device='cuda:0') ; mean= tensor(-0.0013, device='cuda:0')
+layer1.0.bn2.weight
+w 的统计特性: min= tensor(0.0547, device='cuda:0') ; max= tensor(0.3750, device='cuda:0') ; mean= tensor(0.1610, device='cuda:0')
+layer1.0.bn2.bias
+w 的统计特性: min= tensor(-0.1094, device='cuda:0') ; max= tensor(0.1250, device='cuda:0') ; mean= tensor(0.0013, device='cuda:0')
+layer1.0.bn2.running_mean
+w 的统计特性: min= tensor(-0.1322, device='cuda:0') ; max= tensor(0.1470, device='cuda:0') ; mean= tensor(-0.0366, device='cuda:0')
+layer1.0.bn2.running_var
+w 的统计特性: min= tensor(0.0013, device='cuda:0') ; max= tensor(0.0218, device='cuda:0') ; mean= tensor(0.0078, device='cuda:0')
+layer1.0.bn2.num_batches_tracked
+w 的统计特性: min= tensor(54285., device='cuda:0') ; max= tensor(54285., device='cuda:0') ; mean= tensor(54285., device='cuda:0')
+layer1.0.conv3.weight
+w 的统计特性: min= tensor(-0.2109, device='cuda:0') ; max= tensor(0.1719, device='cuda:0') ; mean= tensor(-0.0022, device='cuda:0')
+layer1.0.bn3.weight
+w 的统计特性: min= tensor(0.0234, device='cuda:0') ; max= tensor(0.2109, device='cuda:0') ; mean= tensor(0.1168, device='cuda:0')
+layer1.0.bn3.bias
+w 的统计特性: min= tensor(-0.1094, device='cuda:0') ; max= tensor(0.1250, device='cuda:0') ; mean= tensor(0.0013, device='cuda:0')
+layer1.0.bn3.running_mean
+w 的统计特性: min= tensor(-0.1206, device='cuda:0') ; max= tensor(0.1387, device='cuda:0') ; mean= tensor(-0.0177, device='cuda:0')
+layer1.0.bn3.running_var
+w 的统计特性: min= tensor(0.0004, device='cuda:0') ; max= tensor(0.0117, device='cuda:0') ; mean= tensor(0.0028, device='cuda:0')
+layer1.0.bn3.num_batches_tracked
+w 的统计特性: min= tensor(54285., device='cuda:0') ; max= tensor(54285., device='cuda:0') ; mean= tensor(54285., device='cuda:0')
+layer1.1.conv1.weight
+w 的统计特性: min= tensor(-0.1250, device='cuda:0') ; max= tensor(0.1641, device='cuda:0') ; mean= tensor(-0.0025, device='cuda:0')
+layer1.1.bn1.weight
+w 的统计特性: min= tensor(0.0938, device='cuda:0') ; max= tensor(0.2422, device='cuda:0') ; mean= tensor(0.1578, device='cuda:0')
+layer1.1.bn1.bias
+w 的统计特性: min= tensor(-0.1641, device='cuda:0') ; max= tensor(0.0156, device='cuda:0') ; mean= tensor(-0.0511, device='cuda:0')
+layer1.1.bn1.running_mean
+w 的统计特性: min= tensor(-0.2916, device='cuda:0') ; max= tensor(0.1274, device='cuda:0') ; mean= tensor(-0.1296, device='cuda:0')
+layer1.1.bn1.running_var
+w 的统计特性: min= tensor(0.0115, device='cuda:0') ; max= tensor(0.1022, device='cuda:0') ; mean= tensor(0.0356, device='cuda:0')
+layer1.1.bn1.num_batches_tracked
+w 的统计特性: min= tensor(54285., device='cuda:0') ; max= tensor(54285., device='cuda:0') ; mean= tensor(54285., device='cuda:0')
+layer1.1.conv2.weight
+w 的统计特性: min= tensor(-0.1094, device='cuda:0') ; max= tensor(0.1250, device='cuda:0') ; mean= tensor(-0.0016, device='cuda:0')
+layer1.1.bn2.weight
+w 的统计特性: min= tensor(0.0625, device='cuda:0') ; max= tensor(0.3281, device='cuda:0') ; mean= tensor(0.1641, device='cuda:0')
+layer1.1.bn2.bias
+w 的统计特性: min= tensor(-0.0781, device='cuda:0') ; max= tensor(0.0625, device='cuda:0') ; mean= tensor(-0.0111, device='cuda:0')
+layer1.1.bn2.running_mean
+w 的统计特性: min= tensor(-0.1274, device='cuda:0') ; max= tensor(0.0892, device='cuda:0') ; mean= tensor(-0.0315, device='cuda:0')
+layer1.1.bn2.running_var
+w 的统计特性: min= tensor(0.0012, device='cuda:0') ; max= tensor(0.0224, device='cuda:0') ; mean= tensor(0.0053, device='cuda:0')
+layer1.1.bn2.num_batches_tracked
+w 的统计特性: min= tensor(54285., device='cuda:0') ; max= tensor(54285., device='cuda:0') ; mean= tensor(54285., device='cuda:0')
+layer1.1.conv3.weight
+w 的统计特性: min= tensor(-0.1797, device='cuda:0') ; max= tensor(0.2422, device='cuda:0') ; mean= tensor(-0.0029, device='cuda:0')
+layer1.1.bn3.weight
+w 的统计特性: min= tensor(0.0312, device='cuda:0') ; max= tensor(0.2422, device='cuda:0') ; mean= tensor(0.1454, device='cuda:0')
+layer1.1.bn3.bias
+w 的统计特性: min= tensor(-0.0781, device='cuda:0') ; max= tensor(0.0625, device='cuda:0') ; mean= tensor(-0.0111, device='cuda:0')
+layer1.1.bn3.running_mean
+w 的统计特性: min= tensor(-0.1440, device='cuda:0') ; max= tensor(0.1305, device='cuda:0') ; mean= tensor(-0.0201, device='cuda:0')
+layer1.1.bn3.running_var
+w 的统计特性: min= tensor(0.0009, device='cuda:0') ; max= tensor(0.0096, device='cuda:0') ; mean= tensor(0.0047, device='cuda:0')
+layer1.1.bn3.num_batches_tracked
+w 的统计特性: min= tensor(54285., device='cuda:0') ; max= tensor(54285., device='cuda:0') ; mean= tensor(54285., device='cuda:0')
+layer2.0.conv1.weight
+w 的统计特性: min= tensor(-0.0859, device='cuda:0') ; max= tensor(0.1172, device='cuda:0') ; mean= tensor(-0.0012, device='cuda:0')
+layer2.0.bn1.weight
+w 的统计特性: min= tensor(0.1016, device='cuda:0') ; max= tensor(0.1797, device='cuda:0') ; mean= tensor(0.1440, device='cuda:0')
+layer2.0.bn1.bias
+w 的统计特性: min= tensor(-0.1094, device='cuda:0') ; max= tensor(0.0547, device='cuda:0') ; mean= tensor(-0.0263, device='cuda:0')
+layer2.0.bn1.running_mean
+w 的统计特性: min= tensor(-0.2490, device='cuda:0') ; max= tensor(0.1097, device='cuda:0') ; mean= tensor(-0.0683, device='cuda:0')
+layer2.0.bn1.running_var
+w 的统计特性: min= tensor(0.0100, device='cuda:0') ; max= tensor(0.0384, device='cuda:0') ; mean= tensor(0.0208, device='cuda:0')
+layer2.0.bn1.num_batches_tracked
+w 的统计特性: min= tensor(54285., device='cuda:0') ; max= tensor(54285., device='cuda:0') ; mean= tensor(54285., device='cuda:0')
+layer2.0.conv2.weight
+w 的统计特性: min= tensor(-0.0781, device='cuda:0') ; max= tensor(0.0859, device='cuda:0') ; mean= tensor(-0.0012, device='cuda:0')
+layer2.0.bn2.weight
+w 的统计特性: min= tensor(0.0781, device='cuda:0') ; max= tensor(0.2578, device='cuda:0') ; mean= tensor(0.1660, device='cuda:0')
+layer2.0.bn2.bias
+w 的统计特性: min= tensor(-0.0781, device='cuda:0') ; max= tensor(0.0156, device='cuda:0') ; mean= tensor(-0.0297, device='cuda:0')
+layer2.0.bn2.running_mean
+w 的统计特性: min= tensor(-0.2432, device='cuda:0') ; max= tensor(0.1201, device='cuda:0') ; mean= tensor(-0.0616, device='cuda:0')
+layer2.0.bn2.running_var
+w 的统计特性: min= tensor(0.0039, device='cuda:0') ; max= tensor(0.0207, device='cuda:0') ; mean= tensor(0.0090, device='cuda:0')
+layer2.0.bn2.num_batches_tracked
+w 的统计特性: min= tensor(54285., device='cuda:0') ; max= tensor(54285., device='cuda:0') ; mean= tensor(54285., device='cuda:0')
+layer2.0.conv3.weight
+w 的统计特性: min= tensor(-0.1016, device='cuda:0') ; max= tensor(0.1797, device='cuda:0') ; mean= tensor(-0.0022, device='cuda:0')
+layer2.0.bn3.weight
+w 的统计特性: min= tensor(0.0469, device='cuda:0') ; max= tensor(0.1562, device='cuda:0') ; mean= tensor(0.0983, device='cuda:0')
+layer2.0.bn3.bias
+w 的统计特性: min= tensor(-0.0781, device='cuda:0') ; max= tensor(0.0156, device='cuda:0') ; mean= tensor(-0.0297, device='cuda:0')
+layer2.0.bn3.running_mean
+w 的统计特性: min= tensor(-0.0752, device='cuda:0') ; max= tensor(0.0566, device='cuda:0') ; mean= tensor(-0.0133, device='cuda:0')
+layer2.0.bn3.running_var
+w 的统计特性: min= tensor(0.0012, device='cuda:0') ; max= tensor(0.0067, device='cuda:0') ; mean= tensor(0.0028, device='cuda:0')
+layer2.0.bn3.num_batches_tracked
+w 的统计特性: min= tensor(54285., device='cuda:0') ; max= tensor(54285., device='cuda:0') ; mean= tensor(54285., device='cuda:0')
+layer2.1.conv1.weight
+w 的统计特性: min= tensor(-0.0781, device='cuda:0') ; max= tensor(0.1016, device='cuda:0') ; mean= tensor(-0.0019, device='cuda:0')
+layer2.1.bn1.weight
+w 的统计特性: min= tensor(0.1094, device='cuda:0') ; max= tensor(0.2109, device='cuda:0') ; mean= tensor(0.1581, device='cuda:0')
+layer2.1.bn1.bias
+w 的统计特性: min= tensor(-0.1797, device='cuda:0') ; max= tensor(-0.0312, device='cuda:0') ; mean= tensor(-0.0931, device='cuda:0')
+layer2.1.bn1.running_mean
+w 的统计特性: min= tensor(-0.3575, device='cuda:0') ; max= tensor(0.1070, device='cuda:0') ; mean= tensor(-0.1289, device='cuda:0')
+layer2.1.bn1.running_var
+w 的统计特性: min= tensor(0.0095, device='cuda:0') ; max= tensor(0.0372, device='cuda:0') ; mean= tensor(0.0196, device='cuda:0')
+layer2.1.bn1.num_batches_tracked
+w 的统计特性: min= tensor(54285., device='cuda:0') ; max= tensor(54285., device='cuda:0') ; mean= tensor(54285., device='cuda:0')
+layer2.1.conv2.weight
+w 的统计特性: min= tensor(-0.0703, device='cuda:0') ; max= tensor(0.0859, device='cuda:0') ; mean= tensor(-0.0013, device='cuda:0')
+layer2.1.bn2.weight
+w 的统计特性: min= tensor(0.0625, device='cuda:0') ; max= tensor(0.2109, device='cuda:0') ; mean= tensor(0.1551, device='cuda:0')
+layer2.1.bn2.bias
+w 的统计特性: min= tensor(-0.1094, device='cuda:0') ; max= tensor(0.0078, device='cuda:0') ; mean= tensor(-0.0435, device='cuda:0')
+layer2.1.bn2.running_mean
+w 的统计特性: min= tensor(-0.1459, device='cuda:0') ; max= tensor(0.0592, device='cuda:0') ; mean= tensor(-0.0379, device='cuda:0')
+layer2.1.bn2.running_var
+w 的统计特性: min= tensor(0.0020, device='cuda:0') ; max= tensor(0.0064, device='cuda:0') ; mean= tensor(0.0038, device='cuda:0')
+layer2.1.bn2.num_batches_tracked
+w 的统计特性: min= tensor(54285., device='cuda:0') ; max= tensor(54285., device='cuda:0') ; mean= tensor(54285., device='cuda:0')
+layer2.1.conv3.weight
+w 的统计特性: min= tensor(-0.1406, device='cuda:0') ; max= tensor(0.1875, device='cuda:0') ; mean= tensor(-0.0023, device='cuda:0')
+layer2.1.bn3.weight
+w 的统计特性: min= tensor(0.0703, device='cuda:0') ; max= tensor(0.2578, device='cuda:0') ; mean= tensor(0.1285, device='cuda:0')
+layer2.1.bn3.bias
+w 的统计特性: min= tensor(-0.1094, device='cuda:0') ; max= tensor(0.0078, device='cuda:0') ; mean= tensor(-0.0435, device='cuda:0')
+layer2.1.bn3.running_mean
+w 的统计特性: min= tensor(-0.1006, device='cuda:0') ; max= tensor(0.1015, device='cuda:0') ; mean= tensor(-0.0188, device='cuda:0')
+layer2.1.bn3.running_var
+w 的统计特性: min= tensor(0.0014, device='cuda:0') ; max= tensor(0.0086, device='cuda:0') ; mean= tensor(0.0029, device='cuda:0')
+layer2.1.bn3.num_batches_tracked
+w 的统计特性: min= tensor(54285., device='cuda:0') ; max= tensor(54285., device='cuda:0') ; mean= tensor(54285., device='cuda:0')
+layer3.0.conv1.weight
+w 的统计特性: min= tensor(-0.0625, device='cuda:0') ; max= tensor(0.0781, device='cuda:0') ; mean= tensor(-0.0011, device='cuda:0')
+layer3.0.bn1.weight
+w 的统计特性: min= tensor(0.1016, device='cuda:0') ; max= tensor(0.1875, device='cuda:0') ; mean= tensor(0.1370, device='cuda:0')
+layer3.0.bn1.bias
+w 的统计特性: min= tensor(-0.1797, device='cuda:0') ; max= tensor(0., device='cuda:0') ; mean= tensor(-0.0650, device='cuda:0')
+layer3.0.bn1.running_mean
+w 的统计特性: min= tensor(-0.2309, device='cuda:0') ; max= tensor(0.0617, device='cuda:0') ; mean= tensor(-0.0773, device='cuda:0')
+layer3.0.bn1.running_var
+w 的统计特性: min= tensor(0.0091, device='cuda:0') ; max= tensor(0.0314, device='cuda:0') ; mean= tensor(0.0158, device='cuda:0')
+layer3.0.bn1.num_batches_tracked
+w 的统计特性: min= tensor(54285., device='cuda:0') ; max= tensor(54285., device='cuda:0') ; mean= tensor(54285., device='cuda:0')
+layer3.0.conv2.weight
+w 的统计特性: min= tensor(-0.0547, device='cuda:0') ; max= tensor(0.0781, device='cuda:0') ; mean= tensor(-0.0009, device='cuda:0')
+layer3.0.bn2.weight
+w 的统计特性: min= tensor(0.1094, device='cuda:0') ; max= tensor(0.2109, device='cuda:0') ; mean= tensor(0.1655, device='cuda:0')
+layer3.0.bn2.bias
+w 的统计特性: min= tensor(-0.1406, device='cuda:0') ; max= tensor(-0.0156, device='cuda:0') ; mean= tensor(-0.0621, device='cuda:0')
+layer3.0.bn2.running_mean
+w 的统计特性: min= tensor(-0.1450, device='cuda:0') ; max= tensor(0.0709, device='cuda:0') ; mean= tensor(-0.0502, device='cuda:0')
+layer3.0.bn2.running_var
+w 的统计特性: min= tensor(0.0039, device='cuda:0') ; max= tensor(0.0097, device='cuda:0') ; mean= tensor(0.0063, device='cuda:0')
+layer3.0.bn2.num_batches_tracked
+w 的统计特性: min= tensor(54285., device='cuda:0') ; max= tensor(54285., device='cuda:0') ; mean= tensor(54285., device='cuda:0')
+layer3.0.conv3.weight
+w 的统计特性: min= tensor(-0.0781, device='cuda:0') ; max= tensor(0.1172, device='cuda:0') ; mean= tensor(-0.0023, device='cuda:0')
+layer3.0.bn3.weight
+w 的统计特性: min= tensor(0.0312, device='cuda:0') ; max= tensor(0.1406, device='cuda:0') ; mean= tensor(0.0742, device='cuda:0')
+layer3.0.bn3.bias
+w 的统计特性: min= tensor(-0.1406, device='cuda:0') ; max= tensor(-0.0156, device='cuda:0') ; mean= tensor(-0.0621, device='cuda:0')
+layer3.0.bn3.running_mean
+w 的统计特性: min= tensor(-0.0648, device='cuda:0') ; max= tensor(0.0304, device='cuda:0') ; mean= tensor(-0.0181, device='cuda:0')
+layer3.0.bn3.running_var
+w 的统计特性: min= tensor(0.0006, device='cuda:0') ; max= tensor(0.0039, device='cuda:0') ; mean= tensor(0.0018, device='cuda:0')
+layer3.0.bn3.num_batches_tracked
+w 的统计特性: min= tensor(54285., device='cuda:0') ; max= tensor(54285., device='cuda:0') ; mean= tensor(54285., device='cuda:0')
+layer3.1.conv1.weight
+w 的统计特性: min= tensor(-0.0625, device='cuda:0') ; max= tensor(0.0859, device='cuda:0') ; mean= tensor(-0.0015, device='cuda:0')
+layer3.1.bn1.weight
+w 的统计特性: min= tensor(0.1094, device='cuda:0') ; max= tensor(0.1953, device='cuda:0') ; mean= tensor(0.1506, device='cuda:0')
+layer3.1.bn1.bias
+w 的统计特性: min= tensor(-0.2109, device='cuda:0') ; max= tensor(-0.0469, device='cuda:0') ; mean= tensor(-0.1204, device='cuda:0')
+layer3.1.bn1.running_mean
+w 的统计特性: min= tensor(-0.2038, device='cuda:0') ; max= tensor(0.0544, device='cuda:0') ; mean= tensor(-0.0966, device='cuda:0')
+layer3.1.bn1.running_var
+w 的统计特性: min= tensor(0.0069, device='cuda:0') ; max= tensor(0.0158, device='cuda:0') ; mean= tensor(0.0099, device='cuda:0')
+layer3.1.bn1.num_batches_tracked
+w 的统计特性: min= tensor(54285., device='cuda:0') ; max= tensor(54285., device='cuda:0') ; mean= tensor(54285., device='cuda:0')
+layer3.1.conv2.weight
+w 的统计特性: min= tensor(-0.0469, device='cuda:0') ; max= tensor(0.0703, device='cuda:0') ; mean= tensor(-0.0010, device='cuda:0')
+layer3.1.bn2.weight
+w 的统计特性: min= tensor(0.0703, device='cuda:0') ; max= tensor(0.2188, device='cuda:0') ; mean= tensor(0.1389, device='cuda:0')
+layer3.1.bn2.bias
+w 的统计特性: min= tensor(-0.1406, device='cuda:0') ; max= tensor(0.0078, device='cuda:0') ; mean= tensor(-0.0677, device='cuda:0')
+layer3.1.bn2.running_mean
+w 的统计特性: min= tensor(-0.0972, device='cuda:0') ; max= tensor(0.0543, device='cuda:0') ; mean= tensor(-0.0354, device='cuda:0')
+layer3.1.bn2.running_var
+w 的统计特性: min= tensor(0.0008, device='cuda:0') ; max= tensor(0.0033, device='cuda:0') ; mean= tensor(0.0018, device='cuda:0')
+layer3.1.bn2.num_batches_tracked
+w 的统计特性: min= tensor(54285., device='cuda:0') ; max= tensor(54285., device='cuda:0') ; mean= tensor(54285., device='cuda:0')
+layer3.1.conv3.weight
+w 的统计特性: min= tensor(-0.0703, device='cuda:0') ; max= tensor(0.0859, device='cuda:0') ; mean= tensor(-0.0018, device='cuda:0')
+layer3.1.bn3.weight
+w 的统计特性: min= tensor(0.0156, device='cuda:0') ; max= tensor(0.1250, device='cuda:0') ; mean= tensor(0.0662, device='cuda:0')
+layer3.1.bn3.bias
+w 的统计特性: min= tensor(-0.1406, device='cuda:0') ; max= tensor(0.0078, device='cuda:0') ; mean= tensor(-0.0677, device='cuda:0')
+layer3.1.bn3.running_mean
+w 的统计特性: min= tensor(-0.0462, device='cuda:0') ; max= tensor(0.0407, device='cuda:0') ; mean= tensor(-0.0145, device='cuda:0')
+layer3.1.bn3.running_var
+w 的统计特性: min= tensor(0.0002, device='cuda:0') ; max= tensor(0.0023, device='cuda:0') ; mean= tensor(0.0008, device='cuda:0')
+layer3.1.bn3.num_batches_tracked
+w 的统计特性: min= tensor(54285., device='cuda:0') ; max= tensor(54285., device='cuda:0') ; mean= tensor(54285., device='cuda:0')
+layer4.0.conv1.weight
+w 的统计特性: min= tensor(-0.0312, device='cuda:0') ; max= tensor(0.0469, device='cuda:0') ; mean= tensor(-0.0005, device='cuda:0')
+layer4.0.bn1.weight
+w 的统计特性: min= tensor(0.0469, device='cuda:0') ; max= tensor(0.1250, device='cuda:0') ; mean= tensor(0.0785, device='cuda:0')
+layer4.0.bn1.bias
+w 的统计特性: min= tensor(-0.1016, device='cuda:0') ; max= tensor(0.0078, device='cuda:0') ; mean= tensor(-0.0443, device='cuda:0')
+layer4.0.bn1.running_mean
+w 的统计特性: min= tensor(-0.0877, device='cuda:0') ; max= tensor(0.1112, device='cuda:0') ; mean= tensor(-0.0313, device='cuda:0')
+layer4.0.bn1.running_var
+w 的统计特性: min= tensor(0.0008, device='cuda:0') ; max= tensor(0.0048, device='cuda:0') ; mean= tensor(0.0019, device='cuda:0')
+layer4.0.bn1.num_batches_tracked
+w 的统计特性: min= tensor(54285., device='cuda:0') ; max= tensor(54285., device='cuda:0') ; mean= tensor(54285., device='cuda:0')
+layer4.0.conv2.weight
+w 的统计特性: min= tensor(-0.0234, device='cuda:0') ; max= tensor(0.0312, device='cuda:0') ; mean= tensor(-0.0003, device='cuda:0')
+layer4.0.bn2.weight
+w 的统计特性: min= tensor(0.0391, device='cuda:0') ; max= tensor(0.1406, device='cuda:0') ; mean= tensor(0.0838, device='cuda:0')
+layer4.0.bn2.bias
+w 的统计特性: min= tensor(-0.0859, device='cuda:0') ; max= tensor(0.0078, device='cuda:0') ; mean= tensor(-0.0298, device='cuda:0')
+layer4.0.bn2.running_mean
+w 的统计特性: min= tensor(-0.0659, device='cuda:0') ; max= tensor(0.0286, device='cuda:0') ; mean= tensor(-0.0147, device='cuda:0')
+layer4.0.bn2.running_var
+w 的统计特性: min= tensor(0.0001, device='cuda:0') ; max= tensor(0.0030, device='cuda:0') ; mean= tensor(0.0007, device='cuda:0')
+layer4.0.bn2.num_batches_tracked
+w 的统计特性: min= tensor(54285., device='cuda:0') ; max= tensor(54285., device='cuda:0') ; mean= tensor(54285., device='cuda:0')
+layer4.0.conv3.weight
+w 的统计特性: min= tensor(-0.0469, device='cuda:0') ; max= tensor(0.0547, device='cuda:0') ; mean= tensor(-0.0009, device='cuda:0')
+layer4.0.bn3.weight
+w 的统计特性: min= tensor(0.0078, device='cuda:0') ; max= tensor(0.0781, device='cuda:0') ; mean= tensor(0.0346, device='cuda:0')
+layer4.0.bn3.bias
+w 的统计特性: min= tensor(-0.0859, device='cuda:0') ; max= tensor(0.0078, device='cuda:0') ; mean= tensor(-0.0298, device='cuda:0')
+layer4.0.bn3.running_mean
+w 的统计特性: min= tensor(-0.0211, device='cuda:0') ; max= tensor(0.0132, device='cuda:0') ; mean= tensor(-0.0082, device='cuda:0')
+layer4.0.bn3.running_var
+w 的统计特性: min= tensor(6.0140e-05, device='cuda:0') ; max= tensor(0.0005, device='cuda:0') ; mean= tensor(0.0002, device='cuda:0')
+layer4.0.bn3.num_batches_tracked
+w 的统计特性: min= tensor(54285., device='cuda:0') ; max= tensor(54285., device='cuda:0') ; mean= tensor(54285., device='cuda:0')
+layer4.1.conv1.weight
+w 的统计特性: min= tensor(-0.0234, device='cuda:0') ; max= tensor(0.0234, device='cuda:0') ; mean= tensor(-0.0002, device='cuda:0')
+layer4.1.bn1.weight
+w 的统计特性: min= tensor(0.0312, device='cuda:0') ; max= tensor(0.1250, device='cuda:0') ; mean= tensor(0.0606, device='cuda:0')
+layer4.1.bn1.bias
+w 的统计特性: min= tensor(-0.0938, device='cuda:0') ; max= tensor(0., device='cuda:0') ; mean= tensor(-0.0304, device='cuda:0')
+layer4.1.bn1.running_mean
+w 的统计特性: min= tensor(-0.0590, device='cuda:0') ; max= tensor(0.0206, device='cuda:0') ; mean= tensor(-0.0169, device='cuda:0')
+layer4.1.bn1.running_var
+w 的统计特性: min= tensor(6.9069e-07, device='cuda:0') ; max= tensor(0.0033, device='cuda:0') ; mean= tensor(0.0005, device='cuda:0')
+layer4.1.bn1.num_batches_tracked
+w 的统计特性: min= tensor(54285., device='cuda:0') ; max= tensor(54285., device='cuda:0') ; mean= tensor(54285., device='cuda:0')
+layer4.1.conv2.weight
+w 的统计特性: min= tensor(-0.0078, device='cuda:0') ; max= tensor(0.0156, device='cuda:0') ; mean= tensor(7.2612e-05, device='cuda:0')
+layer4.1.bn2.weight
+w 的统计特性: min= tensor(0.1250, device='cuda:0') ; max= tensor(0.3203, device='cuda:0') ; mean= tensor(0.1947, device='cuda:0')
+layer4.1.bn2.bias
+w 的统计特性: min= tensor(0.0312, device='cuda:0') ; max= tensor(0.0781, device='cuda:0') ; mean= tensor(0.0491, device='cuda:0')
+layer4.1.bn2.running_mean
+w 的统计特性: min= tensor(-0.0010, device='cuda:0') ; max= tensor(0.0103, device='cuda:0') ; mean= tensor(0.0025, device='cuda:0')
+layer4.1.bn2.running_var
+w 的统计特性: min= tensor(6.9558e-07, device='cuda:0') ; max= tensor(0.0004, device='cuda:0') ; mean= tensor(2.0297e-05, device='cuda:0')
+layer4.1.bn2.num_batches_tracked
+w 的统计特性: min= tensor(54285., device='cuda:0') ; max= tensor(54285., device='cuda:0') ; mean= tensor(54285., device='cuda:0')
+layer4.1.conv3.weight
+w 的统计特性: min= tensor(-0.0156, device='cuda:0') ; max= tensor(0.0234, device='cuda:0') ; mean= tensor(4.5210e-05, device='cuda:0')
+layer4.1.bn3.weight
+w 的统计特性: min= tensor(0.0859, device='cuda:0') ; max= tensor(0.2500, device='cuda:0') ; mean= tensor(0.1395, device='cuda:0')
+layer4.1.bn3.bias
+w 的统计特性: min= tensor(0.0312, device='cuda:0') ; max= tensor(0.0781, device='cuda:0') ; mean= tensor(0.0491, device='cuda:0')
+layer4.1.bn3.running_mean
+w 的统计特性: min= tensor(-0.0060, device='cuda:0') ; max= tensor(0.0058, device='cuda:0') ; mean= tensor(-0.0002, device='cuda:0')
+layer4.1.bn3.running_var
+w 的统计特性: min= tensor(1.1300e-05, device='cuda:0') ; max= tensor(0.0002, device='cuda:0') ; mean= tensor(4.9448e-05, device='cuda:0')
+layer4.1.bn3.num_batches_tracked
+w 的统计特性: min= tensor(54285., device='cuda:0') ; max= tensor(54285., device='cuda:0') ; mean= tensor(54285., device='cuda:0')
+fc.weight
+w 的统计特性: min= tensor(-0.0938, device='cuda:0') ; max= tensor(0.3984, device='cuda:0') ; mean= tensor(-1.0681e-05, device='cuda:0')
+fc.bias
+w 的统计特性: min= tensor(-0.0234, device='cuda:0') ; max= tensor(0.0312, device='cuda:0') ; mean= tensor(0., device='cuda:0')

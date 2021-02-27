@@ -1,0 +1,2622 @@
+Loop 1================================
+8.0 8.0 8.0 8.0 8.0 8.0 8.0 8.0 8.0 8.0 8.0 8.0 8.0 8.0 8.0 8.0 7.0 
+Evaluation accuracy before quantization and fusion:tensor(92.9900, device='cuda:0')
+8.0 8.0 8.0 8.0 8.0 8.0 8.0 8.0 8.0 8.0 8.0 8.0 8.0 8.0 8.0 7.0 8.0 
+Evaluation accuracy before quantization and fusion:tensor(92.9900, device='cuda:0')
+8.0 8.0 8.0 8.0 8.0 8.0 8.0 8.0 8.0 8.0 8.0 8.0 8.0 8.0 7.0 8.0 8.0 
+Evaluation accuracy before quantization and fusion:tensor(92.9900, device='cuda:0')
+8.0 8.0 8.0 8.0 8.0 8.0 8.0 8.0 8.0 8.0 8.0 8.0 8.0 7.0 8.0 8.0 8.0 
+Evaluation accuracy before quantization and fusion:tensor(93.0100, device='cuda:0')
+8.0 8.0 8.0 8.0 8.0 8.0 8.0 8.0 8.0 8.0 8.0 8.0 7.0 8.0 8.0 8.0 8.0 
+Evaluation accuracy before quantization and fusion:tensor(93., device='cuda:0')
+8.0 8.0 8.0 8.0 8.0 8.0 8.0 8.0 8.0 8.0 8.0 7.0 8.0 8.0 8.0 8.0 8.0 
+Evaluation accuracy before quantization and fusion:tensor(93.0100, device='cuda:0')
+8.0 8.0 8.0 8.0 8.0 8.0 8.0 8.0 8.0 8.0 7.0 8.0 8.0 8.0 8.0 8.0 8.0 
+Evaluation accuracy before quantization and fusion:tensor(93.0300, device='cuda:0')
+8.0 8.0 8.0 8.0 8.0 8.0 8.0 8.0 8.0 7.0 8.0 8.0 8.0 8.0 8.0 8.0 8.0 
+Evaluation accuracy before quantization and fusion:tensor(93., device='cuda:0')
+8.0 8.0 8.0 8.0 8.0 8.0 8.0 8.0 7.0 8.0 8.0 8.0 8.0 8.0 8.0 8.0 8.0 
+Evaluation accuracy before quantization and fusion:tensor(93.0200, device='cuda:0')
+8.0 8.0 8.0 8.0 8.0 8.0 8.0 7.0 8.0 8.0 8.0 8.0 8.0 8.0 8.0 8.0 8.0 
+Evaluation accuracy before quantization and fusion:tensor(93.0300, device='cuda:0')
+8.0 8.0 8.0 8.0 8.0 8.0 7.0 8.0 8.0 8.0 8.0 8.0 8.0 8.0 8.0 8.0 8.0 
+Evaluation accuracy before quantization and fusion:tensor(93.0400, device='cuda:0')
+8.0 8.0 8.0 8.0 8.0 7.0 8.0 8.0 8.0 8.0 8.0 8.0 8.0 8.0 8.0 8.0 8.0 
+Evaluation accuracy before quantization and fusion:tensor(93.0500, device='cuda:0')
+8.0 8.0 8.0 8.0 7.0 8.0 8.0 8.0 8.0 8.0 8.0 8.0 8.0 8.0 8.0 8.0 8.0 
+Evaluation accuracy before quantization and fusion:tensor(93.0300, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 8.0 8.0 8.0 8.0 8.0 8.0 8.0 8.0 8.0 8.0 8.0 8.0 
+Evaluation accuracy before quantization and fusion:tensor(93.0400, device='cuda:0')
+8.0 8.0 7.0 8.0 8.0 8.0 8.0 8.0 8.0 8.0 8.0 8.0 8.0 8.0 8.0 8.0 8.0 
+Evaluation accuracy before quantization and fusion:tensor(92.9600, device='cuda:0')
+8.0 7.0 8.0 8.0 8.0 8.0 8.0 8.0 8.0 8.0 8.0 8.0 8.0 8.0 8.0 8.0 8.0 
+Evaluation accuracy before quantization and fusion:tensor(92.9800, device='cuda:0')
+7.0 8.0 8.0 8.0 8.0 8.0 8.0 8.0 8.0 8.0 8.0 8.0 8.0 8.0 8.0 8.0 8.0 
+Evaluation accuracy before quantization and fusion:tensor(93.0200, device='cuda:0')
+
+loop max_ii = 5 max_top1 = tensor(93.0500, device='cuda:0')
+time = 1.1225195288658143
+Loop 2================================
+8.0 8.0 8.0 8.0 8.0 7.0 8.0 8.0 8.0 8.0 8.0 8.0 8.0 8.0 8.0 8.0 7.0 
+Evaluation accuracy before quantization and fusion:tensor(93.0500, device='cuda:0')
+8.0 8.0 8.0 8.0 8.0 7.0 8.0 8.0 8.0 8.0 8.0 8.0 8.0 8.0 8.0 7.0 8.0 
+Evaluation accuracy before quantization and fusion:tensor(93.0500, device='cuda:0')
+8.0 8.0 8.0 8.0 8.0 7.0 8.0 8.0 8.0 8.0 8.0 8.0 8.0 8.0 7.0 8.0 8.0 
+Evaluation accuracy before quantization and fusion:tensor(93.0500, device='cuda:0')
+8.0 8.0 8.0 8.0 8.0 7.0 8.0 8.0 8.0 8.0 8.0 8.0 8.0 7.0 8.0 8.0 8.0 
+Evaluation accuracy before quantization and fusion:tensor(93.0700, device='cuda:0')
+8.0 8.0 8.0 8.0 8.0 7.0 8.0 8.0 8.0 8.0 8.0 8.0 7.0 8.0 8.0 8.0 8.0 
+Evaluation accuracy before quantization and fusion:tensor(93.0500, device='cuda:0')
+8.0 8.0 8.0 8.0 8.0 7.0 8.0 8.0 8.0 8.0 8.0 7.0 8.0 8.0 8.0 8.0 8.0 
+Evaluation accuracy before quantization and fusion:tensor(93.0500, device='cuda:0')
+8.0 8.0 8.0 8.0 8.0 7.0 8.0 8.0 8.0 8.0 7.0 8.0 8.0 8.0 8.0 8.0 8.0 
+Evaluation accuracy before quantization and fusion:tensor(93.0600, device='cuda:0')
+8.0 8.0 8.0 8.0 8.0 7.0 8.0 8.0 8.0 7.0 8.0 8.0 8.0 8.0 8.0 8.0 8.0 
+Evaluation accuracy before quantization and fusion:tensor(93.0700, device='cuda:0')
+8.0 8.0 8.0 8.0 8.0 7.0 8.0 8.0 7.0 8.0 8.0 8.0 8.0 8.0 8.0 8.0 8.0 
+Evaluation accuracy before quantization and fusion:tensor(93.1300, device='cuda:0')
+8.0 8.0 8.0 8.0 8.0 7.0 8.0 7.0 8.0 8.0 8.0 8.0 8.0 8.0 8.0 8.0 8.0 
+Evaluation accuracy before quantization and fusion:tensor(93.1000, device='cuda:0')
+8.0 8.0 8.0 8.0 8.0 7.0 7.0 8.0 8.0 8.0 8.0 8.0 8.0 8.0 8.0 8.0 8.0 
+Evaluation accuracy before quantization and fusion:tensor(93.1500, device='cuda:0')
+8.0 8.0 8.0 8.0 8.0 6.0 8.0 8.0 8.0 8.0 8.0 8.0 8.0 8.0 8.0 8.0 8.0 
+Evaluation accuracy before quantization and fusion:tensor(92.9300, device='cuda:0')
+8.0 8.0 8.0 8.0 7.0 7.0 8.0 8.0 8.0 8.0 8.0 8.0 8.0 8.0 8.0 8.0 8.0 
+Evaluation accuracy before quantization and fusion:tensor(93.0700, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 8.0 8.0 8.0 8.0 8.0 8.0 8.0 8.0 8.0 8.0 8.0 
+Evaluation accuracy before quantization and fusion:tensor(93.1200, device='cuda:0')
+8.0 8.0 7.0 8.0 8.0 7.0 8.0 8.0 8.0 8.0 8.0 8.0 8.0 8.0 8.0 8.0 8.0 
+Evaluation accuracy before quantization and fusion:tensor(93.0500, device='cuda:0')
+8.0 7.0 8.0 8.0 8.0 7.0 8.0 8.0 8.0 8.0 8.0 8.0 8.0 8.0 8.0 8.0 8.0 
+Evaluation accuracy before quantization and fusion:tensor(92.9800, device='cuda:0')
+7.0 8.0 8.0 8.0 8.0 7.0 8.0 8.0 8.0 8.0 8.0 8.0 8.0 8.0 8.0 8.0 8.0 
+Evaluation accuracy before quantization and fusion:tensor(93.0500, device='cuda:0')
+
+loop max_ii = 6 max_top1 = tensor(93.1500, device='cuda:0')
+time = 2.2484636108080545
+Loop 3================================
+8.0 8.0 8.0 8.0 8.0 7.0 7.0 8.0 8.0 8.0 8.0 8.0 8.0 8.0 8.0 8.0 7.0 
+Evaluation accuracy before quantization and fusion:tensor(93.1500, device='cuda:0')
+8.0 8.0 8.0 8.0 8.0 7.0 7.0 8.0 8.0 8.0 8.0 8.0 8.0 8.0 8.0 7.0 8.0 
+Evaluation accuracy before quantization and fusion:tensor(93.1500, device='cuda:0')
+8.0 8.0 8.0 8.0 8.0 7.0 7.0 8.0 8.0 8.0 8.0 8.0 8.0 8.0 7.0 8.0 8.0 
+Evaluation accuracy before quantization and fusion:tensor(93.1500, device='cuda:0')
+8.0 8.0 8.0 8.0 8.0 7.0 7.0 8.0 8.0 8.0 8.0 8.0 8.0 7.0 8.0 8.0 8.0 
+Evaluation accuracy before quantization and fusion:tensor(93.1500, device='cuda:0')
+8.0 8.0 8.0 8.0 8.0 7.0 7.0 8.0 8.0 8.0 8.0 8.0 7.0 8.0 8.0 8.0 8.0 
+Evaluation accuracy before quantization and fusion:tensor(93.1300, device='cuda:0')
+8.0 8.0 8.0 8.0 8.0 7.0 7.0 8.0 8.0 8.0 8.0 7.0 8.0 8.0 8.0 8.0 8.0 
+Evaluation accuracy before quantization and fusion:tensor(93.1500, device='cuda:0')
+8.0 8.0 8.0 8.0 8.0 7.0 7.0 8.0 8.0 8.0 7.0 8.0 8.0 8.0 8.0 8.0 8.0 
+Evaluation accuracy before quantization and fusion:tensor(93.1500, device='cuda:0')
+8.0 8.0 8.0 8.0 8.0 7.0 7.0 8.0 8.0 7.0 8.0 8.0 8.0 8.0 8.0 8.0 8.0 
+Evaluation accuracy before quantization and fusion:tensor(93.1200, device='cuda:0')
+8.0 8.0 8.0 8.0 8.0 7.0 7.0 8.0 7.0 8.0 8.0 8.0 8.0 8.0 8.0 8.0 8.0 
+Evaluation accuracy before quantization and fusion:tensor(93.1100, device='cuda:0')
+8.0 8.0 8.0 8.0 8.0 7.0 7.0 7.0 8.0 8.0 8.0 8.0 8.0 8.0 8.0 8.0 8.0 
+Evaluation accuracy before quantization and fusion:tensor(93.1400, device='cuda:0')
+8.0 8.0 8.0 8.0 8.0 7.0 6.0 8.0 8.0 8.0 8.0 8.0 8.0 8.0 8.0 8.0 8.0 
+Evaluation accuracy before quantization and fusion:tensor(93.0700, device='cuda:0')
+8.0 8.0 8.0 8.0 8.0 6.0 7.0 8.0 8.0 8.0 8.0 8.0 8.0 8.0 8.0 8.0 8.0 
+Evaluation accuracy before quantization and fusion:tensor(92.9900, device='cuda:0')
+8.0 8.0 8.0 8.0 7.0 7.0 7.0 8.0 8.0 8.0 8.0 8.0 8.0 8.0 8.0 8.0 8.0 
+Evaluation accuracy before quantization and fusion:tensor(93.0400, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 8.0 8.0 8.0 8.0 8.0 8.0 8.0 8.0 8.0 8.0 
+Evaluation accuracy before quantization and fusion:tensor(93.1800, device='cuda:0')
+8.0 8.0 7.0 8.0 8.0 7.0 7.0 8.0 8.0 8.0 8.0 8.0 8.0 8.0 8.0 8.0 8.0 
+Evaluation accuracy before quantization and fusion:tensor(93.0700, device='cuda:0')
+8.0 7.0 8.0 8.0 8.0 7.0 7.0 8.0 8.0 8.0 8.0 8.0 8.0 8.0 8.0 8.0 8.0 
+Evaluation accuracy before quantization and fusion:tensor(93.0200, device='cuda:0')
+7.0 8.0 8.0 8.0 8.0 7.0 7.0 8.0 8.0 8.0 8.0 8.0 8.0 8.0 8.0 8.0 8.0 
+Evaluation accuracy before quantization and fusion:tensor(93.1200, device='cuda:0')
+
+loop max_ii = 3 max_top1 = tensor(93.1800, device='cuda:0')
+time = 3.37519029378891
+Loop 4================================
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 8.0 8.0 8.0 8.0 8.0 8.0 8.0 8.0 8.0 7.0 
+Evaluation accuracy before quantization and fusion:tensor(93.1800, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 8.0 8.0 8.0 8.0 8.0 8.0 8.0 8.0 7.0 8.0 
+Evaluation accuracy before quantization and fusion:tensor(93.1800, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 8.0 8.0 8.0 8.0 8.0 8.0 8.0 7.0 8.0 8.0 
+Evaluation accuracy before quantization and fusion:tensor(93.1800, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 8.0 8.0 8.0 8.0 8.0 8.0 7.0 8.0 8.0 8.0 
+Evaluation accuracy before quantization and fusion:tensor(93.1400, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 8.0 8.0 8.0 8.0 8.0 7.0 8.0 8.0 8.0 8.0 
+Evaluation accuracy before quantization and fusion:tensor(93.1400, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 8.0 8.0 8.0 8.0 7.0 8.0 8.0 8.0 8.0 8.0 
+Evaluation accuracy before quantization and fusion:tensor(93.1600, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 8.0 8.0 8.0 7.0 8.0 8.0 8.0 8.0 8.0 8.0 
+Evaluation accuracy before quantization and fusion:tensor(93.1500, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 8.0 8.0 7.0 8.0 8.0 8.0 8.0 8.0 8.0 8.0 
+Evaluation accuracy before quantization and fusion:tensor(93.1600, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 8.0 7.0 8.0 8.0 8.0 8.0 8.0 8.0 8.0 8.0 
+Evaluation accuracy before quantization and fusion:tensor(93.1900, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 7.0 8.0 8.0 8.0 8.0 8.0 8.0 8.0 8.0 8.0 
+Evaluation accuracy before quantization and fusion:tensor(93.1500, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 6.0 8.0 8.0 8.0 8.0 8.0 8.0 8.0 8.0 8.0 8.0 
+Evaluation accuracy before quantization and fusion:tensor(93.1100, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 6.0 7.0 8.0 8.0 8.0 8.0 8.0 8.0 8.0 8.0 8.0 8.0 
+Evaluation accuracy before quantization and fusion:tensor(93.0300, device='cuda:0')
+8.0 8.0 8.0 7.0 7.0 7.0 7.0 8.0 8.0 8.0 8.0 8.0 8.0 8.0 8.0 8.0 8.0 
+Evaluation accuracy before quantization and fusion:tensor(93.1000, device='cuda:0')
+8.0 8.0 8.0 6.0 8.0 7.0 7.0 8.0 8.0 8.0 8.0 8.0 8.0 8.0 8.0 8.0 8.0 
+Evaluation accuracy before quantization and fusion:tensor(93.0200, device='cuda:0')
+8.0 8.0 7.0 7.0 8.0 7.0 7.0 8.0 8.0 8.0 8.0 8.0 8.0 8.0 8.0 8.0 8.0 
+Evaluation accuracy before quantization and fusion:tensor(93.0300, device='cuda:0')
+8.0 7.0 8.0 7.0 8.0 7.0 7.0 8.0 8.0 8.0 8.0 8.0 8.0 8.0 8.0 8.0 8.0 
+Evaluation accuracy before quantization and fusion:tensor(92.9600, device='cuda:0')
+7.0 8.0 8.0 7.0 8.0 7.0 7.0 8.0 8.0 8.0 8.0 8.0 8.0 8.0 8.0 8.0 8.0 
+Evaluation accuracy before quantization and fusion:tensor(93.1100, device='cuda:0')
+
+loop max_ii = 8 max_top1 = tensor(93.1900, device='cuda:0')
+time = 4.503872366746267
+Loop 5================================
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 8.0 7.0 8.0 8.0 8.0 8.0 8.0 8.0 8.0 7.0 
+Evaluation accuracy before quantization and fusion:tensor(93.1600, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 8.0 7.0 8.0 8.0 8.0 8.0 8.0 8.0 7.0 8.0 
+Evaluation accuracy before quantization and fusion:tensor(93.1800, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 8.0 7.0 8.0 8.0 8.0 8.0 8.0 7.0 8.0 8.0 
+Evaluation accuracy before quantization and fusion:tensor(93.1800, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 8.0 7.0 8.0 8.0 8.0 8.0 7.0 8.0 8.0 8.0 
+Evaluation accuracy before quantization and fusion:tensor(93.2000, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 8.0 7.0 8.0 8.0 8.0 7.0 8.0 8.0 8.0 8.0 
+Evaluation accuracy before quantization and fusion:tensor(93.1700, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 8.0 7.0 8.0 8.0 7.0 8.0 8.0 8.0 8.0 8.0 
+Evaluation accuracy before quantization and fusion:tensor(93.1700, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 8.0 7.0 8.0 7.0 8.0 8.0 8.0 8.0 8.0 8.0 
+Evaluation accuracy before quantization and fusion:tensor(93.1800, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 8.0 7.0 7.0 8.0 8.0 8.0 8.0 8.0 8.0 8.0 
+Evaluation accuracy before quantization and fusion:tensor(93.1300, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 8.0 6.0 8.0 8.0 8.0 8.0 8.0 8.0 8.0 8.0 
+Evaluation accuracy before quantization and fusion:tensor(93.2000, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 7.0 7.0 8.0 8.0 8.0 8.0 8.0 8.0 8.0 8.0 
+Evaluation accuracy before quantization and fusion:tensor(93.1400, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 6.0 8.0 7.0 8.0 8.0 8.0 8.0 8.0 8.0 8.0 8.0 
+Evaluation accuracy before quantization and fusion:tensor(93.1300, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 6.0 7.0 8.0 7.0 8.0 8.0 8.0 8.0 8.0 8.0 8.0 8.0 
+Evaluation accuracy before quantization and fusion:tensor(93.0600, device='cuda:0')
+8.0 8.0 8.0 7.0 7.0 7.0 7.0 8.0 7.0 8.0 8.0 8.0 8.0 8.0 8.0 8.0 8.0 
+Evaluation accuracy before quantization and fusion:tensor(93.1300, device='cuda:0')
+8.0 8.0 8.0 6.0 8.0 7.0 7.0 8.0 7.0 8.0 8.0 8.0 8.0 8.0 8.0 8.0 8.0 
+Evaluation accuracy before quantization and fusion:tensor(92.9800, device='cuda:0')
+8.0 8.0 7.0 7.0 8.0 7.0 7.0 8.0 7.0 8.0 8.0 8.0 8.0 8.0 8.0 8.0 8.0 
+Evaluation accuracy before quantization and fusion:tensor(93.0500, device='cuda:0')
+8.0 7.0 8.0 7.0 8.0 7.0 7.0 8.0 7.0 8.0 8.0 8.0 8.0 8.0 8.0 8.0 8.0 
+Evaluation accuracy before quantization and fusion:tensor(92.9700, device='cuda:0')
+7.0 8.0 8.0 7.0 8.0 7.0 7.0 8.0 7.0 8.0 8.0 8.0 8.0 8.0 8.0 8.0 8.0 
+Evaluation accuracy before quantization and fusion:tensor(93.1300, device='cuda:0')
+
+loop max_ii = 13 max_top1 = tensor(93.2000, device='cuda:0')
+time = 5.644470608234405
+Loop 6================================
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 8.0 7.0 8.0 8.0 8.0 8.0 7.0 8.0 8.0 7.0 
+Evaluation accuracy before quantization and fusion:tensor(93.2100, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 8.0 7.0 8.0 8.0 8.0 8.0 7.0 8.0 7.0 8.0 
+Evaluation accuracy before quantization and fusion:tensor(93.2000, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 8.0 7.0 8.0 8.0 8.0 8.0 7.0 7.0 8.0 8.0 
+Evaluation accuracy before quantization and fusion:tensor(93.2000, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 8.0 7.0 8.0 8.0 8.0 8.0 6.0 8.0 8.0 8.0 
+Evaluation accuracy before quantization and fusion:tensor(93.2300, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 8.0 7.0 8.0 8.0 8.0 7.0 7.0 8.0 8.0 8.0 
+Evaluation accuracy before quantization and fusion:tensor(93.2300, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 8.0 7.0 8.0 8.0 7.0 8.0 7.0 8.0 8.0 8.0 
+Evaluation accuracy before quantization and fusion:tensor(93.2100, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 8.0 7.0 8.0 7.0 8.0 8.0 7.0 8.0 8.0 8.0 
+Evaluation accuracy before quantization and fusion:tensor(93.1800, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 8.0 7.0 7.0 8.0 8.0 8.0 7.0 8.0 8.0 8.0 
+Evaluation accuracy before quantization and fusion:tensor(93.1900, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 8.0 6.0 8.0 8.0 8.0 8.0 7.0 8.0 8.0 8.0 
+Evaluation accuracy before quantization and fusion:tensor(93.2000, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 7.0 7.0 8.0 8.0 8.0 8.0 7.0 8.0 8.0 8.0 
+Evaluation accuracy before quantization and fusion:tensor(93.1600, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 6.0 8.0 7.0 8.0 8.0 8.0 8.0 7.0 8.0 8.0 8.0 
+Evaluation accuracy before quantization and fusion:tensor(93.1200, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 6.0 7.0 8.0 7.0 8.0 8.0 8.0 8.0 7.0 8.0 8.0 8.0 
+Evaluation accuracy before quantization and fusion:tensor(93.0400, device='cuda:0')
+8.0 8.0 8.0 7.0 7.0 7.0 7.0 8.0 7.0 8.0 8.0 8.0 8.0 7.0 8.0 8.0 8.0 
+Evaluation accuracy before quantization and fusion:tensor(93.1500, device='cuda:0')
+8.0 8.0 8.0 6.0 8.0 7.0 7.0 8.0 7.0 8.0 8.0 8.0 8.0 7.0 8.0 8.0 8.0 
+Evaluation accuracy before quantization and fusion:tensor(92.9900, device='cuda:0')
+8.0 8.0 7.0 7.0 8.0 7.0 7.0 8.0 7.0 8.0 8.0 8.0 8.0 7.0 8.0 8.0 8.0 
+Evaluation accuracy before quantization and fusion:tensor(93.0600, device='cuda:0')
+8.0 7.0 8.0 7.0 8.0 7.0 7.0 8.0 7.0 8.0 8.0 8.0 8.0 7.0 8.0 8.0 8.0 
+Evaluation accuracy before quantization and fusion:tensor(92.9900, device='cuda:0')
+7.0 8.0 8.0 7.0 8.0 7.0 7.0 8.0 7.0 8.0 8.0 8.0 8.0 7.0 8.0 8.0 8.0 
+Evaluation accuracy before quantization and fusion:tensor(93.1400, device='cuda:0')
+
+loop max_ii = 13 max_top1 = tensor(93.2300, device='cuda:0')
+time = 6.775396891434988
+Loop 7================================
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 8.0 7.0 8.0 8.0 8.0 8.0 6.0 8.0 8.0 7.0 
+Evaluation accuracy before quantization and fusion:tensor(93.2300, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 8.0 7.0 8.0 8.0 8.0 8.0 6.0 8.0 7.0 8.0 
+Evaluation accuracy before quantization and fusion:tensor(93.2400, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 8.0 7.0 8.0 8.0 8.0 8.0 6.0 7.0 8.0 8.0 
+Evaluation accuracy before quantization and fusion:tensor(93.2400, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 8.0 7.0 8.0 8.0 8.0 8.0 5.0 8.0 8.0 8.0 
+Evaluation accuracy before quantization and fusion:tensor(93.1600, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 8.0 7.0 8.0 8.0 8.0 7.0 6.0 8.0 8.0 8.0 
+Evaluation accuracy before quantization and fusion:tensor(93.2600, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 8.0 7.0 8.0 8.0 7.0 8.0 6.0 8.0 8.0 8.0 
+Evaluation accuracy before quantization and fusion:tensor(93.2500, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 8.0 7.0 8.0 7.0 8.0 8.0 6.0 8.0 8.0 8.0 
+Evaluation accuracy before quantization and fusion:tensor(93.2400, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 8.0 7.0 7.0 8.0 8.0 8.0 6.0 8.0 8.0 8.0 
+Evaluation accuracy before quantization and fusion:tensor(93.2000, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 8.0 6.0 8.0 8.0 8.0 8.0 6.0 8.0 8.0 8.0 
+Evaluation accuracy before quantization and fusion:tensor(93.2000, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 7.0 7.0 8.0 8.0 8.0 8.0 6.0 8.0 8.0 8.0 
+Evaluation accuracy before quantization and fusion:tensor(93.2100, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 6.0 8.0 7.0 8.0 8.0 8.0 8.0 6.0 8.0 8.0 8.0 
+Evaluation accuracy before quantization and fusion:tensor(93.1700, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 6.0 7.0 8.0 7.0 8.0 8.0 8.0 8.0 6.0 8.0 8.0 8.0 
+Evaluation accuracy before quantization and fusion:tensor(93.0500, device='cuda:0')
+8.0 8.0 8.0 7.0 7.0 7.0 7.0 8.0 7.0 8.0 8.0 8.0 8.0 6.0 8.0 8.0 8.0 
+Evaluation accuracy before quantization and fusion:tensor(93.1100, device='cuda:0')
+8.0 8.0 8.0 6.0 8.0 7.0 7.0 8.0 7.0 8.0 8.0 8.0 8.0 6.0 8.0 8.0 8.0 
+Evaluation accuracy before quantization and fusion:tensor(92.9700, device='cuda:0')
+8.0 8.0 7.0 7.0 8.0 7.0 7.0 8.0 7.0 8.0 8.0 8.0 8.0 6.0 8.0 8.0 8.0 
+Evaluation accuracy before quantization and fusion:tensor(93.0500, device='cuda:0')
+8.0 7.0 8.0 7.0 8.0 7.0 7.0 8.0 7.0 8.0 8.0 8.0 8.0 6.0 8.0 8.0 8.0 
+Evaluation accuracy before quantization and fusion:tensor(92.9800, device='cuda:0')
+7.0 8.0 8.0 7.0 8.0 7.0 7.0 8.0 7.0 8.0 8.0 8.0 8.0 6.0 8.0 8.0 8.0 
+Evaluation accuracy before quantization and fusion:tensor(93.1500, device='cuda:0')
+
+loop max_ii = 12 max_top1 = tensor(93.2600, device='cuda:0')
+time = 7.905005280176798
+Loop 8================================
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 8.0 7.0 8.0 8.0 8.0 7.0 6.0 8.0 8.0 7.0 
+Evaluation accuracy before quantization and fusion:tensor(93.2600, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 8.0 7.0 8.0 8.0 8.0 7.0 6.0 8.0 7.0 8.0 
+Evaluation accuracy before quantization and fusion:tensor(93.2700, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 8.0 7.0 8.0 8.0 8.0 7.0 6.0 7.0 8.0 8.0 
+Evaluation accuracy before quantization and fusion:tensor(93.2700, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 8.0 7.0 8.0 8.0 8.0 7.0 5.0 8.0 8.0 8.0 
+Evaluation accuracy before quantization and fusion:tensor(93.1400, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 8.0 7.0 8.0 8.0 8.0 6.0 6.0 8.0 8.0 8.0 
+Evaluation accuracy before quantization and fusion:tensor(93.2700, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 8.0 7.0 8.0 8.0 7.0 7.0 6.0 8.0 8.0 8.0 
+Evaluation accuracy before quantization and fusion:tensor(93.2500, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 8.0 7.0 8.0 7.0 8.0 7.0 6.0 8.0 8.0 8.0 
+Evaluation accuracy before quantization and fusion:tensor(93.2700, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 8.0 7.0 7.0 8.0 8.0 7.0 6.0 8.0 8.0 8.0 
+Evaluation accuracy before quantization and fusion:tensor(93.2200, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 8.0 6.0 8.0 8.0 8.0 7.0 6.0 8.0 8.0 8.0 
+Evaluation accuracy before quantization and fusion:tensor(93.2000, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 7.0 7.0 8.0 8.0 8.0 7.0 6.0 8.0 8.0 8.0 
+Evaluation accuracy before quantization and fusion:tensor(93.2300, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 6.0 8.0 7.0 8.0 8.0 8.0 7.0 6.0 8.0 8.0 8.0 
+Evaluation accuracy before quantization and fusion:tensor(93.1700, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 6.0 7.0 8.0 7.0 8.0 8.0 8.0 7.0 6.0 8.0 8.0 8.0 
+Evaluation accuracy before quantization and fusion:tensor(93.0400, device='cuda:0')
+8.0 8.0 8.0 7.0 7.0 7.0 7.0 8.0 7.0 8.0 8.0 8.0 7.0 6.0 8.0 8.0 8.0 
+Evaluation accuracy before quantization and fusion:tensor(93.1300, device='cuda:0')
+8.0 8.0 8.0 6.0 8.0 7.0 7.0 8.0 7.0 8.0 8.0 8.0 7.0 6.0 8.0 8.0 8.0 
+Evaluation accuracy before quantization and fusion:tensor(92.9700, device='cuda:0')
+8.0 8.0 7.0 7.0 8.0 7.0 7.0 8.0 7.0 8.0 8.0 8.0 7.0 6.0 8.0 8.0 8.0 
+Evaluation accuracy before quantization and fusion:tensor(93.0500, device='cuda:0')
+8.0 7.0 8.0 7.0 8.0 7.0 7.0 8.0 7.0 8.0 8.0 8.0 7.0 6.0 8.0 8.0 8.0 
+Evaluation accuracy before quantization and fusion:tensor(92.9700, device='cuda:0')
+7.0 8.0 8.0 7.0 8.0 7.0 7.0 8.0 7.0 8.0 8.0 8.0 7.0 6.0 8.0 8.0 8.0 
+Evaluation accuracy before quantization and fusion:tensor(93.1400, device='cuda:0')
+
+loop max_ii = 15 max_top1 = tensor(93.2700, device='cuda:0')
+time = 9.030206855138143
+Loop 9================================
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 8.0 7.0 8.0 8.0 8.0 7.0 6.0 8.0 7.0 7.0 
+Evaluation accuracy before quantization and fusion:tensor(93.2700, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 8.0 7.0 8.0 8.0 8.0 7.0 6.0 8.0 6.0 8.0 
+Evaluation accuracy before quantization and fusion:tensor(93.2700, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 8.0 7.0 8.0 8.0 8.0 7.0 6.0 7.0 7.0 8.0 
+Evaluation accuracy before quantization and fusion:tensor(93.2700, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 8.0 7.0 8.0 8.0 8.0 7.0 5.0 8.0 7.0 8.0 
+Evaluation accuracy before quantization and fusion:tensor(93.1500, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 8.0 7.0 8.0 8.0 8.0 6.0 6.0 8.0 7.0 8.0 
+Evaluation accuracy before quantization and fusion:tensor(93.2700, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 8.0 7.0 8.0 8.0 7.0 7.0 6.0 8.0 7.0 8.0 
+Evaluation accuracy before quantization and fusion:tensor(93.2500, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 8.0 7.0 8.0 7.0 8.0 7.0 6.0 8.0 7.0 8.0 
+Evaluation accuracy before quantization and fusion:tensor(93.2700, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 8.0 7.0 7.0 8.0 8.0 7.0 6.0 8.0 7.0 8.0 
+Evaluation accuracy before quantization and fusion:tensor(93.2200, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 8.0 6.0 8.0 8.0 8.0 7.0 6.0 8.0 7.0 8.0 
+Evaluation accuracy before quantization and fusion:tensor(93.2000, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 7.0 7.0 8.0 8.0 8.0 7.0 6.0 8.0 7.0 8.0 
+Evaluation accuracy before quantization and fusion:tensor(93.2300, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 6.0 8.0 7.0 8.0 8.0 8.0 7.0 6.0 8.0 7.0 8.0 
+Evaluation accuracy before quantization and fusion:tensor(93.1700, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 6.0 7.0 8.0 7.0 8.0 8.0 8.0 7.0 6.0 8.0 7.0 8.0 
+Evaluation accuracy before quantization and fusion:tensor(93.0500, device='cuda:0')
+8.0 8.0 8.0 7.0 7.0 7.0 7.0 8.0 7.0 8.0 8.0 8.0 7.0 6.0 8.0 7.0 8.0 
+Evaluation accuracy before quantization and fusion:tensor(93.1200, device='cuda:0')
+8.0 8.0 8.0 6.0 8.0 7.0 7.0 8.0 7.0 8.0 8.0 8.0 7.0 6.0 8.0 7.0 8.0 
+Evaluation accuracy before quantization and fusion:tensor(92.9700, device='cuda:0')
+8.0 8.0 7.0 7.0 8.0 7.0 7.0 8.0 7.0 8.0 8.0 8.0 7.0 6.0 8.0 7.0 8.0 
+Evaluation accuracy before quantization and fusion:tensor(93.0500, device='cuda:0')
+8.0 7.0 8.0 7.0 8.0 7.0 7.0 8.0 7.0 8.0 8.0 8.0 7.0 6.0 8.0 7.0 8.0 
+Evaluation accuracy before quantization and fusion:tensor(92.9700, device='cuda:0')
+7.0 8.0 8.0 7.0 8.0 7.0 7.0 8.0 7.0 8.0 8.0 8.0 7.0 6.0 8.0 7.0 8.0 
+Evaluation accuracy before quantization and fusion:tensor(93.1300, device='cuda:0')
+
+loop max_ii = 16 max_top1 = tensor(93.2700, device='cuda:0')
+time = 10.164863912264506
+Loop 10================================
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 8.0 7.0 8.0 8.0 8.0 7.0 6.0 8.0 7.0 6.0 
+Evaluation accuracy before quantization and fusion:tensor(93.2500, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 8.0 7.0 8.0 8.0 8.0 7.0 6.0 8.0 6.0 7.0 
+Evaluation accuracy before quantization and fusion:tensor(93.2700, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 8.0 7.0 8.0 8.0 8.0 7.0 6.0 7.0 7.0 7.0 
+Evaluation accuracy before quantization and fusion:tensor(93.2700, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 8.0 7.0 8.0 8.0 8.0 7.0 5.0 8.0 7.0 7.0 
+Evaluation accuracy before quantization and fusion:tensor(93.1400, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 8.0 7.0 8.0 8.0 8.0 6.0 6.0 8.0 7.0 7.0 
+Evaluation accuracy before quantization and fusion:tensor(93.2600, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 8.0 7.0 8.0 8.0 7.0 7.0 6.0 8.0 7.0 7.0 
+Evaluation accuracy before quantization and fusion:tensor(93.2400, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 8.0 7.0 8.0 7.0 8.0 7.0 6.0 8.0 7.0 7.0 
+Evaluation accuracy before quantization and fusion:tensor(93.2700, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 8.0 7.0 7.0 8.0 8.0 7.0 6.0 8.0 7.0 7.0 
+Evaluation accuracy before quantization and fusion:tensor(93.2100, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 8.0 6.0 8.0 8.0 8.0 7.0 6.0 8.0 7.0 7.0 
+Evaluation accuracy before quantization and fusion:tensor(93.1900, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 7.0 7.0 8.0 8.0 8.0 7.0 6.0 8.0 7.0 7.0 
+Evaluation accuracy before quantization and fusion:tensor(93.2200, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 6.0 8.0 7.0 8.0 8.0 8.0 7.0 6.0 8.0 7.0 7.0 
+Evaluation accuracy before quantization and fusion:tensor(93.1800, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 6.0 7.0 8.0 7.0 8.0 8.0 8.0 7.0 6.0 8.0 7.0 7.0 
+Evaluation accuracy before quantization and fusion:tensor(93.0300, device='cuda:0')
+8.0 8.0 8.0 7.0 7.0 7.0 7.0 8.0 7.0 8.0 8.0 8.0 7.0 6.0 8.0 7.0 7.0 
+Evaluation accuracy before quantization and fusion:tensor(93.1100, device='cuda:0')
+8.0 8.0 8.0 6.0 8.0 7.0 7.0 8.0 7.0 8.0 8.0 8.0 7.0 6.0 8.0 7.0 7.0 
+Evaluation accuracy before quantization and fusion:tensor(93., device='cuda:0')
+8.0 8.0 7.0 7.0 8.0 7.0 7.0 8.0 7.0 8.0 8.0 8.0 7.0 6.0 8.0 7.0 7.0 
+Evaluation accuracy before quantization and fusion:tensor(93.0500, device='cuda:0')
+8.0 7.0 8.0 7.0 8.0 7.0 7.0 8.0 7.0 8.0 8.0 8.0 7.0 6.0 8.0 7.0 7.0 
+Evaluation accuracy before quantization and fusion:tensor(92.9800, device='cuda:0')
+7.0 8.0 8.0 7.0 8.0 7.0 7.0 8.0 7.0 8.0 8.0 8.0 7.0 6.0 8.0 7.0 7.0 
+Evaluation accuracy before quantization and fusion:tensor(93.1200, device='cuda:0')
+
+loop max_ii = 15 max_top1 = tensor(93.2700, device='cuda:0')
+time = 11.296414768695831
+Loop 11================================
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 8.0 7.0 8.0 8.0 8.0 7.0 6.0 8.0 6.0 6.0 
+Evaluation accuracy before quantization and fusion:tensor(93.2500, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 8.0 7.0 8.0 8.0 8.0 7.0 6.0 8.0 5.0 7.0 
+Evaluation accuracy before quantization and fusion:tensor(93.2700, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 8.0 7.0 8.0 8.0 8.0 7.0 6.0 7.0 6.0 7.0 
+Evaluation accuracy before quantization and fusion:tensor(93.2700, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 8.0 7.0 8.0 8.0 8.0 7.0 5.0 8.0 6.0 7.0 
+Evaluation accuracy before quantization and fusion:tensor(93.1400, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 8.0 7.0 8.0 8.0 8.0 6.0 6.0 8.0 6.0 7.0 
+Evaluation accuracy before quantization and fusion:tensor(93.2600, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 8.0 7.0 8.0 8.0 7.0 7.0 6.0 8.0 6.0 7.0 
+Evaluation accuracy before quantization and fusion:tensor(93.2400, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 8.0 7.0 8.0 7.0 8.0 7.0 6.0 8.0 6.0 7.0 
+Evaluation accuracy before quantization and fusion:tensor(93.2700, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 8.0 7.0 7.0 8.0 8.0 7.0 6.0 8.0 6.0 7.0 
+Evaluation accuracy before quantization and fusion:tensor(93.2100, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 8.0 6.0 8.0 8.0 8.0 7.0 6.0 8.0 6.0 7.0 
+Evaluation accuracy before quantization and fusion:tensor(93.1900, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 7.0 7.0 8.0 8.0 8.0 7.0 6.0 8.0 6.0 7.0 
+Evaluation accuracy before quantization and fusion:tensor(93.2200, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 6.0 8.0 7.0 8.0 8.0 8.0 7.0 6.0 8.0 6.0 7.0 
+Evaluation accuracy before quantization and fusion:tensor(93.1900, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 6.0 7.0 8.0 7.0 8.0 8.0 8.0 7.0 6.0 8.0 6.0 7.0 
+Evaluation accuracy before quantization and fusion:tensor(93.0300, device='cuda:0')
+8.0 8.0 8.0 7.0 7.0 7.0 7.0 8.0 7.0 8.0 8.0 8.0 7.0 6.0 8.0 6.0 7.0 
+Evaluation accuracy before quantization and fusion:tensor(93.1100, device='cuda:0')
+8.0 8.0 8.0 6.0 8.0 7.0 7.0 8.0 7.0 8.0 8.0 8.0 7.0 6.0 8.0 6.0 7.0 
+Evaluation accuracy before quantization and fusion:tensor(93., device='cuda:0')
+8.0 8.0 7.0 7.0 8.0 7.0 7.0 8.0 7.0 8.0 8.0 8.0 7.0 6.0 8.0 6.0 7.0 
+Evaluation accuracy before quantization and fusion:tensor(93.0500, device='cuda:0')
+8.0 7.0 8.0 7.0 8.0 7.0 7.0 8.0 7.0 8.0 8.0 8.0 7.0 6.0 8.0 6.0 7.0 
+Evaluation accuracy before quantization and fusion:tensor(92.9800, device='cuda:0')
+7.0 8.0 8.0 7.0 8.0 7.0 7.0 8.0 7.0 8.0 8.0 8.0 7.0 6.0 8.0 6.0 7.0 
+Evaluation accuracy before quantization and fusion:tensor(93.1200, device='cuda:0')
+
+loop max_ii = 15 max_top1 = tensor(93.2700, device='cuda:0')
+time = 12.42136346101761
+Loop 12================================
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 8.0 7.0 8.0 8.0 8.0 7.0 6.0 8.0 5.0 6.0 
+Evaluation accuracy before quantization and fusion:tensor(93.2500, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 8.0 7.0 8.0 8.0 8.0 7.0 6.0 8.0 4.0 7.0 
+Evaluation accuracy before quantization and fusion:tensor(93.2700, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 8.0 7.0 8.0 8.0 8.0 7.0 6.0 7.0 5.0 7.0 
+Evaluation accuracy before quantization and fusion:tensor(93.2700, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 8.0 7.0 8.0 8.0 8.0 7.0 5.0 8.0 5.0 7.0 
+Evaluation accuracy before quantization and fusion:tensor(93.1400, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 8.0 7.0 8.0 8.0 8.0 6.0 6.0 8.0 5.0 7.0 
+Evaluation accuracy before quantization and fusion:tensor(93.2600, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 8.0 7.0 8.0 8.0 7.0 7.0 6.0 8.0 5.0 7.0 
+Evaluation accuracy before quantization and fusion:tensor(93.2500, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 8.0 7.0 8.0 7.0 8.0 7.0 6.0 8.0 5.0 7.0 
+Evaluation accuracy before quantization and fusion:tensor(93.2700, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 8.0 7.0 7.0 8.0 8.0 7.0 6.0 8.0 5.0 7.0 
+Evaluation accuracy before quantization and fusion:tensor(93.2100, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 8.0 6.0 8.0 8.0 8.0 7.0 6.0 8.0 5.0 7.0 
+Evaluation accuracy before quantization and fusion:tensor(93.2000, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 7.0 7.0 8.0 8.0 8.0 7.0 6.0 8.0 5.0 7.0 
+Evaluation accuracy before quantization and fusion:tensor(93.2200, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 6.0 8.0 7.0 8.0 8.0 8.0 7.0 6.0 8.0 5.0 7.0 
+Evaluation accuracy before quantization and fusion:tensor(93.1900, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 6.0 7.0 8.0 7.0 8.0 8.0 8.0 7.0 6.0 8.0 5.0 7.0 
+Evaluation accuracy before quantization and fusion:tensor(93.0400, device='cuda:0')
+8.0 8.0 8.0 7.0 7.0 7.0 7.0 8.0 7.0 8.0 8.0 8.0 7.0 6.0 8.0 5.0 7.0 
+Evaluation accuracy before quantization and fusion:tensor(93.1200, device='cuda:0')
+8.0 8.0 8.0 6.0 8.0 7.0 7.0 8.0 7.0 8.0 8.0 8.0 7.0 6.0 8.0 5.0 7.0 
+Evaluation accuracy before quantization and fusion:tensor(93., device='cuda:0')
+8.0 8.0 7.0 7.0 8.0 7.0 7.0 8.0 7.0 8.0 8.0 8.0 7.0 6.0 8.0 5.0 7.0 
+Evaluation accuracy before quantization and fusion:tensor(93.0500, device='cuda:0')
+8.0 7.0 8.0 7.0 8.0 7.0 7.0 8.0 7.0 8.0 8.0 8.0 7.0 6.0 8.0 5.0 7.0 
+Evaluation accuracy before quantization and fusion:tensor(92.9900, device='cuda:0')
+7.0 8.0 8.0 7.0 8.0 7.0 7.0 8.0 7.0 8.0 8.0 8.0 7.0 6.0 8.0 5.0 7.0 
+Evaluation accuracy before quantization and fusion:tensor(93.1400, device='cuda:0')
+
+loop max_ii = 15 max_top1 = tensor(93.2700, device='cuda:0')
+time = 13.547664415836334
+Loop 13================================
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 8.0 7.0 8.0 8.0 8.0 7.0 6.0 8.0 4.0 6.0 
+Evaluation accuracy before quantization and fusion:tensor(93.2600, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 8.0 7.0 8.0 8.0 8.0 7.0 6.0 8.0 3.0 7.0 
+Evaluation accuracy before quantization and fusion:tensor(92.9100, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 8.0 7.0 8.0 8.0 8.0 7.0 6.0 7.0 4.0 7.0 
+Evaluation accuracy before quantization and fusion:tensor(93.2700, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 8.0 7.0 8.0 8.0 8.0 7.0 5.0 8.0 4.0 7.0 
+Evaluation accuracy before quantization and fusion:tensor(93.1400, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 8.0 7.0 8.0 8.0 8.0 6.0 6.0 8.0 4.0 7.0 
+Evaluation accuracy before quantization and fusion:tensor(93.2600, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 8.0 7.0 8.0 8.0 7.0 7.0 6.0 8.0 4.0 7.0 
+Evaluation accuracy before quantization and fusion:tensor(93.2500, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 8.0 7.0 8.0 7.0 8.0 7.0 6.0 8.0 4.0 7.0 
+Evaluation accuracy before quantization and fusion:tensor(93.2700, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 8.0 7.0 7.0 8.0 8.0 7.0 6.0 8.0 4.0 7.0 
+Evaluation accuracy before quantization and fusion:tensor(93.2200, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 8.0 6.0 8.0 8.0 8.0 7.0 6.0 8.0 4.0 7.0 
+Evaluation accuracy before quantization and fusion:tensor(93.2000, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 7.0 7.0 8.0 8.0 8.0 7.0 6.0 8.0 4.0 7.0 
+Evaluation accuracy before quantization and fusion:tensor(93.2100, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 6.0 8.0 7.0 8.0 8.0 8.0 7.0 6.0 8.0 4.0 7.0 
+Evaluation accuracy before quantization and fusion:tensor(93.1900, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 6.0 7.0 8.0 7.0 8.0 8.0 8.0 7.0 6.0 8.0 4.0 7.0 
+Evaluation accuracy before quantization and fusion:tensor(93.0400, device='cuda:0')
+8.0 8.0 8.0 7.0 7.0 7.0 7.0 8.0 7.0 8.0 8.0 8.0 7.0 6.0 8.0 4.0 7.0 
+Evaluation accuracy before quantization and fusion:tensor(93.1100, device='cuda:0')
+8.0 8.0 8.0 6.0 8.0 7.0 7.0 8.0 7.0 8.0 8.0 8.0 7.0 6.0 8.0 4.0 7.0 
+Evaluation accuracy before quantization and fusion:tensor(93.0100, device='cuda:0')
+8.0 8.0 7.0 7.0 8.0 7.0 7.0 8.0 7.0 8.0 8.0 8.0 7.0 6.0 8.0 4.0 7.0 
+Evaluation accuracy before quantization and fusion:tensor(93.0500, device='cuda:0')
+8.0 7.0 8.0 7.0 8.0 7.0 7.0 8.0 7.0 8.0 8.0 8.0 7.0 6.0 8.0 4.0 7.0 
+Evaluation accuracy before quantization and fusion:tensor(92.9900, device='cuda:0')
+7.0 8.0 8.0 7.0 8.0 7.0 7.0 8.0 7.0 8.0 8.0 8.0 7.0 6.0 8.0 4.0 7.0 
+Evaluation accuracy before quantization and fusion:tensor(93.1400, device='cuda:0')
+
+loop max_ii = 14 max_top1 = tensor(93.2700, device='cuda:0')
+time = 14.676597944895427
+Loop 14================================
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 8.0 7.0 8.0 8.0 8.0 7.0 6.0 7.0 4.0 6.0 
+Evaluation accuracy before quantization and fusion:tensor(93.2600, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 8.0 7.0 8.0 8.0 8.0 7.0 6.0 7.0 3.0 7.0 
+Evaluation accuracy before quantization and fusion:tensor(92.9100, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 8.0 7.0 8.0 8.0 8.0 7.0 6.0 6.0 4.0 7.0 
+Evaluation accuracy before quantization and fusion:tensor(93.2700, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 8.0 7.0 8.0 8.0 8.0 7.0 5.0 7.0 4.0 7.0 
+Evaluation accuracy before quantization and fusion:tensor(93.1400, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 8.0 7.0 8.0 8.0 8.0 6.0 6.0 7.0 4.0 7.0 
+Evaluation accuracy before quantization and fusion:tensor(93.2600, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 8.0 7.0 8.0 8.0 7.0 7.0 6.0 7.0 4.0 7.0 
+Evaluation accuracy before quantization and fusion:tensor(93.2500, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 8.0 7.0 8.0 7.0 8.0 7.0 6.0 7.0 4.0 7.0 
+Evaluation accuracy before quantization and fusion:tensor(93.2700, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 8.0 7.0 7.0 8.0 8.0 7.0 6.0 7.0 4.0 7.0 
+Evaluation accuracy before quantization and fusion:tensor(93.2200, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 8.0 6.0 8.0 8.0 8.0 7.0 6.0 7.0 4.0 7.0 
+Evaluation accuracy before quantization and fusion:tensor(93.2000, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 7.0 7.0 8.0 8.0 8.0 7.0 6.0 7.0 4.0 7.0 
+Evaluation accuracy before quantization and fusion:tensor(93.2200, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 6.0 8.0 7.0 8.0 8.0 8.0 7.0 6.0 7.0 4.0 7.0 
+Evaluation accuracy before quantization and fusion:tensor(93.1900, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 6.0 7.0 8.0 7.0 8.0 8.0 8.0 7.0 6.0 7.0 4.0 7.0 
+Evaluation accuracy before quantization and fusion:tensor(93.0400, device='cuda:0')
+8.0 8.0 8.0 7.0 7.0 7.0 7.0 8.0 7.0 8.0 8.0 8.0 7.0 6.0 7.0 4.0 7.0 
+Evaluation accuracy before quantization and fusion:tensor(93.1200, device='cuda:0')
+8.0 8.0 8.0 6.0 8.0 7.0 7.0 8.0 7.0 8.0 8.0 8.0 7.0 6.0 7.0 4.0 7.0 
+Evaluation accuracy before quantization and fusion:tensor(93., device='cuda:0')
+8.0 8.0 7.0 7.0 8.0 7.0 7.0 8.0 7.0 8.0 8.0 8.0 7.0 6.0 7.0 4.0 7.0 
+Evaluation accuracy before quantization and fusion:tensor(93.0400, device='cuda:0')
+8.0 7.0 8.0 7.0 8.0 7.0 7.0 8.0 7.0 8.0 8.0 8.0 7.0 6.0 7.0 4.0 7.0 
+Evaluation accuracy before quantization and fusion:tensor(92.9900, device='cuda:0')
+7.0 8.0 8.0 7.0 8.0 7.0 7.0 8.0 7.0 8.0 8.0 8.0 7.0 6.0 7.0 4.0 7.0 
+Evaluation accuracy before quantization and fusion:tensor(93.1400, device='cuda:0')
+
+loop max_ii = 14 max_top1 = tensor(93.2700, device='cuda:0')
+time = 15.809358223279316
+Loop 15================================
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 8.0 7.0 8.0 8.0 8.0 7.0 6.0 6.0 4.0 6.0 
+Evaluation accuracy before quantization and fusion:tensor(93.2600, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 8.0 7.0 8.0 8.0 8.0 7.0 6.0 6.0 3.0 7.0 
+Evaluation accuracy before quantization and fusion:tensor(92.9200, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 8.0 7.0 8.0 8.0 8.0 7.0 6.0 5.0 4.0 7.0 
+Evaluation accuracy before quantization and fusion:tensor(93.2700, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 8.0 7.0 8.0 8.0 8.0 7.0 5.0 6.0 4.0 7.0 
+Evaluation accuracy before quantization and fusion:tensor(93.1400, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 8.0 7.0 8.0 8.0 8.0 6.0 6.0 6.0 4.0 7.0 
+Evaluation accuracy before quantization and fusion:tensor(93.2500, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 8.0 7.0 8.0 8.0 7.0 7.0 6.0 6.0 4.0 7.0 
+Evaluation accuracy before quantization and fusion:tensor(93.2500, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 8.0 7.0 8.0 7.0 8.0 7.0 6.0 6.0 4.0 7.0 
+Evaluation accuracy before quantization and fusion:tensor(93.2700, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 8.0 7.0 7.0 8.0 8.0 7.0 6.0 6.0 4.0 7.0 
+Evaluation accuracy before quantization and fusion:tensor(93.2200, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 8.0 6.0 8.0 8.0 8.0 7.0 6.0 6.0 4.0 7.0 
+Evaluation accuracy before quantization and fusion:tensor(93.2000, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 7.0 7.0 8.0 8.0 8.0 7.0 6.0 6.0 4.0 7.0 
+Evaluation accuracy before quantization and fusion:tensor(93.2200, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 6.0 8.0 7.0 8.0 8.0 8.0 7.0 6.0 6.0 4.0 7.0 
+Evaluation accuracy before quantization and fusion:tensor(93.1900, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 6.0 7.0 8.0 7.0 8.0 8.0 8.0 7.0 6.0 6.0 4.0 7.0 
+Evaluation accuracy before quantization and fusion:tensor(93.0500, device='cuda:0')
+8.0 8.0 8.0 7.0 7.0 7.0 7.0 8.0 7.0 8.0 8.0 8.0 7.0 6.0 6.0 4.0 7.0 
+Evaluation accuracy before quantization and fusion:tensor(93.1200, device='cuda:0')
+8.0 8.0 8.0 6.0 8.0 7.0 7.0 8.0 7.0 8.0 8.0 8.0 7.0 6.0 6.0 4.0 7.0 
+Evaluation accuracy before quantization and fusion:tensor(92.9900, device='cuda:0')
+8.0 8.0 7.0 7.0 8.0 7.0 7.0 8.0 7.0 8.0 8.0 8.0 7.0 6.0 6.0 4.0 7.0 
+Evaluation accuracy before quantization and fusion:tensor(93.0400, device='cuda:0')
+8.0 7.0 8.0 7.0 8.0 7.0 7.0 8.0 7.0 8.0 8.0 8.0 7.0 6.0 6.0 4.0 7.0 
+Evaluation accuracy before quantization and fusion:tensor(92.9900, device='cuda:0')
+7.0 8.0 8.0 7.0 8.0 7.0 7.0 8.0 7.0 8.0 8.0 8.0 7.0 6.0 6.0 4.0 7.0 
+Evaluation accuracy before quantization and fusion:tensor(93.1400, device='cuda:0')
+
+loop max_ii = 14 max_top1 = tensor(93.2700, device='cuda:0')
+time = 16.936025989055633
+Loop 16================================
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 8.0 7.0 8.0 8.0 8.0 7.0 6.0 5.0 4.0 6.0 
+Evaluation accuracy before quantization and fusion:tensor(93.2600, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 8.0 7.0 8.0 8.0 8.0 7.0 6.0 5.0 3.0 7.0 
+Evaluation accuracy before quantization and fusion:tensor(92.9200, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 8.0 7.0 8.0 8.0 8.0 7.0 6.0 4.0 4.0 7.0 
+Evaluation accuracy before quantization and fusion:tensor(93.2700, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 8.0 7.0 8.0 8.0 8.0 7.0 5.0 5.0 4.0 7.0 
+Evaluation accuracy before quantization and fusion:tensor(93.1400, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 8.0 7.0 8.0 8.0 8.0 6.0 6.0 5.0 4.0 7.0 
+Evaluation accuracy before quantization and fusion:tensor(93.2400, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 8.0 7.0 8.0 8.0 7.0 7.0 6.0 5.0 4.0 7.0 
+Evaluation accuracy before quantization and fusion:tensor(93.2400, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 8.0 7.0 8.0 7.0 8.0 7.0 6.0 5.0 4.0 7.0 
+Evaluation accuracy before quantization and fusion:tensor(93.2600, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 8.0 7.0 7.0 8.0 8.0 7.0 6.0 5.0 4.0 7.0 
+Evaluation accuracy before quantization and fusion:tensor(93.2300, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 8.0 6.0 8.0 8.0 8.0 7.0 6.0 5.0 4.0 7.0 
+Evaluation accuracy before quantization and fusion:tensor(93.2000, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 7.0 7.0 8.0 8.0 8.0 7.0 6.0 5.0 4.0 7.0 
+Evaluation accuracy before quantization and fusion:tensor(93.2200, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 6.0 8.0 7.0 8.0 8.0 8.0 7.0 6.0 5.0 4.0 7.0 
+Evaluation accuracy before quantization and fusion:tensor(93.1900, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 6.0 7.0 8.0 7.0 8.0 8.0 8.0 7.0 6.0 5.0 4.0 7.0 
+Evaluation accuracy before quantization and fusion:tensor(93.0500, device='cuda:0')
+8.0 8.0 8.0 7.0 7.0 7.0 7.0 8.0 7.0 8.0 8.0 8.0 7.0 6.0 5.0 4.0 7.0 
+Evaluation accuracy before quantization and fusion:tensor(93.1200, device='cuda:0')
+8.0 8.0 8.0 6.0 8.0 7.0 7.0 8.0 7.0 8.0 8.0 8.0 7.0 6.0 5.0 4.0 7.0 
+Evaluation accuracy before quantization and fusion:tensor(93.0100, device='cuda:0')
+8.0 8.0 7.0 7.0 8.0 7.0 7.0 8.0 7.0 8.0 8.0 8.0 7.0 6.0 5.0 4.0 7.0 
+Evaluation accuracy before quantization and fusion:tensor(93.0400, device='cuda:0')
+8.0 7.0 8.0 7.0 8.0 7.0 7.0 8.0 7.0 8.0 8.0 8.0 7.0 6.0 5.0 4.0 7.0 
+Evaluation accuracy before quantization and fusion:tensor(92.9900, device='cuda:0')
+7.0 8.0 8.0 7.0 8.0 7.0 7.0 8.0 7.0 8.0 8.0 8.0 7.0 6.0 5.0 4.0 7.0 
+Evaluation accuracy before quantization and fusion:tensor(93.1400, device='cuda:0')
+
+loop max_ii = 14 max_top1 = tensor(93.2700, device='cuda:0')
+time = 18.061999666690827
+Loop 17================================
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 8.0 7.0 8.0 8.0 8.0 7.0 6.0 4.0 4.0 6.0 
+Evaluation accuracy before quantization and fusion:tensor(93.2600, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 8.0 7.0 8.0 8.0 8.0 7.0 6.0 4.0 3.0 7.0 
+Evaluation accuracy before quantization and fusion:tensor(92.9100, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 8.0 7.0 8.0 8.0 8.0 7.0 6.0 3.0 4.0 7.0 
+Evaluation accuracy before quantization and fusion:tensor(93.2900, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 8.0 7.0 8.0 8.0 8.0 7.0 5.0 4.0 4.0 7.0 
+Evaluation accuracy before quantization and fusion:tensor(93.1400, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 8.0 7.0 8.0 8.0 8.0 6.0 6.0 4.0 4.0 7.0 
+Evaluation accuracy before quantization and fusion:tensor(93.2500, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 8.0 7.0 8.0 8.0 7.0 7.0 6.0 4.0 4.0 7.0 
+Evaluation accuracy before quantization and fusion:tensor(93.2300, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 8.0 7.0 8.0 7.0 8.0 7.0 6.0 4.0 4.0 7.0 
+Evaluation accuracy before quantization and fusion:tensor(93.2600, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 8.0 7.0 7.0 8.0 8.0 7.0 6.0 4.0 4.0 7.0 
+Evaluation accuracy before quantization and fusion:tensor(93.2400, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 8.0 6.0 8.0 8.0 8.0 7.0 6.0 4.0 4.0 7.0 
+Evaluation accuracy before quantization and fusion:tensor(93.2100, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 7.0 7.0 8.0 8.0 8.0 7.0 6.0 4.0 4.0 7.0 
+Evaluation accuracy before quantization and fusion:tensor(93.2100, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 6.0 8.0 7.0 8.0 8.0 8.0 7.0 6.0 4.0 4.0 7.0 
+Evaluation accuracy before quantization and fusion:tensor(93.2100, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 6.0 7.0 8.0 7.0 8.0 8.0 8.0 7.0 6.0 4.0 4.0 7.0 
+Evaluation accuracy before quantization and fusion:tensor(93.0700, device='cuda:0')
+8.0 8.0 8.0 7.0 7.0 7.0 7.0 8.0 7.0 8.0 8.0 8.0 7.0 6.0 4.0 4.0 7.0 
+Evaluation accuracy before quantization and fusion:tensor(93.1400, device='cuda:0')
+8.0 8.0 8.0 6.0 8.0 7.0 7.0 8.0 7.0 8.0 8.0 8.0 7.0 6.0 4.0 4.0 7.0 
+Evaluation accuracy before quantization and fusion:tensor(93., device='cuda:0')
+8.0 8.0 7.0 7.0 8.0 7.0 7.0 8.0 7.0 8.0 8.0 8.0 7.0 6.0 4.0 4.0 7.0 
+Evaluation accuracy before quantization and fusion:tensor(93.0700, device='cuda:0')
+8.0 7.0 8.0 7.0 8.0 7.0 7.0 8.0 7.0 8.0 8.0 8.0 7.0 6.0 4.0 4.0 7.0 
+Evaluation accuracy before quantization and fusion:tensor(92.9900, device='cuda:0')
+7.0 8.0 8.0 7.0 8.0 7.0 7.0 8.0 7.0 8.0 8.0 8.0 7.0 6.0 4.0 4.0 7.0 
+Evaluation accuracy before quantization and fusion:tensor(93.1600, device='cuda:0')
+
+loop max_ii = 14 max_top1 = tensor(93.2900, device='cuda:0')
+time = 19.18937278985977
+Loop 18================================
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 8.0 7.0 8.0 8.0 8.0 7.0 6.0 3.0 4.0 6.0 
+Evaluation accuracy before quantization and fusion:tensor(93.2700, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 8.0 7.0 8.0 8.0 8.0 7.0 6.0 3.0 3.0 7.0 
+Evaluation accuracy before quantization and fusion:tensor(92.9200, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 8.0 7.0 8.0 8.0 8.0 7.0 6.0 2.0 4.0 7.0 
+Evaluation accuracy before quantization and fusion:tensor(10.0100, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 8.0 7.0 8.0 8.0 8.0 7.0 5.0 3.0 4.0 7.0 
+Evaluation accuracy before quantization and fusion:tensor(93.1500, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 8.0 7.0 8.0 8.0 8.0 6.0 6.0 3.0 4.0 7.0 
+Evaluation accuracy before quantization and fusion:tensor(93.2500, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 8.0 7.0 8.0 8.0 7.0 7.0 6.0 3.0 4.0 7.0 
+Evaluation accuracy before quantization and fusion:tensor(93.2600, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 8.0 7.0 8.0 7.0 8.0 7.0 6.0 3.0 4.0 7.0 
+Evaluation accuracy before quantization and fusion:tensor(93.2700, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 8.0 7.0 7.0 8.0 8.0 7.0 6.0 3.0 4.0 7.0 
+Evaluation accuracy before quantization and fusion:tensor(93.2500, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 8.0 6.0 8.0 8.0 8.0 7.0 6.0 3.0 4.0 7.0 
+Evaluation accuracy before quantization and fusion:tensor(93.2100, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 7.0 7.0 8.0 8.0 8.0 7.0 6.0 3.0 4.0 7.0 
+Evaluation accuracy before quantization and fusion:tensor(93.2200, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 6.0 8.0 7.0 8.0 8.0 8.0 7.0 6.0 3.0 4.0 7.0 
+Evaluation accuracy before quantization and fusion:tensor(93.2000, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 6.0 7.0 8.0 7.0 8.0 8.0 8.0 7.0 6.0 3.0 4.0 7.0 
+Evaluation accuracy before quantization and fusion:tensor(93.0800, device='cuda:0')
+8.0 8.0 8.0 7.0 7.0 7.0 7.0 8.0 7.0 8.0 8.0 8.0 7.0 6.0 3.0 4.0 7.0 
+Evaluation accuracy before quantization and fusion:tensor(93.1500, device='cuda:0')
+8.0 8.0 8.0 6.0 8.0 7.0 7.0 8.0 7.0 8.0 8.0 8.0 7.0 6.0 3.0 4.0 7.0 
+Evaluation accuracy before quantization and fusion:tensor(93., device='cuda:0')
+8.0 8.0 7.0 7.0 8.0 7.0 7.0 8.0 7.0 8.0 8.0 8.0 7.0 6.0 3.0 4.0 7.0 
+Evaluation accuracy before quantization and fusion:tensor(93.0800, device='cuda:0')
+8.0 7.0 8.0 7.0 8.0 7.0 7.0 8.0 7.0 8.0 8.0 8.0 7.0 6.0 3.0 4.0 7.0 
+Evaluation accuracy before quantization and fusion:tensor(93.0200, device='cuda:0')
+7.0 8.0 8.0 7.0 8.0 7.0 7.0 8.0 7.0 8.0 8.0 8.0 7.0 6.0 3.0 4.0 7.0 
+Evaluation accuracy before quantization and fusion:tensor(93.1600, device='cuda:0')
+
+loop max_ii = 16 max_top1 = tensor(93.2700, device='cuda:0')
+time = 20.315157175064087
+Loop 19================================
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 8.0 7.0 8.0 8.0 8.0 7.0 6.0 3.0 4.0 5.0 
+Evaluation accuracy before quantization and fusion:tensor(93.2700, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 8.0 7.0 8.0 8.0 8.0 7.0 6.0 3.0 3.0 6.0 
+Evaluation accuracy before quantization and fusion:tensor(92.9100, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 8.0 7.0 8.0 8.0 8.0 7.0 6.0 2.0 4.0 6.0 
+Evaluation accuracy before quantization and fusion:tensor(10.0100, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 8.0 7.0 8.0 8.0 8.0 7.0 5.0 3.0 4.0 6.0 
+Evaluation accuracy before quantization and fusion:tensor(93.1600, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 8.0 7.0 8.0 8.0 8.0 6.0 6.0 3.0 4.0 6.0 
+Evaluation accuracy before quantization and fusion:tensor(93.2500, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 8.0 7.0 8.0 8.0 7.0 7.0 6.0 3.0 4.0 6.0 
+Evaluation accuracy before quantization and fusion:tensor(93.2600, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 8.0 7.0 8.0 7.0 8.0 7.0 6.0 3.0 4.0 6.0 
+Evaluation accuracy before quantization and fusion:tensor(93.2300, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 8.0 7.0 7.0 8.0 8.0 7.0 6.0 3.0 4.0 6.0 
+Evaluation accuracy before quantization and fusion:tensor(93.2400, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 8.0 6.0 8.0 8.0 8.0 7.0 6.0 3.0 4.0 6.0 
+Evaluation accuracy before quantization and fusion:tensor(93.2000, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 7.0 7.0 8.0 8.0 8.0 7.0 6.0 3.0 4.0 6.0 
+Evaluation accuracy before quantization and fusion:tensor(93.2100, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 6.0 8.0 7.0 8.0 8.0 8.0 7.0 6.0 3.0 4.0 6.0 
+Evaluation accuracy before quantization and fusion:tensor(93.2100, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 6.0 7.0 8.0 7.0 8.0 8.0 8.0 7.0 6.0 3.0 4.0 6.0 
+Evaluation accuracy before quantization and fusion:tensor(93.0700, device='cuda:0')
+8.0 8.0 8.0 7.0 7.0 7.0 7.0 8.0 7.0 8.0 8.0 8.0 7.0 6.0 3.0 4.0 6.0 
+Evaluation accuracy before quantization and fusion:tensor(93.1400, device='cuda:0')
+8.0 8.0 8.0 6.0 8.0 7.0 7.0 8.0 7.0 8.0 8.0 8.0 7.0 6.0 3.0 4.0 6.0 
+Evaluation accuracy before quantization and fusion:tensor(92.9900, device='cuda:0')
+8.0 8.0 7.0 7.0 8.0 7.0 7.0 8.0 7.0 8.0 8.0 8.0 7.0 6.0 3.0 4.0 6.0 
+Evaluation accuracy before quantization and fusion:tensor(93.0800, device='cuda:0')
+8.0 7.0 8.0 7.0 8.0 7.0 7.0 8.0 7.0 8.0 8.0 8.0 7.0 6.0 3.0 4.0 6.0 
+Evaluation accuracy before quantization and fusion:tensor(93.0100, device='cuda:0')
+7.0 8.0 8.0 7.0 8.0 7.0 7.0 8.0 7.0 8.0 8.0 8.0 7.0 6.0 3.0 4.0 6.0 
+Evaluation accuracy before quantization and fusion:tensor(93.1600, device='cuda:0')
+
+loop max_ii = 16 max_top1 = tensor(93.2700, device='cuda:0')
+time = 21.44310704469681
+Loop 20================================
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 8.0 7.0 8.0 8.0 8.0 7.0 6.0 3.0 4.0 4.0 
+Evaluation accuracy before quantization and fusion:tensor(93.2200, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 8.0 7.0 8.0 8.0 8.0 7.0 6.0 3.0 3.0 5.0 
+Evaluation accuracy before quantization and fusion:tensor(92.9200, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 8.0 7.0 8.0 8.0 8.0 7.0 6.0 2.0 4.0 5.0 
+Evaluation accuracy before quantization and fusion:tensor(10.0100, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 8.0 7.0 8.0 8.0 8.0 7.0 5.0 3.0 4.0 5.0 
+Evaluation accuracy before quantization and fusion:tensor(93.1800, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 8.0 7.0 8.0 8.0 8.0 6.0 6.0 3.0 4.0 5.0 
+Evaluation accuracy before quantization and fusion:tensor(93.2600, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 8.0 7.0 8.0 8.0 7.0 7.0 6.0 3.0 4.0 5.0 
+Evaluation accuracy before quantization and fusion:tensor(93.2700, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 8.0 7.0 8.0 7.0 8.0 7.0 6.0 3.0 4.0 5.0 
+Evaluation accuracy before quantization and fusion:tensor(93.2500, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 8.0 7.0 7.0 8.0 8.0 7.0 6.0 3.0 4.0 5.0 
+Evaluation accuracy before quantization and fusion:tensor(93.2600, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 8.0 6.0 8.0 8.0 8.0 7.0 6.0 3.0 4.0 5.0 
+Evaluation accuracy before quantization and fusion:tensor(93.2000, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 7.0 7.0 8.0 8.0 8.0 7.0 6.0 3.0 4.0 5.0 
+Evaluation accuracy before quantization and fusion:tensor(93.2300, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 6.0 8.0 7.0 8.0 8.0 8.0 7.0 6.0 3.0 4.0 5.0 
+Evaluation accuracy before quantization and fusion:tensor(93.2100, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 6.0 7.0 8.0 7.0 8.0 8.0 8.0 7.0 6.0 3.0 4.0 5.0 
+Evaluation accuracy before quantization and fusion:tensor(93.0900, device='cuda:0')
+8.0 8.0 8.0 7.0 7.0 7.0 7.0 8.0 7.0 8.0 8.0 8.0 7.0 6.0 3.0 4.0 5.0 
+Evaluation accuracy before quantization and fusion:tensor(93.1600, device='cuda:0')
+8.0 8.0 8.0 6.0 8.0 7.0 7.0 8.0 7.0 8.0 8.0 8.0 7.0 6.0 3.0 4.0 5.0 
+Evaluation accuracy before quantization and fusion:tensor(92.9800, device='cuda:0')
+8.0 8.0 7.0 7.0 8.0 7.0 7.0 8.0 7.0 8.0 8.0 8.0 7.0 6.0 3.0 4.0 5.0 
+Evaluation accuracy before quantization and fusion:tensor(93.0900, device='cuda:0')
+8.0 7.0 8.0 7.0 8.0 7.0 7.0 8.0 7.0 8.0 8.0 8.0 7.0 6.0 3.0 4.0 5.0 
+Evaluation accuracy before quantization and fusion:tensor(93.0100, device='cuda:0')
+7.0 8.0 8.0 7.0 8.0 7.0 7.0 8.0 7.0 8.0 8.0 8.0 7.0 6.0 3.0 4.0 5.0 
+Evaluation accuracy before quantization and fusion:tensor(93.1700, device='cuda:0')
+
+loop max_ii = 11 max_top1 = tensor(93.2700, device='cuda:0')
+time = 22.575653092066446
+Loop 21================================
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 8.0 7.0 8.0 8.0 7.0 7.0 6.0 3.0 4.0 4.0 
+Evaluation accuracy before quantization and fusion:tensor(93.2300, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 8.0 7.0 8.0 8.0 7.0 7.0 6.0 3.0 3.0 5.0 
+Evaluation accuracy before quantization and fusion:tensor(92.9300, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 8.0 7.0 8.0 8.0 7.0 7.0 6.0 2.0 4.0 5.0 
+Evaluation accuracy before quantization and fusion:tensor(10., device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 8.0 7.0 8.0 8.0 7.0 7.0 5.0 3.0 4.0 5.0 
+Evaluation accuracy before quantization and fusion:tensor(93.1600, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 8.0 7.0 8.0 8.0 7.0 6.0 6.0 3.0 4.0 5.0 
+Evaluation accuracy before quantization and fusion:tensor(93.2600, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 8.0 7.0 8.0 8.0 6.0 7.0 6.0 3.0 4.0 5.0 
+Evaluation accuracy before quantization and fusion:tensor(93.2300, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 8.0 7.0 8.0 7.0 7.0 7.0 6.0 3.0 4.0 5.0 
+Evaluation accuracy before quantization and fusion:tensor(93.2600, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 8.0 7.0 7.0 8.0 7.0 7.0 6.0 3.0 4.0 5.0 
+Evaluation accuracy before quantization and fusion:tensor(93.2600, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 8.0 6.0 8.0 8.0 7.0 7.0 6.0 3.0 4.0 5.0 
+Evaluation accuracy before quantization and fusion:tensor(93.2100, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 7.0 7.0 8.0 8.0 7.0 7.0 6.0 3.0 4.0 5.0 
+Evaluation accuracy before quantization and fusion:tensor(93.2400, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 6.0 8.0 7.0 8.0 8.0 7.0 7.0 6.0 3.0 4.0 5.0 
+Evaluation accuracy before quantization and fusion:tensor(93.1900, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 6.0 7.0 8.0 7.0 8.0 8.0 7.0 7.0 6.0 3.0 4.0 5.0 
+Evaluation accuracy before quantization and fusion:tensor(93.0800, device='cuda:0')
+8.0 8.0 8.0 7.0 7.0 7.0 7.0 8.0 7.0 8.0 8.0 7.0 7.0 6.0 3.0 4.0 5.0 
+Evaluation accuracy before quantization and fusion:tensor(93.1600, device='cuda:0')
+8.0 8.0 8.0 6.0 8.0 7.0 7.0 8.0 7.0 8.0 8.0 7.0 7.0 6.0 3.0 4.0 5.0 
+Evaluation accuracy before quantization and fusion:tensor(92.9900, device='cuda:0')
+8.0 8.0 7.0 7.0 8.0 7.0 7.0 8.0 7.0 8.0 8.0 7.0 7.0 6.0 3.0 4.0 5.0 
+Evaluation accuracy before quantization and fusion:tensor(93.0700, device='cuda:0')
+8.0 7.0 8.0 7.0 8.0 7.0 7.0 8.0 7.0 8.0 8.0 7.0 7.0 6.0 3.0 4.0 5.0 
+Evaluation accuracy before quantization and fusion:tensor(93.0300, device='cuda:0')
+7.0 8.0 8.0 7.0 8.0 7.0 7.0 8.0 7.0 8.0 8.0 7.0 7.0 6.0 3.0 4.0 5.0 
+Evaluation accuracy before quantization and fusion:tensor(93.1600, device='cuda:0')
+
+loop max_ii = 12 max_top1 = tensor(93.2600, device='cuda:0')
+time = 23.705623316764832
+Loop 22================================
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 8.0 7.0 8.0 8.0 7.0 6.0 6.0 3.0 4.0 4.0 
+Evaluation accuracy before quantization and fusion:tensor(93.2300, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 8.0 7.0 8.0 8.0 7.0 6.0 6.0 3.0 3.0 5.0 
+Evaluation accuracy before quantization and fusion:tensor(92.9400, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 8.0 7.0 8.0 8.0 7.0 6.0 6.0 2.0 4.0 5.0 
+Evaluation accuracy before quantization and fusion:tensor(10.0400, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 8.0 7.0 8.0 8.0 7.0 6.0 5.0 3.0 4.0 5.0 
+Evaluation accuracy before quantization and fusion:tensor(93.1800, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 8.0 7.0 8.0 8.0 7.0 5.0 6.0 3.0 4.0 5.0 
+Evaluation accuracy before quantization and fusion:tensor(93.1600, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 8.0 7.0 8.0 8.0 6.0 6.0 6.0 3.0 4.0 5.0 
+Evaluation accuracy before quantization and fusion:tensor(93.2000, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 8.0 7.0 8.0 7.0 7.0 6.0 6.0 3.0 4.0 5.0 
+Evaluation accuracy before quantization and fusion:tensor(93.2500, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 8.0 7.0 7.0 8.0 7.0 6.0 6.0 3.0 4.0 5.0 
+Evaluation accuracy before quantization and fusion:tensor(93.2400, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 8.0 6.0 8.0 8.0 7.0 6.0 6.0 3.0 4.0 5.0 
+Evaluation accuracy before quantization and fusion:tensor(93.2100, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 7.0 7.0 8.0 8.0 7.0 6.0 6.0 3.0 4.0 5.0 
+Evaluation accuracy before quantization and fusion:tensor(93.2300, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 6.0 8.0 7.0 8.0 8.0 7.0 6.0 6.0 3.0 4.0 5.0 
+Evaluation accuracy before quantization and fusion:tensor(93.1800, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 6.0 7.0 8.0 7.0 8.0 8.0 7.0 6.0 6.0 3.0 4.0 5.0 
+Evaluation accuracy before quantization and fusion:tensor(93.0700, device='cuda:0')
+8.0 8.0 8.0 7.0 7.0 7.0 7.0 8.0 7.0 8.0 8.0 7.0 6.0 6.0 3.0 4.0 5.0 
+Evaluation accuracy before quantization and fusion:tensor(93.1400, device='cuda:0')
+8.0 8.0 8.0 6.0 8.0 7.0 7.0 8.0 7.0 8.0 8.0 7.0 6.0 6.0 3.0 4.0 5.0 
+Evaluation accuracy before quantization and fusion:tensor(92.9800, device='cuda:0')
+8.0 8.0 7.0 7.0 8.0 7.0 7.0 8.0 7.0 8.0 8.0 7.0 6.0 6.0 3.0 4.0 5.0 
+Evaluation accuracy before quantization and fusion:tensor(93.0500, device='cuda:0')
+8.0 7.0 8.0 7.0 8.0 7.0 7.0 8.0 7.0 8.0 8.0 7.0 6.0 6.0 3.0 4.0 5.0 
+Evaluation accuracy before quantization and fusion:tensor(93.0500, device='cuda:0')
+7.0 8.0 8.0 7.0 8.0 7.0 7.0 8.0 7.0 8.0 8.0 7.0 6.0 6.0 3.0 4.0 5.0 
+Evaluation accuracy before quantization and fusion:tensor(93.1600, device='cuda:0')
+
+loop max_ii = 10 max_top1 = tensor(93.2500, device='cuda:0')
+time = 24.829533274968465
+Loop 23================================
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 8.0 7.0 8.0 7.0 7.0 6.0 6.0 3.0 4.0 4.0 
+Evaluation accuracy before quantization and fusion:tensor(93.2500, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 8.0 7.0 8.0 7.0 7.0 6.0 6.0 3.0 3.0 5.0 
+Evaluation accuracy before quantization and fusion:tensor(92.9300, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 8.0 7.0 8.0 7.0 7.0 6.0 6.0 2.0 4.0 5.0 
+Evaluation accuracy before quantization and fusion:tensor(10.0300, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 8.0 7.0 8.0 7.0 7.0 6.0 5.0 3.0 4.0 5.0 
+Evaluation accuracy before quantization and fusion:tensor(93.1800, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 8.0 7.0 8.0 7.0 7.0 5.0 6.0 3.0 4.0 5.0 
+Evaluation accuracy before quantization and fusion:tensor(93.1500, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 8.0 7.0 8.0 7.0 6.0 6.0 6.0 3.0 4.0 5.0 
+Evaluation accuracy before quantization and fusion:tensor(93.2300, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 8.0 7.0 8.0 6.0 7.0 6.0 6.0 3.0 4.0 5.0 
+Evaluation accuracy before quantization and fusion:tensor(93.2400, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 8.0 7.0 7.0 7.0 7.0 6.0 6.0 3.0 4.0 5.0 
+Evaluation accuracy before quantization and fusion:tensor(93.2500, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 8.0 6.0 8.0 7.0 7.0 6.0 6.0 3.0 4.0 5.0 
+Evaluation accuracy before quantization and fusion:tensor(93.2200, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 7.0 7.0 8.0 7.0 7.0 6.0 6.0 3.0 4.0 5.0 
+Evaluation accuracy before quantization and fusion:tensor(93.2400, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 6.0 8.0 7.0 8.0 7.0 7.0 6.0 6.0 3.0 4.0 5.0 
+Evaluation accuracy before quantization and fusion:tensor(93.1800, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 6.0 7.0 8.0 7.0 8.0 7.0 7.0 6.0 6.0 3.0 4.0 5.0 
+Evaluation accuracy before quantization and fusion:tensor(93.0500, device='cuda:0')
+8.0 8.0 8.0 7.0 7.0 7.0 7.0 8.0 7.0 8.0 7.0 7.0 6.0 6.0 3.0 4.0 5.0 
+Evaluation accuracy before quantization and fusion:tensor(93.1200, device='cuda:0')
+8.0 8.0 8.0 6.0 8.0 7.0 7.0 8.0 7.0 8.0 7.0 7.0 6.0 6.0 3.0 4.0 5.0 
+Evaluation accuracy before quantization and fusion:tensor(92.9800, device='cuda:0')
+8.0 8.0 7.0 7.0 8.0 7.0 7.0 8.0 7.0 8.0 7.0 7.0 6.0 6.0 3.0 4.0 5.0 
+Evaluation accuracy before quantization and fusion:tensor(93.0500, device='cuda:0')
+8.0 7.0 8.0 7.0 8.0 7.0 7.0 8.0 7.0 8.0 7.0 7.0 6.0 6.0 3.0 4.0 5.0 
+Evaluation accuracy before quantization and fusion:tensor(93.0100, device='cuda:0')
+7.0 8.0 8.0 7.0 8.0 7.0 7.0 8.0 7.0 8.0 7.0 7.0 6.0 6.0 3.0 4.0 5.0 
+Evaluation accuracy before quantization and fusion:tensor(93.1700, device='cuda:0')
+
+loop max_ii = 16 max_top1 = tensor(93.2500, device='cuda:0')
+time = 25.956504770119984
+Loop 24================================
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 8.0 7.0 8.0 7.0 7.0 6.0 6.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(93.1200, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 8.0 7.0 8.0 7.0 7.0 6.0 6.0 3.0 3.0 4.0 
+Evaluation accuracy before quantization and fusion:tensor(92.9300, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 8.0 7.0 8.0 7.0 7.0 6.0 6.0 2.0 4.0 4.0 
+Evaluation accuracy before quantization and fusion:tensor(10.1800, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 8.0 7.0 8.0 7.0 7.0 6.0 5.0 3.0 4.0 4.0 
+Evaluation accuracy before quantization and fusion:tensor(93.1600, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 8.0 7.0 8.0 7.0 7.0 5.0 6.0 3.0 4.0 4.0 
+Evaluation accuracy before quantization and fusion:tensor(93.1500, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 8.0 7.0 8.0 7.0 6.0 6.0 6.0 3.0 4.0 4.0 
+Evaluation accuracy before quantization and fusion:tensor(93.2200, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 8.0 7.0 8.0 6.0 7.0 6.0 6.0 3.0 4.0 4.0 
+Evaluation accuracy before quantization and fusion:tensor(93.2300, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 8.0 7.0 7.0 7.0 7.0 6.0 6.0 3.0 4.0 4.0 
+Evaluation accuracy before quantization and fusion:tensor(93.2400, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 8.0 6.0 8.0 7.0 7.0 6.0 6.0 3.0 4.0 4.0 
+Evaluation accuracy before quantization and fusion:tensor(93.2300, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 7.0 7.0 8.0 7.0 7.0 6.0 6.0 3.0 4.0 4.0 
+Evaluation accuracy before quantization and fusion:tensor(93.2400, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 6.0 8.0 7.0 8.0 7.0 7.0 6.0 6.0 3.0 4.0 4.0 
+Evaluation accuracy before quantization and fusion:tensor(93.1400, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 6.0 7.0 8.0 7.0 8.0 7.0 7.0 6.0 6.0 3.0 4.0 4.0 
+Evaluation accuracy before quantization and fusion:tensor(93.0100, device='cuda:0')
+8.0 8.0 8.0 7.0 7.0 7.0 7.0 8.0 7.0 8.0 7.0 7.0 6.0 6.0 3.0 4.0 4.0 
+Evaluation accuracy before quantization and fusion:tensor(93.1300, device='cuda:0')
+8.0 8.0 8.0 6.0 8.0 7.0 7.0 8.0 7.0 8.0 7.0 7.0 6.0 6.0 3.0 4.0 4.0 
+Evaluation accuracy before quantization and fusion:tensor(92.9800, device='cuda:0')
+8.0 8.0 7.0 7.0 8.0 7.0 7.0 8.0 7.0 8.0 7.0 7.0 6.0 6.0 3.0 4.0 4.0 
+Evaluation accuracy before quantization and fusion:tensor(93.0400, device='cuda:0')
+8.0 7.0 8.0 7.0 8.0 7.0 7.0 8.0 7.0 8.0 7.0 7.0 6.0 6.0 3.0 4.0 4.0 
+Evaluation accuracy before quantization and fusion:tensor(93.0300, device='cuda:0')
+7.0 8.0 8.0 7.0 8.0 7.0 7.0 8.0 7.0 8.0 7.0 7.0 6.0 6.0 3.0 4.0 4.0 
+Evaluation accuracy before quantization and fusion:tensor(93.1700, device='cuda:0')
+
+loop max_ii = 9 max_top1 = tensor(93.2400, device='cuda:0')
+time = 27.087472279866535
+Loop 25================================
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 8.0 7.0 7.0 7.0 7.0 6.0 6.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(93.1500, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 8.0 7.0 7.0 7.0 7.0 6.0 6.0 3.0 3.0 4.0 
+Evaluation accuracy before quantization and fusion:tensor(92.9300, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 8.0 7.0 7.0 7.0 7.0 6.0 6.0 2.0 4.0 4.0 
+Evaluation accuracy before quantization and fusion:tensor(10.1700, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 8.0 7.0 7.0 7.0 7.0 6.0 5.0 3.0 4.0 4.0 
+Evaluation accuracy before quantization and fusion:tensor(93.1400, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 8.0 7.0 7.0 7.0 7.0 5.0 6.0 3.0 4.0 4.0 
+Evaluation accuracy before quantization and fusion:tensor(93.1300, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 8.0 7.0 7.0 7.0 6.0 6.0 6.0 3.0 4.0 4.0 
+Evaluation accuracy before quantization and fusion:tensor(93.2200, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 8.0 7.0 7.0 6.0 7.0 6.0 6.0 3.0 4.0 4.0 
+Evaluation accuracy before quantization and fusion:tensor(93.2200, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 8.0 7.0 6.0 7.0 7.0 6.0 6.0 3.0 4.0 4.0 
+Evaluation accuracy before quantization and fusion:tensor(93.2000, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 8.0 6.0 7.0 7.0 7.0 6.0 6.0 3.0 4.0 4.0 
+Evaluation accuracy before quantization and fusion:tensor(93.2200, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 7.0 7.0 7.0 7.0 7.0 6.0 6.0 3.0 4.0 4.0 
+Evaluation accuracy before quantization and fusion:tensor(93.2600, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 6.0 8.0 7.0 7.0 7.0 7.0 6.0 6.0 3.0 4.0 4.0 
+Evaluation accuracy before quantization and fusion:tensor(93.2100, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 6.0 7.0 8.0 7.0 7.0 7.0 7.0 6.0 6.0 3.0 4.0 4.0 
+Evaluation accuracy before quantization and fusion:tensor(93.0100, device='cuda:0')
+8.0 8.0 8.0 7.0 7.0 7.0 7.0 8.0 7.0 7.0 7.0 7.0 6.0 6.0 3.0 4.0 4.0 
+Evaluation accuracy before quantization and fusion:tensor(93.1400, device='cuda:0')
+8.0 8.0 8.0 6.0 8.0 7.0 7.0 8.0 7.0 7.0 7.0 7.0 6.0 6.0 3.0 4.0 4.0 
+Evaluation accuracy before quantization and fusion:tensor(92.9800, device='cuda:0')
+8.0 8.0 7.0 7.0 8.0 7.0 7.0 8.0 7.0 7.0 7.0 7.0 6.0 6.0 3.0 4.0 4.0 
+Evaluation accuracy before quantization and fusion:tensor(93.0400, device='cuda:0')
+8.0 7.0 8.0 7.0 8.0 7.0 7.0 8.0 7.0 7.0 7.0 7.0 6.0 6.0 3.0 4.0 4.0 
+Evaluation accuracy before quantization and fusion:tensor(92.9900, device='cuda:0')
+7.0 8.0 8.0 7.0 8.0 7.0 7.0 8.0 7.0 7.0 7.0 7.0 6.0 6.0 3.0 4.0 4.0 
+Evaluation accuracy before quantization and fusion:tensor(93.1700, device='cuda:0')
+
+loop max_ii = 7 max_top1 = tensor(93.2600, device='cuda:0')
+time = 28.21456546386083
+Loop 26================================
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 7.0 7.0 7.0 7.0 7.0 6.0 6.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(93.1500, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 7.0 7.0 7.0 7.0 7.0 6.0 6.0 3.0 3.0 4.0 
+Evaluation accuracy before quantization and fusion:tensor(92.9100, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 7.0 7.0 7.0 7.0 7.0 6.0 6.0 2.0 4.0 4.0 
+Evaluation accuracy before quantization and fusion:tensor(10.0900, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 7.0 7.0 7.0 7.0 7.0 6.0 5.0 3.0 4.0 4.0 
+Evaluation accuracy before quantization and fusion:tensor(93.1600, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 7.0 7.0 7.0 7.0 7.0 5.0 6.0 3.0 4.0 4.0 
+Evaluation accuracy before quantization and fusion:tensor(93.1500, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 7.0 7.0 7.0 7.0 6.0 6.0 6.0 3.0 4.0 4.0 
+Evaluation accuracy before quantization and fusion:tensor(93.2100, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 7.0 7.0 7.0 6.0 7.0 6.0 6.0 3.0 4.0 4.0 
+Evaluation accuracy before quantization and fusion:tensor(93.2000, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 7.0 7.0 6.0 7.0 7.0 6.0 6.0 3.0 4.0 4.0 
+Evaluation accuracy before quantization and fusion:tensor(93.2100, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 7.0 6.0 7.0 7.0 7.0 6.0 6.0 3.0 4.0 4.0 
+Evaluation accuracy before quantization and fusion:tensor(93.1800, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 6.0 7.0 7.0 7.0 7.0 6.0 6.0 3.0 4.0 4.0 
+Evaluation accuracy before quantization and fusion:tensor(93.1700, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 6.0 7.0 7.0 7.0 7.0 7.0 6.0 6.0 3.0 4.0 4.0 
+Evaluation accuracy before quantization and fusion:tensor(93.1500, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 6.0 7.0 7.0 7.0 7.0 7.0 7.0 6.0 6.0 3.0 4.0 4.0 
+Evaluation accuracy before quantization and fusion:tensor(93.0200, device='cuda:0')
+8.0 8.0 8.0 7.0 7.0 7.0 7.0 7.0 7.0 7.0 7.0 7.0 6.0 6.0 3.0 4.0 4.0 
+Evaluation accuracy before quantization and fusion:tensor(93.1500, device='cuda:0')
+8.0 8.0 8.0 6.0 8.0 7.0 7.0 7.0 7.0 7.0 7.0 7.0 6.0 6.0 3.0 4.0 4.0 
+Evaluation accuracy before quantization and fusion:tensor(92.9900, device='cuda:0')
+8.0 8.0 7.0 7.0 8.0 7.0 7.0 7.0 7.0 7.0 7.0 7.0 6.0 6.0 3.0 4.0 4.0 
+Evaluation accuracy before quantization and fusion:tensor(93.0100, device='cuda:0')
+8.0 7.0 8.0 7.0 8.0 7.0 7.0 7.0 7.0 7.0 7.0 7.0 6.0 6.0 3.0 4.0 4.0 
+Evaluation accuracy before quantization and fusion:tensor(93.0400, device='cuda:0')
+7.0 8.0 8.0 7.0 8.0 7.0 7.0 7.0 7.0 7.0 7.0 7.0 6.0 6.0 3.0 4.0 4.0 
+Evaluation accuracy before quantization and fusion:tensor(93.1500, device='cuda:0')
+
+loop max_ii = 11 max_top1 = tensor(93.2100, device='cuda:0')
+time = 29.343984802563984
+Loop 27================================
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 7.0 7.0 7.0 7.0 6.0 6.0 6.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(93.2000, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 7.0 7.0 7.0 7.0 6.0 6.0 6.0 3.0 3.0 4.0 
+Evaluation accuracy before quantization and fusion:tensor(92.9400, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 7.0 7.0 7.0 7.0 6.0 6.0 6.0 2.0 4.0 4.0 
+Evaluation accuracy before quantization and fusion:tensor(10.0300, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 7.0 7.0 7.0 7.0 6.0 6.0 5.0 3.0 4.0 4.0 
+Evaluation accuracy before quantization and fusion:tensor(93.1400, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 7.0 7.0 7.0 7.0 6.0 5.0 6.0 3.0 4.0 4.0 
+Evaluation accuracy before quantization and fusion:tensor(93.1800, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 7.0 7.0 7.0 7.0 5.0 6.0 6.0 3.0 4.0 4.0 
+Evaluation accuracy before quantization and fusion:tensor(93.2100, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 7.0 7.0 7.0 6.0 6.0 6.0 6.0 3.0 4.0 4.0 
+Evaluation accuracy before quantization and fusion:tensor(93.1700, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 7.0 7.0 6.0 7.0 6.0 6.0 6.0 3.0 4.0 4.0 
+Evaluation accuracy before quantization and fusion:tensor(93.1900, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 7.0 6.0 7.0 7.0 6.0 6.0 6.0 3.0 4.0 4.0 
+Evaluation accuracy before quantization and fusion:tensor(93.2100, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 6.0 7.0 7.0 7.0 6.0 6.0 6.0 3.0 4.0 4.0 
+Evaluation accuracy before quantization and fusion:tensor(93.1700, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 6.0 7.0 7.0 7.0 7.0 6.0 6.0 6.0 3.0 4.0 4.0 
+Evaluation accuracy before quantization and fusion:tensor(93.2100, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 6.0 7.0 7.0 7.0 7.0 7.0 6.0 6.0 6.0 3.0 4.0 4.0 
+Evaluation accuracy before quantization and fusion:tensor(93.0300, device='cuda:0')
+8.0 8.0 8.0 7.0 7.0 7.0 7.0 7.0 7.0 7.0 7.0 6.0 6.0 6.0 3.0 4.0 4.0 
+Evaluation accuracy before quantization and fusion:tensor(93.1500, device='cuda:0')
+8.0 8.0 8.0 6.0 8.0 7.0 7.0 7.0 7.0 7.0 7.0 6.0 6.0 6.0 3.0 4.0 4.0 
+Evaluation accuracy before quantization and fusion:tensor(93., device='cuda:0')
+8.0 8.0 7.0 7.0 8.0 7.0 7.0 7.0 7.0 7.0 7.0 6.0 6.0 6.0 3.0 4.0 4.0 
+Evaluation accuracy before quantization and fusion:tensor(93.0600, device='cuda:0')
+8.0 7.0 8.0 7.0 8.0 7.0 7.0 7.0 7.0 7.0 7.0 6.0 6.0 6.0 3.0 4.0 4.0 
+Evaluation accuracy before quantization and fusion:tensor(93.0500, device='cuda:0')
+7.0 8.0 8.0 7.0 8.0 7.0 7.0 7.0 7.0 7.0 7.0 6.0 6.0 6.0 3.0 4.0 4.0 
+Evaluation accuracy before quantization and fusion:tensor(93.1600, device='cuda:0')
+
+loop max_ii = 11 max_top1 = tensor(93.2100, device='cuda:0')
+time = 30.478348139921824
+Loop 28================================
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 7.0 7.0 7.0 7.0 5.0 6.0 6.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(93.2000, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 7.0 7.0 7.0 7.0 5.0 6.0 6.0 3.0 3.0 4.0 
+Evaluation accuracy before quantization and fusion:tensor(92.9700, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 7.0 7.0 7.0 7.0 5.0 6.0 6.0 2.0 4.0 4.0 
+Evaluation accuracy before quantization and fusion:tensor(10.5200, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 7.0 7.0 7.0 7.0 5.0 6.0 5.0 3.0 4.0 4.0 
+Evaluation accuracy before quantization and fusion:tensor(93.1800, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 7.0 7.0 7.0 7.0 5.0 5.0 6.0 3.0 4.0 4.0 
+Evaluation accuracy before quantization and fusion:tensor(93.1800, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 7.0 7.0 7.0 7.0 4.0 6.0 6.0 3.0 4.0 4.0 
+Evaluation accuracy before quantization and fusion:tensor(92.5300, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 7.0 7.0 7.0 6.0 5.0 6.0 6.0 3.0 4.0 4.0 
+Evaluation accuracy before quantization and fusion:tensor(93.2200, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 7.0 7.0 6.0 7.0 5.0 6.0 6.0 3.0 4.0 4.0 
+Evaluation accuracy before quantization and fusion:tensor(93.2300, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 7.0 6.0 7.0 7.0 5.0 6.0 6.0 3.0 4.0 4.0 
+Evaluation accuracy before quantization and fusion:tensor(93.1700, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 6.0 7.0 7.0 7.0 5.0 6.0 6.0 3.0 4.0 4.0 
+Evaluation accuracy before quantization and fusion:tensor(93.1700, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 6.0 7.0 7.0 7.0 7.0 5.0 6.0 6.0 3.0 4.0 4.0 
+Evaluation accuracy before quantization and fusion:tensor(93.2000, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 6.0 7.0 7.0 7.0 7.0 7.0 5.0 6.0 6.0 3.0 4.0 4.0 
+Evaluation accuracy before quantization and fusion:tensor(93.0500, device='cuda:0')
+8.0 8.0 8.0 7.0 7.0 7.0 7.0 7.0 7.0 7.0 7.0 5.0 6.0 6.0 3.0 4.0 4.0 
+Evaluation accuracy before quantization and fusion:tensor(93.1800, device='cuda:0')
+8.0 8.0 8.0 6.0 8.0 7.0 7.0 7.0 7.0 7.0 7.0 5.0 6.0 6.0 3.0 4.0 4.0 
+Evaluation accuracy before quantization and fusion:tensor(93.0600, device='cuda:0')
+8.0 8.0 7.0 7.0 8.0 7.0 7.0 7.0 7.0 7.0 7.0 5.0 6.0 6.0 3.0 4.0 4.0 
+Evaluation accuracy before quantization and fusion:tensor(93.0500, device='cuda:0')
+8.0 7.0 8.0 7.0 8.0 7.0 7.0 7.0 7.0 7.0 7.0 5.0 6.0 6.0 3.0 4.0 4.0 
+Evaluation accuracy before quantization and fusion:tensor(93.0200, device='cuda:0')
+7.0 8.0 8.0 7.0 8.0 7.0 7.0 7.0 7.0 7.0 7.0 5.0 6.0 6.0 3.0 4.0 4.0 
+Evaluation accuracy before quantization and fusion:tensor(93.1800, device='cuda:0')
+
+loop max_ii = 9 max_top1 = tensor(93.2300, device='cuda:0')
+time = 31.602402238051095
+Loop 29================================
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 7.0 7.0 6.0 7.0 5.0 6.0 6.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(93.2500, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 7.0 7.0 6.0 7.0 5.0 6.0 6.0 3.0 3.0 4.0 
+Evaluation accuracy before quantization and fusion:tensor(92.9800, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 7.0 7.0 6.0 7.0 5.0 6.0 6.0 2.0 4.0 4.0 
+Evaluation accuracy before quantization and fusion:tensor(10.3900, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 7.0 7.0 6.0 7.0 5.0 6.0 5.0 3.0 4.0 4.0 
+Evaluation accuracy before quantization and fusion:tensor(93.1500, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 7.0 7.0 6.0 7.0 5.0 5.0 6.0 3.0 4.0 4.0 
+Evaluation accuracy before quantization and fusion:tensor(93.1700, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 7.0 7.0 6.0 7.0 4.0 6.0 6.0 3.0 4.0 4.0 
+Evaluation accuracy before quantization and fusion:tensor(92.5300, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 7.0 7.0 6.0 6.0 5.0 6.0 6.0 3.0 4.0 4.0 
+Evaluation accuracy before quantization and fusion:tensor(93.2300, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 7.0 7.0 5.0 7.0 5.0 6.0 6.0 3.0 4.0 4.0 
+Evaluation accuracy before quantization and fusion:tensor(93.2100, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 7.0 6.0 6.0 7.0 5.0 6.0 6.0 3.0 4.0 4.0 
+Evaluation accuracy before quantization and fusion:tensor(93.1700, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 6.0 7.0 6.0 7.0 5.0 6.0 6.0 3.0 4.0 4.0 
+Evaluation accuracy before quantization and fusion:tensor(93.1800, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 6.0 7.0 7.0 6.0 7.0 5.0 6.0 6.0 3.0 4.0 4.0 
+Evaluation accuracy before quantization and fusion:tensor(93.1600, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 6.0 7.0 7.0 7.0 6.0 7.0 5.0 6.0 6.0 3.0 4.0 4.0 
+Evaluation accuracy before quantization and fusion:tensor(93.0600, device='cuda:0')
+8.0 8.0 8.0 7.0 7.0 7.0 7.0 7.0 7.0 6.0 7.0 5.0 6.0 6.0 3.0 4.0 4.0 
+Evaluation accuracy before quantization and fusion:tensor(93.2200, device='cuda:0')
+8.0 8.0 8.0 6.0 8.0 7.0 7.0 7.0 7.0 6.0 7.0 5.0 6.0 6.0 3.0 4.0 4.0 
+Evaluation accuracy before quantization and fusion:tensor(93.0600, device='cuda:0')
+8.0 8.0 7.0 7.0 8.0 7.0 7.0 7.0 7.0 6.0 7.0 5.0 6.0 6.0 3.0 4.0 4.0 
+Evaluation accuracy before quantization and fusion:tensor(93.0800, device='cuda:0')
+8.0 7.0 8.0 7.0 8.0 7.0 7.0 7.0 7.0 6.0 7.0 5.0 6.0 6.0 3.0 4.0 4.0 
+Evaluation accuracy before quantization and fusion:tensor(93.0200, device='cuda:0')
+7.0 8.0 8.0 7.0 8.0 7.0 7.0 7.0 7.0 6.0 7.0 5.0 6.0 6.0 3.0 4.0 4.0 
+Evaluation accuracy before quantization and fusion:tensor(93.1700, device='cuda:0')
+
+loop max_ii = 16 max_top1 = tensor(93.2500, device='cuda:0')
+time = 32.723193120956424
+Loop 30================================
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 7.0 7.0 6.0 7.0 5.0 6.0 6.0 3.0 4.0 2.0 
+Evaluation accuracy before quantization and fusion:tensor(92.3900, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 7.0 7.0 6.0 7.0 5.0 6.0 6.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.9800, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 7.0 7.0 6.0 7.0 5.0 6.0 6.0 2.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(11.1000, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 7.0 7.0 6.0 7.0 5.0 6.0 5.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(93.1800, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 7.0 7.0 6.0 7.0 5.0 5.0 6.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(93.1600, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 7.0 7.0 6.0 7.0 4.0 6.0 6.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.5700, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 7.0 7.0 6.0 6.0 5.0 6.0 6.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(93.2000, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 7.0 7.0 5.0 7.0 5.0 6.0 6.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(93.1900, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 7.0 6.0 6.0 7.0 5.0 6.0 6.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(93.1800, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 7.0 6.0 7.0 6.0 7.0 5.0 6.0 6.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(93.1600, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 7.0 6.0 7.0 7.0 6.0 7.0 5.0 6.0 6.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(93.2000, device='cuda:0')
+8.0 8.0 8.0 7.0 8.0 6.0 7.0 7.0 7.0 6.0 7.0 5.0 6.0 6.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.9300, device='cuda:0')
+8.0 8.0 8.0 7.0 7.0 7.0 7.0 7.0 7.0 6.0 7.0 5.0 6.0 6.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(93.2100, device='cuda:0')
+8.0 8.0 8.0 6.0 8.0 7.0 7.0 7.0 7.0 6.0 7.0 5.0 6.0 6.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.9800, device='cuda:0')
+8.0 8.0 7.0 7.0 8.0 7.0 7.0 7.0 7.0 6.0 7.0 5.0 6.0 6.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(93., device='cuda:0')
+8.0 7.0 8.0 7.0 8.0 7.0 7.0 7.0 7.0 6.0 7.0 5.0 6.0 6.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(93.0300, device='cuda:0')
+7.0 8.0 8.0 7.0 8.0 7.0 7.0 7.0 7.0 6.0 7.0 5.0 6.0 6.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(93.1700, device='cuda:0')
+
+loop max_ii = 4 max_top1 = tensor(93.2100, device='cuda:0')
+time = 33.846206696828204
+Loop 31================================
+8.0 8.0 8.0 7.0 7.0 7.0 7.0 7.0 7.0 6.0 7.0 5.0 6.0 6.0 3.0 4.0 2.0 
+Evaluation accuracy before quantization and fusion:tensor(92.3300, device='cuda:0')
+8.0 8.0 8.0 7.0 7.0 7.0 7.0 7.0 7.0 6.0 7.0 5.0 6.0 6.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.9500, device='cuda:0')
+8.0 8.0 8.0 7.0 7.0 7.0 7.0 7.0 7.0 6.0 7.0 5.0 6.0 6.0 2.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(11.1400, device='cuda:0')
+8.0 8.0 8.0 7.0 7.0 7.0 7.0 7.0 7.0 6.0 7.0 5.0 6.0 5.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(93.1400, device='cuda:0')
+8.0 8.0 8.0 7.0 7.0 7.0 7.0 7.0 7.0 6.0 7.0 5.0 5.0 6.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(93.1200, device='cuda:0')
+8.0 8.0 8.0 7.0 7.0 7.0 7.0 7.0 7.0 6.0 7.0 4.0 6.0 6.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.5100, device='cuda:0')
+8.0 8.0 8.0 7.0 7.0 7.0 7.0 7.0 7.0 6.0 6.0 5.0 6.0 6.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(93.1600, device='cuda:0')
+8.0 8.0 8.0 7.0 7.0 7.0 7.0 7.0 7.0 5.0 7.0 5.0 6.0 6.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(93.1100, device='cuda:0')
+8.0 8.0 8.0 7.0 7.0 7.0 7.0 7.0 6.0 6.0 7.0 5.0 6.0 6.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(93.1100, device='cuda:0')
+8.0 8.0 8.0 7.0 7.0 7.0 7.0 6.0 7.0 6.0 7.0 5.0 6.0 6.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(93.1200, device='cuda:0')
+8.0 8.0 8.0 7.0 7.0 7.0 6.0 7.0 7.0 6.0 7.0 5.0 6.0 6.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(93.0800, device='cuda:0')
+8.0 8.0 8.0 7.0 7.0 6.0 7.0 7.0 7.0 6.0 7.0 5.0 6.0 6.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(93.0500, device='cuda:0')
+8.0 8.0 8.0 7.0 6.0 7.0 7.0 7.0 7.0 6.0 7.0 5.0 6.0 6.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(93.1200, device='cuda:0')
+8.0 8.0 8.0 6.0 7.0 7.0 7.0 7.0 7.0 6.0 7.0 5.0 6.0 6.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.9500, device='cuda:0')
+8.0 8.0 7.0 7.0 7.0 7.0 7.0 7.0 7.0 6.0 7.0 5.0 6.0 6.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.9300, device='cuda:0')
+8.0 7.0 8.0 7.0 7.0 7.0 7.0 7.0 7.0 6.0 7.0 5.0 6.0 6.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(93.0800, device='cuda:0')
+7.0 8.0 8.0 7.0 7.0 7.0 7.0 7.0 7.0 6.0 7.0 5.0 6.0 6.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(93.1600, device='cuda:0')
+
+loop max_ii = 10 max_top1 = tensor(93.1600, device='cuda:0')
+time = 34.97298691272736
+Loop 32================================
+8.0 8.0 8.0 7.0 7.0 7.0 7.0 7.0 7.0 6.0 6.0 5.0 6.0 6.0 3.0 4.0 2.0 
+Evaluation accuracy before quantization and fusion:tensor(92.3200, device='cuda:0')
+8.0 8.0 8.0 7.0 7.0 7.0 7.0 7.0 7.0 6.0 6.0 5.0 6.0 6.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.9300, device='cuda:0')
+8.0 8.0 8.0 7.0 7.0 7.0 7.0 7.0 7.0 6.0 6.0 5.0 6.0 6.0 2.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(11.1200, device='cuda:0')
+8.0 8.0 8.0 7.0 7.0 7.0 7.0 7.0 7.0 6.0 6.0 5.0 6.0 5.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(93.1300, device='cuda:0')
+8.0 8.0 8.0 7.0 7.0 7.0 7.0 7.0 7.0 6.0 6.0 5.0 5.0 6.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(93.1000, device='cuda:0')
+8.0 8.0 8.0 7.0 7.0 7.0 7.0 7.0 7.0 6.0 6.0 4.0 6.0 6.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.5400, device='cuda:0')
+8.0 8.0 8.0 7.0 7.0 7.0 7.0 7.0 7.0 6.0 5.0 5.0 6.0 6.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(93.1300, device='cuda:0')
+8.0 8.0 8.0 7.0 7.0 7.0 7.0 7.0 7.0 5.0 6.0 5.0 6.0 6.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(93.1200, device='cuda:0')
+8.0 8.0 8.0 7.0 7.0 7.0 7.0 7.0 6.0 6.0 6.0 5.0 6.0 6.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(93.1300, device='cuda:0')
+8.0 8.0 8.0 7.0 7.0 7.0 7.0 6.0 7.0 6.0 6.0 5.0 6.0 6.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(93.1000, device='cuda:0')
+8.0 8.0 8.0 7.0 7.0 7.0 6.0 7.0 7.0 6.0 6.0 5.0 6.0 6.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(93.0700, device='cuda:0')
+8.0 8.0 8.0 7.0 7.0 6.0 7.0 7.0 7.0 6.0 6.0 5.0 6.0 6.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(93.0200, device='cuda:0')
+8.0 8.0 8.0 7.0 6.0 7.0 7.0 7.0 7.0 6.0 6.0 5.0 6.0 6.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(93.1000, device='cuda:0')
+8.0 8.0 8.0 6.0 7.0 7.0 7.0 7.0 7.0 6.0 6.0 5.0 6.0 6.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.9500, device='cuda:0')
+8.0 8.0 7.0 7.0 7.0 7.0 7.0 7.0 7.0 6.0 6.0 5.0 6.0 6.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.9300, device='cuda:0')
+8.0 7.0 8.0 7.0 7.0 7.0 7.0 7.0 7.0 6.0 6.0 5.0 6.0 6.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(93.0800, device='cuda:0')
+7.0 8.0 8.0 7.0 7.0 7.0 7.0 7.0 7.0 6.0 6.0 5.0 6.0 6.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(93.1400, device='cuda:0')
+
+loop max_ii = 0 max_top1 = tensor(93.1400, device='cuda:0')
+time = 36.09644074837367
+Loop 33================================
+7.0 8.0 8.0 7.0 7.0 7.0 7.0 7.0 7.0 6.0 6.0 5.0 6.0 6.0 3.0 4.0 2.0 
+Evaluation accuracy before quantization and fusion:tensor(92.3000, device='cuda:0')
+7.0 8.0 8.0 7.0 7.0 7.0 7.0 7.0 7.0 6.0 6.0 5.0 6.0 6.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.9300, device='cuda:0')
+7.0 8.0 8.0 7.0 7.0 7.0 7.0 7.0 7.0 6.0 6.0 5.0 6.0 6.0 2.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(11.1500, device='cuda:0')
+7.0 8.0 8.0 7.0 7.0 7.0 7.0 7.0 7.0 6.0 6.0 5.0 6.0 5.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(93.0500, device='cuda:0')
+7.0 8.0 8.0 7.0 7.0 7.0 7.0 7.0 7.0 6.0 6.0 5.0 5.0 6.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(93.0900, device='cuda:0')
+7.0 8.0 8.0 7.0 7.0 7.0 7.0 7.0 7.0 6.0 6.0 4.0 6.0 6.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.5900, device='cuda:0')
+7.0 8.0 8.0 7.0 7.0 7.0 7.0 7.0 7.0 6.0 5.0 5.0 6.0 6.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(93.1300, device='cuda:0')
+7.0 8.0 8.0 7.0 7.0 7.0 7.0 7.0 7.0 5.0 6.0 5.0 6.0 6.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(93.1000, device='cuda:0')
+7.0 8.0 8.0 7.0 7.0 7.0 7.0 7.0 6.0 6.0 6.0 5.0 6.0 6.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(93.1200, device='cuda:0')
+7.0 8.0 8.0 7.0 7.0 7.0 7.0 6.0 7.0 6.0 6.0 5.0 6.0 6.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(93.0600, device='cuda:0')
+7.0 8.0 8.0 7.0 7.0 7.0 6.0 7.0 7.0 6.0 6.0 5.0 6.0 6.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(93.1000, device='cuda:0')
+7.0 8.0 8.0 7.0 7.0 6.0 7.0 7.0 7.0 6.0 6.0 5.0 6.0 6.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(93.0600, device='cuda:0')
+7.0 8.0 8.0 7.0 6.0 7.0 7.0 7.0 7.0 6.0 6.0 5.0 6.0 6.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(93.0600, device='cuda:0')
+7.0 8.0 8.0 6.0 7.0 7.0 7.0 7.0 7.0 6.0 6.0 5.0 6.0 6.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.8900, device='cuda:0')
+7.0 8.0 7.0 7.0 7.0 7.0 7.0 7.0 7.0 6.0 6.0 5.0 6.0 6.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.9600, device='cuda:0')
+7.0 7.0 8.0 7.0 7.0 7.0 7.0 7.0 7.0 6.0 6.0 5.0 6.0 6.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(93.0600, device='cuda:0')
+6.0 8.0 8.0 7.0 7.0 7.0 7.0 7.0 7.0 6.0 6.0 5.0 6.0 6.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(93., device='cuda:0')
+
+loop max_ii = 10 max_top1 = tensor(93.1300, device='cuda:0')
+time = 37.22105303605397
+Loop 34================================
+7.0 8.0 8.0 7.0 7.0 7.0 7.0 7.0 7.0 6.0 5.0 5.0 6.0 6.0 3.0 4.0 2.0 
+Evaluation accuracy before quantization and fusion:tensor(92.3200, device='cuda:0')
+7.0 8.0 8.0 7.0 7.0 7.0 7.0 7.0 7.0 6.0 5.0 5.0 6.0 6.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.9200, device='cuda:0')
+7.0 8.0 8.0 7.0 7.0 7.0 7.0 7.0 7.0 6.0 5.0 5.0 6.0 6.0 2.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(10.7700, device='cuda:0')
+7.0 8.0 8.0 7.0 7.0 7.0 7.0 7.0 7.0 6.0 5.0 5.0 6.0 5.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(93.0500, device='cuda:0')
+7.0 8.0 8.0 7.0 7.0 7.0 7.0 7.0 7.0 6.0 5.0 5.0 5.0 6.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(93.0900, device='cuda:0')
+7.0 8.0 8.0 7.0 7.0 7.0 7.0 7.0 7.0 6.0 5.0 4.0 6.0 6.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.5900, device='cuda:0')
+7.0 8.0 8.0 7.0 7.0 7.0 7.0 7.0 7.0 6.0 4.0 5.0 6.0 6.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(93.0600, device='cuda:0')
+7.0 8.0 8.0 7.0 7.0 7.0 7.0 7.0 7.0 5.0 5.0 5.0 6.0 6.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(93.1100, device='cuda:0')
+7.0 8.0 8.0 7.0 7.0 7.0 7.0 7.0 6.0 6.0 5.0 5.0 6.0 6.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(93.1200, device='cuda:0')
+7.0 8.0 8.0 7.0 7.0 7.0 7.0 6.0 7.0 6.0 5.0 5.0 6.0 6.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(93.0800, device='cuda:0')
+7.0 8.0 8.0 7.0 7.0 7.0 6.0 7.0 7.0 6.0 5.0 5.0 6.0 6.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(93.1000, device='cuda:0')
+7.0 8.0 8.0 7.0 7.0 6.0 7.0 7.0 7.0 6.0 5.0 5.0 6.0 6.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(93.0500, device='cuda:0')
+7.0 8.0 8.0 7.0 6.0 7.0 7.0 7.0 7.0 6.0 5.0 5.0 6.0 6.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(93.0600, device='cuda:0')
+7.0 8.0 8.0 6.0 7.0 7.0 7.0 7.0 7.0 6.0 5.0 5.0 6.0 6.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.9500, device='cuda:0')
+7.0 8.0 7.0 7.0 7.0 7.0 7.0 7.0 7.0 6.0 5.0 5.0 6.0 6.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.9300, device='cuda:0')
+7.0 7.0 8.0 7.0 7.0 7.0 7.0 7.0 7.0 6.0 5.0 5.0 6.0 6.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(93., device='cuda:0')
+6.0 8.0 8.0 7.0 7.0 7.0 7.0 7.0 7.0 6.0 5.0 5.0 6.0 6.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(93.0300, device='cuda:0')
+
+loop max_ii = 8 max_top1 = tensor(93.1200, device='cuda:0')
+time = 38.34416377544403
+Loop 35================================
+7.0 8.0 8.0 7.0 7.0 7.0 7.0 7.0 6.0 6.0 5.0 5.0 6.0 6.0 3.0 4.0 2.0 
+Evaluation accuracy before quantization and fusion:tensor(92.2700, device='cuda:0')
+7.0 8.0 8.0 7.0 7.0 7.0 7.0 7.0 6.0 6.0 5.0 5.0 6.0 6.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.9100, device='cuda:0')
+7.0 8.0 8.0 7.0 7.0 7.0 7.0 7.0 6.0 6.0 5.0 5.0 6.0 6.0 2.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(10.6900, device='cuda:0')
+7.0 8.0 8.0 7.0 7.0 7.0 7.0 7.0 6.0 6.0 5.0 5.0 6.0 5.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(93.0700, device='cuda:0')
+7.0 8.0 8.0 7.0 7.0 7.0 7.0 7.0 6.0 6.0 5.0 5.0 5.0 6.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(93.0800, device='cuda:0')
+7.0 8.0 8.0 7.0 7.0 7.0 7.0 7.0 6.0 6.0 5.0 4.0 6.0 6.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.6000, device='cuda:0')
+7.0 8.0 8.0 7.0 7.0 7.0 7.0 7.0 6.0 6.0 4.0 5.0 6.0 6.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(93.1100, device='cuda:0')
+7.0 8.0 8.0 7.0 7.0 7.0 7.0 7.0 6.0 5.0 5.0 5.0 6.0 6.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(93.1700, device='cuda:0')
+7.0 8.0 8.0 7.0 7.0 7.0 7.0 7.0 5.0 6.0 5.0 5.0 6.0 6.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.9700, device='cuda:0')
+7.0 8.0 8.0 7.0 7.0 7.0 7.0 6.0 6.0 6.0 5.0 5.0 6.0 6.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(93.0200, device='cuda:0')
+7.0 8.0 8.0 7.0 7.0 7.0 6.0 7.0 6.0 6.0 5.0 5.0 6.0 6.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(93.0900, device='cuda:0')
+7.0 8.0 8.0 7.0 7.0 6.0 7.0 7.0 6.0 6.0 5.0 5.0 6.0 6.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(93., device='cuda:0')
+7.0 8.0 8.0 7.0 6.0 7.0 7.0 7.0 6.0 6.0 5.0 5.0 6.0 6.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(93.0200, device='cuda:0')
+7.0 8.0 8.0 6.0 7.0 7.0 7.0 7.0 6.0 6.0 5.0 5.0 6.0 6.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.9400, device='cuda:0')
+7.0 8.0 7.0 7.0 7.0 7.0 7.0 7.0 6.0 6.0 5.0 5.0 6.0 6.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.9300, device='cuda:0')
+7.0 7.0 8.0 7.0 7.0 7.0 7.0 7.0 6.0 6.0 5.0 5.0 6.0 6.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(93., device='cuda:0')
+6.0 8.0 8.0 7.0 7.0 7.0 7.0 7.0 6.0 6.0 5.0 5.0 6.0 6.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(93.0600, device='cuda:0')
+
+loop max_ii = 9 max_top1 = tensor(93.1700, device='cuda:0')
+time = 39.46805086135864
+Loop 36================================
+7.0 8.0 8.0 7.0 7.0 7.0 7.0 7.0 6.0 5.0 5.0 5.0 6.0 6.0 3.0 4.0 2.0 
+Evaluation accuracy before quantization and fusion:tensor(92.2900, device='cuda:0')
+7.0 8.0 8.0 7.0 7.0 7.0 7.0 7.0 6.0 5.0 5.0 5.0 6.0 6.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.9300, device='cuda:0')
+7.0 8.0 8.0 7.0 7.0 7.0 7.0 7.0 6.0 5.0 5.0 5.0 6.0 6.0 2.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(10.5300, device='cuda:0')
+7.0 8.0 8.0 7.0 7.0 7.0 7.0 7.0 6.0 5.0 5.0 5.0 6.0 5.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(93.0400, device='cuda:0')
+7.0 8.0 8.0 7.0 7.0 7.0 7.0 7.0 6.0 5.0 5.0 5.0 5.0 6.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(93.1300, device='cuda:0')
+7.0 8.0 8.0 7.0 7.0 7.0 7.0 7.0 6.0 5.0 5.0 4.0 6.0 6.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.6400, device='cuda:0')
+7.0 8.0 8.0 7.0 7.0 7.0 7.0 7.0 6.0 5.0 4.0 5.0 6.0 6.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(93.0500, device='cuda:0')
+7.0 8.0 8.0 7.0 7.0 7.0 7.0 7.0 6.0 4.0 5.0 5.0 6.0 6.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(93.0300, device='cuda:0')
+7.0 8.0 8.0 7.0 7.0 7.0 7.0 7.0 5.0 5.0 5.0 5.0 6.0 6.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(93., device='cuda:0')
+7.0 8.0 8.0 7.0 7.0 7.0 7.0 6.0 6.0 5.0 5.0 5.0 6.0 6.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(93.1200, device='cuda:0')
+7.0 8.0 8.0 7.0 7.0 7.0 6.0 7.0 6.0 5.0 5.0 5.0 6.0 6.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(93.1600, device='cuda:0')
+7.0 8.0 8.0 7.0 7.0 6.0 7.0 7.0 6.0 5.0 5.0 5.0 6.0 6.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(93.0800, device='cuda:0')
+7.0 8.0 8.0 7.0 6.0 7.0 7.0 7.0 6.0 5.0 5.0 5.0 6.0 6.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(93.0800, device='cuda:0')
+7.0 8.0 8.0 6.0 7.0 7.0 7.0 7.0 6.0 5.0 5.0 5.0 6.0 6.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.9200, device='cuda:0')
+7.0 8.0 7.0 7.0 7.0 7.0 7.0 7.0 6.0 5.0 5.0 5.0 6.0 6.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.9300, device='cuda:0')
+7.0 7.0 8.0 7.0 7.0 7.0 7.0 7.0 6.0 5.0 5.0 5.0 6.0 6.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.9600, device='cuda:0')
+6.0 8.0 8.0 7.0 7.0 7.0 7.0 7.0 6.0 5.0 5.0 5.0 6.0 6.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(93.0400, device='cuda:0')
+
+loop max_ii = 6 max_top1 = tensor(93.1600, device='cuda:0')
+time = 40.592547889550524
+Loop 37================================
+7.0 8.0 8.0 7.0 7.0 7.0 6.0 7.0 6.0 5.0 5.0 5.0 6.0 6.0 3.0 4.0 2.0 
+Evaluation accuracy before quantization and fusion:tensor(92.1900, device='cuda:0')
+7.0 8.0 8.0 7.0 7.0 7.0 6.0 7.0 6.0 5.0 5.0 5.0 6.0 6.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.9600, device='cuda:0')
+7.0 8.0 8.0 7.0 7.0 7.0 6.0 7.0 6.0 5.0 5.0 5.0 6.0 6.0 2.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(10.3900, device='cuda:0')
+7.0 8.0 8.0 7.0 7.0 7.0 6.0 7.0 6.0 5.0 5.0 5.0 6.0 5.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(93.0500, device='cuda:0')
+7.0 8.0 8.0 7.0 7.0 7.0 6.0 7.0 6.0 5.0 5.0 5.0 5.0 6.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(93.0900, device='cuda:0')
+7.0 8.0 8.0 7.0 7.0 7.0 6.0 7.0 6.0 5.0 5.0 4.0 6.0 6.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.6000, device='cuda:0')
+7.0 8.0 8.0 7.0 7.0 7.0 6.0 7.0 6.0 5.0 4.0 5.0 6.0 6.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(93.0100, device='cuda:0')
+7.0 8.0 8.0 7.0 7.0 7.0 6.0 7.0 6.0 4.0 5.0 5.0 6.0 6.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(93.0300, device='cuda:0')
+7.0 8.0 8.0 7.0 7.0 7.0 6.0 7.0 5.0 5.0 5.0 5.0 6.0 6.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.9300, device='cuda:0')
+7.0 8.0 8.0 7.0 7.0 7.0 6.0 6.0 6.0 5.0 5.0 5.0 6.0 6.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(93.0600, device='cuda:0')
+7.0 8.0 8.0 7.0 7.0 7.0 5.0 7.0 6.0 5.0 5.0 5.0 6.0 6.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(93.1500, device='cuda:0')
+7.0 8.0 8.0 7.0 7.0 6.0 6.0 7.0 6.0 5.0 5.0 5.0 6.0 6.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(93.0500, device='cuda:0')
+7.0 8.0 8.0 7.0 6.0 7.0 6.0 7.0 6.0 5.0 5.0 5.0 6.0 6.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.9800, device='cuda:0')
+7.0 8.0 8.0 6.0 7.0 7.0 6.0 7.0 6.0 5.0 5.0 5.0 6.0 6.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.8900, device='cuda:0')
+7.0 8.0 7.0 7.0 7.0 7.0 6.0 7.0 6.0 5.0 5.0 5.0 6.0 6.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.9200, device='cuda:0')
+7.0 7.0 8.0 7.0 7.0 7.0 6.0 7.0 6.0 5.0 5.0 5.0 6.0 6.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.9600, device='cuda:0')
+6.0 8.0 8.0 7.0 7.0 7.0 6.0 7.0 6.0 5.0 5.0 5.0 6.0 6.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(93., device='cuda:0')
+
+loop max_ii = 6 max_top1 = tensor(93.1500, device='cuda:0')
+time = 41.7149090329806
+Loop 38================================
+7.0 8.0 8.0 7.0 7.0 7.0 5.0 7.0 6.0 5.0 5.0 5.0 6.0 6.0 3.0 4.0 2.0 
+Evaluation accuracy before quantization and fusion:tensor(92.2800, device='cuda:0')
+7.0 8.0 8.0 7.0 7.0 7.0 5.0 7.0 6.0 5.0 5.0 5.0 6.0 6.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.9600, device='cuda:0')
+7.0 8.0 8.0 7.0 7.0 7.0 5.0 7.0 6.0 5.0 5.0 5.0 6.0 6.0 2.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(10.7200, device='cuda:0')
+7.0 8.0 8.0 7.0 7.0 7.0 5.0 7.0 6.0 5.0 5.0 5.0 6.0 5.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(93.1000, device='cuda:0')
+7.0 8.0 8.0 7.0 7.0 7.0 5.0 7.0 6.0 5.0 5.0 5.0 5.0 6.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(93.1300, device='cuda:0')
+7.0 8.0 8.0 7.0 7.0 7.0 5.0 7.0 6.0 5.0 5.0 4.0 6.0 6.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.5700, device='cuda:0')
+7.0 8.0 8.0 7.0 7.0 7.0 5.0 7.0 6.0 5.0 4.0 5.0 6.0 6.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(93.1300, device='cuda:0')
+7.0 8.0 8.0 7.0 7.0 7.0 5.0 7.0 6.0 4.0 5.0 5.0 6.0 6.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(93.0500, device='cuda:0')
+7.0 8.0 8.0 7.0 7.0 7.0 5.0 7.0 5.0 5.0 5.0 5.0 6.0 6.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.9800, device='cuda:0')
+7.0 8.0 8.0 7.0 7.0 7.0 5.0 6.0 6.0 5.0 5.0 5.0 6.0 6.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(93.1100, device='cuda:0')
+7.0 8.0 8.0 7.0 7.0 7.0 4.0 7.0 6.0 5.0 5.0 5.0 6.0 6.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.9000, device='cuda:0')
+7.0 8.0 8.0 7.0 7.0 6.0 5.0 7.0 6.0 5.0 5.0 5.0 6.0 6.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(93.1200, device='cuda:0')
+7.0 8.0 8.0 7.0 6.0 7.0 5.0 7.0 6.0 5.0 5.0 5.0 6.0 6.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(93.0600, device='cuda:0')
+7.0 8.0 8.0 6.0 7.0 7.0 5.0 7.0 6.0 5.0 5.0 5.0 6.0 6.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.9600, device='cuda:0')
+7.0 8.0 7.0 7.0 7.0 7.0 5.0 7.0 6.0 5.0 5.0 5.0 6.0 6.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.9600, device='cuda:0')
+7.0 7.0 8.0 7.0 7.0 7.0 5.0 7.0 6.0 5.0 5.0 5.0 6.0 6.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(93.0200, device='cuda:0')
+6.0 8.0 8.0 7.0 7.0 7.0 5.0 7.0 6.0 5.0 5.0 5.0 6.0 6.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(93.0200, device='cuda:0')
+
+loop max_ii = 12 max_top1 = tensor(93.1300, device='cuda:0')
+time = 42.844137132167816
+Loop 39================================
+7.0 8.0 8.0 7.0 7.0 7.0 5.0 7.0 6.0 5.0 5.0 5.0 5.0 6.0 3.0 4.0 2.0 
+Evaluation accuracy before quantization and fusion:tensor(92.2600, device='cuda:0')
+7.0 8.0 8.0 7.0 7.0 7.0 5.0 7.0 6.0 5.0 5.0 5.0 5.0 6.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.9800, device='cuda:0')
+7.0 8.0 8.0 7.0 7.0 7.0 5.0 7.0 6.0 5.0 5.0 5.0 5.0 6.0 2.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(10.6600, device='cuda:0')
+7.0 8.0 8.0 7.0 7.0 7.0 5.0 7.0 6.0 5.0 5.0 5.0 5.0 5.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(93.1000, device='cuda:0')
+7.0 8.0 8.0 7.0 7.0 7.0 5.0 7.0 6.0 5.0 5.0 5.0 4.0 6.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(93.0600, device='cuda:0')
+7.0 8.0 8.0 7.0 7.0 7.0 5.0 7.0 6.0 5.0 5.0 4.0 5.0 6.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.6000, device='cuda:0')
+7.0 8.0 8.0 7.0 7.0 7.0 5.0 7.0 6.0 5.0 4.0 5.0 5.0 6.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(93.0900, device='cuda:0')
+7.0 8.0 8.0 7.0 7.0 7.0 5.0 7.0 6.0 4.0 5.0 5.0 5.0 6.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(93.0500, device='cuda:0')
+7.0 8.0 8.0 7.0 7.0 7.0 5.0 7.0 5.0 5.0 5.0 5.0 5.0 6.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.9800, device='cuda:0')
+7.0 8.0 8.0 7.0 7.0 7.0 5.0 6.0 6.0 5.0 5.0 5.0 5.0 6.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(93.1000, device='cuda:0')
+7.0 8.0 8.0 7.0 7.0 7.0 4.0 7.0 6.0 5.0 5.0 5.0 5.0 6.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.8600, device='cuda:0')
+7.0 8.0 8.0 7.0 7.0 6.0 5.0 7.0 6.0 5.0 5.0 5.0 5.0 6.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(93.1100, device='cuda:0')
+7.0 8.0 8.0 7.0 6.0 7.0 5.0 7.0 6.0 5.0 5.0 5.0 5.0 6.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(93.0500, device='cuda:0')
+7.0 8.0 8.0 6.0 7.0 7.0 5.0 7.0 6.0 5.0 5.0 5.0 5.0 6.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.9500, device='cuda:0')
+7.0 8.0 7.0 7.0 7.0 7.0 5.0 7.0 6.0 5.0 5.0 5.0 5.0 6.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.9000, device='cuda:0')
+7.0 7.0 8.0 7.0 7.0 7.0 5.0 7.0 6.0 5.0 5.0 5.0 5.0 6.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.9800, device='cuda:0')
+6.0 8.0 8.0 7.0 7.0 7.0 5.0 7.0 6.0 5.0 5.0 5.0 5.0 6.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(93.0500, device='cuda:0')
+
+loop max_ii = 5 max_top1 = tensor(93.1100, device='cuda:0')
+time = 43.968694762388864
+Loop 40================================
+7.0 8.0 8.0 7.0 7.0 6.0 5.0 7.0 6.0 5.0 5.0 5.0 5.0 6.0 3.0 4.0 2.0 
+Evaluation accuracy before quantization and fusion:tensor(92.2300, device='cuda:0')
+7.0 8.0 8.0 7.0 7.0 6.0 5.0 7.0 6.0 5.0 5.0 5.0 5.0 6.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.9000, device='cuda:0')
+7.0 8.0 8.0 7.0 7.0 6.0 5.0 7.0 6.0 5.0 5.0 5.0 5.0 6.0 2.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(11.3000, device='cuda:0')
+7.0 8.0 8.0 7.0 7.0 6.0 5.0 7.0 6.0 5.0 5.0 5.0 5.0 5.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(93.0500, device='cuda:0')
+7.0 8.0 8.0 7.0 7.0 6.0 5.0 7.0 6.0 5.0 5.0 5.0 4.0 6.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(93.0400, device='cuda:0')
+7.0 8.0 8.0 7.0 7.0 6.0 5.0 7.0 6.0 5.0 5.0 4.0 5.0 6.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.6000, device='cuda:0')
+7.0 8.0 8.0 7.0 7.0 6.0 5.0 7.0 6.0 5.0 4.0 5.0 5.0 6.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(93.0600, device='cuda:0')
+7.0 8.0 8.0 7.0 7.0 6.0 5.0 7.0 6.0 4.0 5.0 5.0 5.0 6.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(93., device='cuda:0')
+7.0 8.0 8.0 7.0 7.0 6.0 5.0 7.0 5.0 5.0 5.0 5.0 5.0 6.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.9600, device='cuda:0')
+7.0 8.0 8.0 7.0 7.0 6.0 5.0 6.0 6.0 5.0 5.0 5.0 5.0 6.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(93.0400, device='cuda:0')
+7.0 8.0 8.0 7.0 7.0 6.0 4.0 7.0 6.0 5.0 5.0 5.0 5.0 6.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.8700, device='cuda:0')
+7.0 8.0 8.0 7.0 7.0 5.0 5.0 7.0 6.0 5.0 5.0 5.0 5.0 6.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(93.1000, device='cuda:0')
+7.0 8.0 8.0 7.0 6.0 6.0 5.0 7.0 6.0 5.0 5.0 5.0 5.0 6.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(93.0500, device='cuda:0')
+7.0 8.0 8.0 6.0 7.0 6.0 5.0 7.0 6.0 5.0 5.0 5.0 5.0 6.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.9200, device='cuda:0')
+7.0 8.0 7.0 7.0 7.0 6.0 5.0 7.0 6.0 5.0 5.0 5.0 5.0 6.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.9200, device='cuda:0')
+7.0 7.0 8.0 7.0 7.0 6.0 5.0 7.0 6.0 5.0 5.0 5.0 5.0 6.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(93.0200, device='cuda:0')
+6.0 8.0 8.0 7.0 7.0 6.0 5.0 7.0 6.0 5.0 5.0 5.0 5.0 6.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.9800, device='cuda:0')
+
+loop max_ii = 5 max_top1 = tensor(93.1000, device='cuda:0')
+time = 45.094328514734904
+Loop 41================================
+7.0 8.0 8.0 7.0 7.0 5.0 5.0 7.0 6.0 5.0 5.0 5.0 5.0 6.0 3.0 4.0 2.0 
+Evaluation accuracy before quantization and fusion:tensor(92.2700, device='cuda:0')
+7.0 8.0 8.0 7.0 7.0 5.0 5.0 7.0 6.0 5.0 5.0 5.0 5.0 6.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.9100, device='cuda:0')
+7.0 8.0 8.0 7.0 7.0 5.0 5.0 7.0 6.0 5.0 5.0 5.0 5.0 6.0 2.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(10.3300, device='cuda:0')
+7.0 8.0 8.0 7.0 7.0 5.0 5.0 7.0 6.0 5.0 5.0 5.0 5.0 5.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(93.0700, device='cuda:0')
+7.0 8.0 8.0 7.0 7.0 5.0 5.0 7.0 6.0 5.0 5.0 5.0 4.0 6.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(93., device='cuda:0')
+7.0 8.0 8.0 7.0 7.0 5.0 5.0 7.0 6.0 5.0 5.0 4.0 5.0 6.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.5500, device='cuda:0')
+7.0 8.0 8.0 7.0 7.0 5.0 5.0 7.0 6.0 5.0 4.0 5.0 5.0 6.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(93.2100, device='cuda:0')
+7.0 8.0 8.0 7.0 7.0 5.0 5.0 7.0 6.0 4.0 5.0 5.0 5.0 6.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(93.1200, device='cuda:0')
+7.0 8.0 8.0 7.0 7.0 5.0 5.0 7.0 5.0 5.0 5.0 5.0 5.0 6.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.9900, device='cuda:0')
+7.0 8.0 8.0 7.0 7.0 5.0 5.0 6.0 6.0 5.0 5.0 5.0 5.0 6.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(93.1100, device='cuda:0')
+7.0 8.0 8.0 7.0 7.0 5.0 4.0 7.0 6.0 5.0 5.0 5.0 5.0 6.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.8400, device='cuda:0')
+7.0 8.0 8.0 7.0 7.0 4.0 5.0 7.0 6.0 5.0 5.0 5.0 5.0 6.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.7300, device='cuda:0')
+7.0 8.0 8.0 7.0 6.0 5.0 5.0 7.0 6.0 5.0 5.0 5.0 5.0 6.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(93.1900, device='cuda:0')
+7.0 8.0 8.0 6.0 7.0 5.0 5.0 7.0 6.0 5.0 5.0 5.0 5.0 6.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.9500, device='cuda:0')
+7.0 8.0 7.0 7.0 7.0 5.0 5.0 7.0 6.0 5.0 5.0 5.0 5.0 6.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(93.0500, device='cuda:0')
+7.0 7.0 8.0 7.0 7.0 5.0 5.0 7.0 6.0 5.0 5.0 5.0 5.0 6.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.9300, device='cuda:0')
+6.0 8.0 8.0 7.0 7.0 5.0 5.0 7.0 6.0 5.0 5.0 5.0 5.0 6.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(93.0300, device='cuda:0')
+
+loop max_ii = 10 max_top1 = tensor(93.2100, device='cuda:0')
+time = 46.219770685831705
+Loop 42================================
+7.0 8.0 8.0 7.0 7.0 5.0 5.0 7.0 6.0 5.0 4.0 5.0 5.0 6.0 3.0 4.0 2.0 
+Evaluation accuracy before quantization and fusion:tensor(92.2300, device='cuda:0')
+7.0 8.0 8.0 7.0 7.0 5.0 5.0 7.0 6.0 5.0 4.0 5.0 5.0 6.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(93.1100, device='cuda:0')
+7.0 8.0 8.0 7.0 7.0 5.0 5.0 7.0 6.0 5.0 4.0 5.0 5.0 6.0 2.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(10.8500, device='cuda:0')
+7.0 8.0 8.0 7.0 7.0 5.0 5.0 7.0 6.0 5.0 4.0 5.0 5.0 5.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(93.1500, device='cuda:0')
+7.0 8.0 8.0 7.0 7.0 5.0 5.0 7.0 6.0 5.0 4.0 5.0 4.0 6.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(93.0800, device='cuda:0')
+7.0 8.0 8.0 7.0 7.0 5.0 5.0 7.0 6.0 5.0 4.0 4.0 5.0 6.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.7000, device='cuda:0')
+7.0 8.0 8.0 7.0 7.0 5.0 5.0 7.0 6.0 5.0 3.0 5.0 5.0 6.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.6700, device='cuda:0')
+7.0 8.0 8.0 7.0 7.0 5.0 5.0 7.0 6.0 4.0 4.0 5.0 5.0 6.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(93.1400, device='cuda:0')
+7.0 8.0 8.0 7.0 7.0 5.0 5.0 7.0 5.0 5.0 4.0 5.0 5.0 6.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.9600, device='cuda:0')
+7.0 8.0 8.0 7.0 7.0 5.0 5.0 6.0 6.0 5.0 4.0 5.0 5.0 6.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(93.1600, device='cuda:0')
+7.0 8.0 8.0 7.0 7.0 5.0 4.0 7.0 6.0 5.0 4.0 5.0 5.0 6.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.7200, device='cuda:0')
+7.0 8.0 8.0 7.0 7.0 4.0 5.0 7.0 6.0 5.0 4.0 5.0 5.0 6.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.6800, device='cuda:0')
+7.0 8.0 8.0 7.0 6.0 5.0 5.0 7.0 6.0 5.0 4.0 5.0 5.0 6.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(93.0400, device='cuda:0')
+7.0 8.0 8.0 6.0 7.0 5.0 5.0 7.0 6.0 5.0 4.0 5.0 5.0 6.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.9100, device='cuda:0')
+7.0 8.0 7.0 7.0 7.0 5.0 5.0 7.0 6.0 5.0 4.0 5.0 5.0 6.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(93.0100, device='cuda:0')
+7.0 7.0 8.0 7.0 7.0 5.0 5.0 7.0 6.0 5.0 4.0 5.0 5.0 6.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.9600, device='cuda:0')
+6.0 8.0 8.0 7.0 7.0 5.0 5.0 7.0 6.0 5.0 4.0 5.0 5.0 6.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.9800, device='cuda:0')
+
+loop max_ii = 7 max_top1 = tensor(93.1600, device='cuda:0')
+time = 47.34660919904709
+Loop 43================================
+7.0 8.0 8.0 7.0 7.0 5.0 5.0 6.0 6.0 5.0 4.0 5.0 5.0 6.0 3.0 4.0 2.0 
+Evaluation accuracy before quantization and fusion:tensor(92.2700, device='cuda:0')
+7.0 8.0 8.0 7.0 7.0 5.0 5.0 6.0 6.0 5.0 4.0 5.0 5.0 6.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(93.1100, device='cuda:0')
+7.0 8.0 8.0 7.0 7.0 5.0 5.0 6.0 6.0 5.0 4.0 5.0 5.0 6.0 2.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(11.0500, device='cuda:0')
+7.0 8.0 8.0 7.0 7.0 5.0 5.0 6.0 6.0 5.0 4.0 5.0 5.0 5.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(93.1300, device='cuda:0')
+7.0 8.0 8.0 7.0 7.0 5.0 5.0 6.0 6.0 5.0 4.0 5.0 4.0 6.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(93.1000, device='cuda:0')
+7.0 8.0 8.0 7.0 7.0 5.0 5.0 6.0 6.0 5.0 4.0 4.0 5.0 6.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.7000, device='cuda:0')
+7.0 8.0 8.0 7.0 7.0 5.0 5.0 6.0 6.0 5.0 3.0 5.0 5.0 6.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.6900, device='cuda:0')
+7.0 8.0 8.0 7.0 7.0 5.0 5.0 6.0 6.0 4.0 4.0 5.0 5.0 6.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(93.0700, device='cuda:0')
+7.0 8.0 8.0 7.0 7.0 5.0 5.0 6.0 5.0 5.0 4.0 5.0 5.0 6.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.9400, device='cuda:0')
+7.0 8.0 8.0 7.0 7.0 5.0 5.0 5.0 6.0 5.0 4.0 5.0 5.0 6.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(93.0900, device='cuda:0')
+7.0 8.0 8.0 7.0 7.0 5.0 4.0 6.0 6.0 5.0 4.0 5.0 5.0 6.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.7100, device='cuda:0')
+7.0 8.0 8.0 7.0 7.0 4.0 5.0 6.0 6.0 5.0 4.0 5.0 5.0 6.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.7500, device='cuda:0')
+7.0 8.0 8.0 7.0 6.0 5.0 5.0 6.0 6.0 5.0 4.0 5.0 5.0 6.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(93.0600, device='cuda:0')
+7.0 8.0 8.0 6.0 7.0 5.0 5.0 6.0 6.0 5.0 4.0 5.0 5.0 6.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.8500, device='cuda:0')
+7.0 8.0 7.0 7.0 7.0 5.0 5.0 6.0 6.0 5.0 4.0 5.0 5.0 6.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.9900, device='cuda:0')
+7.0 7.0 8.0 7.0 7.0 5.0 5.0 6.0 6.0 5.0 4.0 5.0 5.0 6.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.9400, device='cuda:0')
+6.0 8.0 8.0 7.0 7.0 5.0 5.0 6.0 6.0 5.0 4.0 5.0 5.0 6.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.9400, device='cuda:0')
+
+loop max_ii = 13 max_top1 = tensor(93.1300, device='cuda:0')
+time = 48.474728119373324
+Loop 44================================
+7.0 8.0 8.0 7.0 7.0 5.0 5.0 6.0 6.0 5.0 4.0 5.0 5.0 5.0 3.0 4.0 2.0 
+Evaluation accuracy before quantization and fusion:tensor(92.2500, device='cuda:0')
+7.0 8.0 8.0 7.0 7.0 5.0 5.0 6.0 6.0 5.0 4.0 5.0 5.0 5.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(93.0200, device='cuda:0')
+7.0 8.0 8.0 7.0 7.0 5.0 5.0 6.0 6.0 5.0 4.0 5.0 5.0 5.0 2.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(10.3100, device='cuda:0')
+7.0 8.0 8.0 7.0 7.0 5.0 5.0 6.0 6.0 5.0 4.0 5.0 5.0 4.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(93.0700, device='cuda:0')
+7.0 8.0 8.0 7.0 7.0 5.0 5.0 6.0 6.0 5.0 4.0 5.0 4.0 5.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(93.0500, device='cuda:0')
+7.0 8.0 8.0 7.0 7.0 5.0 5.0 6.0 6.0 5.0 4.0 4.0 5.0 5.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.6300, device='cuda:0')
+7.0 8.0 8.0 7.0 7.0 5.0 5.0 6.0 6.0 5.0 3.0 5.0 5.0 5.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.6000, device='cuda:0')
+7.0 8.0 8.0 7.0 7.0 5.0 5.0 6.0 6.0 4.0 4.0 5.0 5.0 5.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.9800, device='cuda:0')
+7.0 8.0 8.0 7.0 7.0 5.0 5.0 6.0 5.0 5.0 4.0 5.0 5.0 5.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.8800, device='cuda:0')
+7.0 8.0 8.0 7.0 7.0 5.0 5.0 5.0 6.0 5.0 4.0 5.0 5.0 5.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(93.1400, device='cuda:0')
+7.0 8.0 8.0 7.0 7.0 5.0 4.0 6.0 6.0 5.0 4.0 5.0 5.0 5.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.7000, device='cuda:0')
+7.0 8.0 8.0 7.0 7.0 4.0 5.0 6.0 6.0 5.0 4.0 5.0 5.0 5.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.7600, device='cuda:0')
+7.0 8.0 8.0 7.0 6.0 5.0 5.0 6.0 6.0 5.0 4.0 5.0 5.0 5.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(93.0500, device='cuda:0')
+7.0 8.0 8.0 6.0 7.0 5.0 5.0 6.0 6.0 5.0 4.0 5.0 5.0 5.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.8400, device='cuda:0')
+7.0 8.0 7.0 7.0 7.0 5.0 5.0 6.0 6.0 5.0 4.0 5.0 5.0 5.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(93.0200, device='cuda:0')
+7.0 7.0 8.0 7.0 7.0 5.0 5.0 6.0 6.0 5.0 4.0 5.0 5.0 5.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.8900, device='cuda:0')
+6.0 8.0 8.0 7.0 7.0 5.0 5.0 6.0 6.0 5.0 4.0 5.0 5.0 5.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.9100, device='cuda:0')
+
+loop max_ii = 7 max_top1 = tensor(93.1400, device='cuda:0')
+time = 49.60126820405324
+Loop 45================================
+7.0 8.0 8.0 7.0 7.0 5.0 5.0 5.0 6.0 5.0 4.0 5.0 5.0 5.0 3.0 4.0 2.0 
+Evaluation accuracy before quantization and fusion:tensor(92.2100, device='cuda:0')
+7.0 8.0 8.0 7.0 7.0 5.0 5.0 5.0 6.0 5.0 4.0 5.0 5.0 5.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(93.0400, device='cuda:0')
+7.0 8.0 8.0 7.0 7.0 5.0 5.0 5.0 6.0 5.0 4.0 5.0 5.0 5.0 2.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(10.6400, device='cuda:0')
+7.0 8.0 8.0 7.0 7.0 5.0 5.0 5.0 6.0 5.0 4.0 5.0 5.0 4.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.9400, device='cuda:0')
+7.0 8.0 8.0 7.0 7.0 5.0 5.0 5.0 6.0 5.0 4.0 5.0 4.0 5.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(93.1100, device='cuda:0')
+7.0 8.0 8.0 7.0 7.0 5.0 5.0 5.0 6.0 5.0 4.0 4.0 5.0 5.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.5500, device='cuda:0')
+7.0 8.0 8.0 7.0 7.0 5.0 5.0 5.0 6.0 5.0 3.0 5.0 5.0 5.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.5100, device='cuda:0')
+7.0 8.0 8.0 7.0 7.0 5.0 5.0 5.0 6.0 4.0 4.0 5.0 5.0 5.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(93.1300, device='cuda:0')
+7.0 8.0 8.0 7.0 7.0 5.0 5.0 5.0 5.0 5.0 4.0 5.0 5.0 5.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.9700, device='cuda:0')
+7.0 8.0 8.0 7.0 7.0 5.0 5.0 4.0 6.0 5.0 4.0 5.0 5.0 5.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.9900, device='cuda:0')
+7.0 8.0 8.0 7.0 7.0 5.0 4.0 5.0 6.0 5.0 4.0 5.0 5.0 5.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.7300, device='cuda:0')
+7.0 8.0 8.0 7.0 7.0 4.0 5.0 5.0 6.0 5.0 4.0 5.0 5.0 5.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.7400, device='cuda:0')
+7.0 8.0 8.0 7.0 6.0 5.0 5.0 5.0 6.0 5.0 4.0 5.0 5.0 5.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(93.1100, device='cuda:0')
+7.0 8.0 8.0 6.0 7.0 5.0 5.0 5.0 6.0 5.0 4.0 5.0 5.0 5.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(93.0600, device='cuda:0')
+7.0 8.0 7.0 7.0 7.0 5.0 5.0 5.0 6.0 5.0 4.0 5.0 5.0 5.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.9800, device='cuda:0')
+7.0 7.0 8.0 7.0 7.0 5.0 5.0 5.0 6.0 5.0 4.0 5.0 5.0 5.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.9900, device='cuda:0')
+6.0 8.0 8.0 7.0 7.0 5.0 5.0 5.0 6.0 5.0 4.0 5.0 5.0 5.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.9300, device='cuda:0')
+
+loop max_ii = 9 max_top1 = tensor(93.1300, device='cuda:0')
+time = 50.72887879212697
+Loop 46================================
+7.0 8.0 8.0 7.0 7.0 5.0 5.0 5.0 6.0 4.0 4.0 5.0 5.0 5.0 3.0 4.0 2.0 
+Evaluation accuracy before quantization and fusion:tensor(92.1500, device='cuda:0')
+7.0 8.0 8.0 7.0 7.0 5.0 5.0 5.0 6.0 4.0 4.0 5.0 5.0 5.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.8900, device='cuda:0')
+7.0 8.0 8.0 7.0 7.0 5.0 5.0 5.0 6.0 4.0 4.0 5.0 5.0 5.0 2.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(12.3600, device='cuda:0')
+7.0 8.0 8.0 7.0 7.0 5.0 5.0 5.0 6.0 4.0 4.0 5.0 5.0 4.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(93.0400, device='cuda:0')
+7.0 8.0 8.0 7.0 7.0 5.0 5.0 5.0 6.0 4.0 4.0 5.0 4.0 5.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(93.0400, device='cuda:0')
+7.0 8.0 8.0 7.0 7.0 5.0 5.0 5.0 6.0 4.0 4.0 4.0 5.0 5.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.4200, device='cuda:0')
+7.0 8.0 8.0 7.0 7.0 5.0 5.0 5.0 6.0 4.0 3.0 5.0 5.0 5.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.3700, device='cuda:0')
+7.0 8.0 8.0 7.0 7.0 5.0 5.0 5.0 6.0 3.0 4.0 5.0 5.0 5.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(91.1500, device='cuda:0')
+7.0 8.0 8.0 7.0 7.0 5.0 5.0 5.0 5.0 4.0 4.0 5.0 5.0 5.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(93.0100, device='cuda:0')
+7.0 8.0 8.0 7.0 7.0 5.0 5.0 4.0 6.0 4.0 4.0 5.0 5.0 5.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.9400, device='cuda:0')
+7.0 8.0 8.0 7.0 7.0 5.0 4.0 5.0 6.0 4.0 4.0 5.0 5.0 5.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.7100, device='cuda:0')
+7.0 8.0 8.0 7.0 7.0 4.0 5.0 5.0 6.0 4.0 4.0 5.0 5.0 5.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.6700, device='cuda:0')
+7.0 8.0 8.0 7.0 6.0 5.0 5.0 5.0 6.0 4.0 4.0 5.0 5.0 5.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(93.0400, device='cuda:0')
+7.0 8.0 8.0 6.0 7.0 5.0 5.0 5.0 6.0 4.0 4.0 5.0 5.0 5.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(93.0100, device='cuda:0')
+7.0 8.0 7.0 7.0 7.0 5.0 5.0 5.0 6.0 4.0 4.0 5.0 5.0 5.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(93.0400, device='cuda:0')
+7.0 7.0 8.0 7.0 7.0 5.0 5.0 5.0 6.0 4.0 4.0 5.0 5.0 5.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(93.0500, device='cuda:0')
+6.0 8.0 8.0 7.0 7.0 5.0 5.0 5.0 6.0 4.0 4.0 5.0 5.0 5.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(93.0100, device='cuda:0')
+
+loop max_ii = 1 max_top1 = tensor(93.0500, device='cuda:0')
+time = 51.85474016269048
+Loop 47================================
+7.0 7.0 8.0 7.0 7.0 5.0 5.0 5.0 6.0 4.0 4.0 5.0 5.0 5.0 3.0 4.0 2.0 
+Evaluation accuracy before quantization and fusion:tensor(92.1500, device='cuda:0')
+7.0 7.0 8.0 7.0 7.0 5.0 5.0 5.0 6.0 4.0 4.0 5.0 5.0 5.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.8300, device='cuda:0')
+7.0 7.0 8.0 7.0 7.0 5.0 5.0 5.0 6.0 4.0 4.0 5.0 5.0 5.0 2.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(12.3500, device='cuda:0')
+7.0 7.0 8.0 7.0 7.0 5.0 5.0 5.0 6.0 4.0 4.0 5.0 5.0 4.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.9500, device='cuda:0')
+7.0 7.0 8.0 7.0 7.0 5.0 5.0 5.0 6.0 4.0 4.0 5.0 4.0 5.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.8800, device='cuda:0')
+7.0 7.0 8.0 7.0 7.0 5.0 5.0 5.0 6.0 4.0 4.0 4.0 5.0 5.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.3600, device='cuda:0')
+7.0 7.0 8.0 7.0 7.0 5.0 5.0 5.0 6.0 4.0 3.0 5.0 5.0 5.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.3200, device='cuda:0')
+7.0 7.0 8.0 7.0 7.0 5.0 5.0 5.0 6.0 3.0 4.0 5.0 5.0 5.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(91.1600, device='cuda:0')
+7.0 7.0 8.0 7.0 7.0 5.0 5.0 5.0 5.0 4.0 4.0 5.0 5.0 5.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.8600, device='cuda:0')
+7.0 7.0 8.0 7.0 7.0 5.0 5.0 4.0 6.0 4.0 4.0 5.0 5.0 5.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.8300, device='cuda:0')
+7.0 7.0 8.0 7.0 7.0 5.0 4.0 5.0 6.0 4.0 4.0 5.0 5.0 5.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.6000, device='cuda:0')
+7.0 7.0 8.0 7.0 7.0 4.0 5.0 5.0 6.0 4.0 4.0 5.0 5.0 5.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.6000, device='cuda:0')
+7.0 7.0 8.0 7.0 6.0 5.0 5.0 5.0 6.0 4.0 4.0 5.0 5.0 5.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.9100, device='cuda:0')
+7.0 7.0 8.0 6.0 7.0 5.0 5.0 5.0 6.0 4.0 4.0 5.0 5.0 5.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.7800, device='cuda:0')
+7.0 7.0 7.0 7.0 7.0 5.0 5.0 5.0 6.0 4.0 4.0 5.0 5.0 5.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.7900, device='cuda:0')
+7.0 6.0 8.0 7.0 7.0 5.0 5.0 5.0 6.0 4.0 4.0 5.0 5.0 5.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.9900, device='cuda:0')
+6.0 7.0 8.0 7.0 7.0 5.0 5.0 5.0 6.0 4.0 4.0 5.0 5.0 5.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.9000, device='cuda:0')
+
+loop max_ii = 1 max_top1 = tensor(92.9900, device='cuda:0')
+time = 52.97630394299825
+Loop 48================================
+7.0 6.0 8.0 7.0 7.0 5.0 5.0 5.0 6.0 4.0 4.0 5.0 5.0 5.0 3.0 4.0 2.0 
+Evaluation accuracy before quantization and fusion:tensor(92.1200, device='cuda:0')
+7.0 6.0 8.0 7.0 7.0 5.0 5.0 5.0 6.0 4.0 4.0 5.0 5.0 5.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.9100, device='cuda:0')
+7.0 6.0 8.0 7.0 7.0 5.0 5.0 5.0 6.0 4.0 4.0 5.0 5.0 5.0 2.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(12.0600, device='cuda:0')
+7.0 6.0 8.0 7.0 7.0 5.0 5.0 5.0 6.0 4.0 4.0 5.0 5.0 4.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.8900, device='cuda:0')
+7.0 6.0 8.0 7.0 7.0 5.0 5.0 5.0 6.0 4.0 4.0 5.0 4.0 5.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.9600, device='cuda:0')
+7.0 6.0 8.0 7.0 7.0 5.0 5.0 5.0 6.0 4.0 4.0 4.0 5.0 5.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.4200, device='cuda:0')
+7.0 6.0 8.0 7.0 7.0 5.0 5.0 5.0 6.0 4.0 3.0 5.0 5.0 5.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.3900, device='cuda:0')
+7.0 6.0 8.0 7.0 7.0 5.0 5.0 5.0 6.0 3.0 4.0 5.0 5.0 5.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(91.2400, device='cuda:0')
+7.0 6.0 8.0 7.0 7.0 5.0 5.0 5.0 5.0 4.0 4.0 5.0 5.0 5.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.8600, device='cuda:0')
+7.0 6.0 8.0 7.0 7.0 5.0 5.0 4.0 6.0 4.0 4.0 5.0 5.0 5.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.8700, device='cuda:0')
+7.0 6.0 8.0 7.0 7.0 5.0 4.0 5.0 6.0 4.0 4.0 5.0 5.0 5.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.7300, device='cuda:0')
+7.0 6.0 8.0 7.0 7.0 4.0 5.0 5.0 6.0 4.0 4.0 5.0 5.0 5.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.7000, device='cuda:0')
+7.0 6.0 8.0 7.0 6.0 5.0 5.0 5.0 6.0 4.0 4.0 5.0 5.0 5.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.9800, device='cuda:0')
+7.0 6.0 8.0 6.0 7.0 5.0 5.0 5.0 6.0 4.0 4.0 5.0 5.0 5.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.8300, device='cuda:0')
+7.0 6.0 7.0 7.0 7.0 5.0 5.0 5.0 6.0 4.0 4.0 5.0 5.0 5.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.8600, device='cuda:0')
+7.0 5.0 8.0 7.0 7.0 5.0 5.0 5.0 6.0 4.0 4.0 5.0 5.0 5.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.3900, device='cuda:0')
+6.0 6.0 8.0 7.0 7.0 5.0 5.0 5.0 6.0 4.0 4.0 5.0 5.0 5.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.9400, device='cuda:0')
+
+loop max_ii = 4 max_top1 = tensor(92.9800, device='cuda:0')
+time = 54.09916059176127
+Loop 49================================
+7.0 6.0 8.0 7.0 6.0 5.0 5.0 5.0 6.0 4.0 4.0 5.0 5.0 5.0 3.0 4.0 2.0 
+Evaluation accuracy before quantization and fusion:tensor(92.0700, device='cuda:0')
+7.0 6.0 8.0 7.0 6.0 5.0 5.0 5.0 6.0 4.0 4.0 5.0 5.0 5.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.9400, device='cuda:0')
+7.0 6.0 8.0 7.0 6.0 5.0 5.0 5.0 6.0 4.0 4.0 5.0 5.0 5.0 2.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(13.8800, device='cuda:0')
+7.0 6.0 8.0 7.0 6.0 5.0 5.0 5.0 6.0 4.0 4.0 5.0 5.0 4.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(93.0700, device='cuda:0')
+7.0 6.0 8.0 7.0 6.0 5.0 5.0 5.0 6.0 4.0 4.0 5.0 4.0 5.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(93.0200, device='cuda:0')
+7.0 6.0 8.0 7.0 6.0 5.0 5.0 5.0 6.0 4.0 4.0 4.0 5.0 5.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.4300, device='cuda:0')
+7.0 6.0 8.0 7.0 6.0 5.0 5.0 5.0 6.0 4.0 3.0 5.0 5.0 5.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.2600, device='cuda:0')
+7.0 6.0 8.0 7.0 6.0 5.0 5.0 5.0 6.0 3.0 4.0 5.0 5.0 5.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(91., device='cuda:0')
+7.0 6.0 8.0 7.0 6.0 5.0 5.0 5.0 5.0 4.0 4.0 5.0 5.0 5.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.9500, device='cuda:0')
+7.0 6.0 8.0 7.0 6.0 5.0 5.0 4.0 6.0 4.0 4.0 5.0 5.0 5.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.9600, device='cuda:0')
+7.0 6.0 8.0 7.0 6.0 5.0 4.0 5.0 6.0 4.0 4.0 5.0 5.0 5.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.7200, device='cuda:0')
+7.0 6.0 8.0 7.0 6.0 4.0 5.0 5.0 6.0 4.0 4.0 5.0 5.0 5.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.7800, device='cuda:0')
+7.0 6.0 8.0 7.0 5.0 5.0 5.0 5.0 6.0 4.0 4.0 5.0 5.0 5.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.9500, device='cuda:0')
+7.0 6.0 8.0 6.0 6.0 5.0 5.0 5.0 6.0 4.0 4.0 5.0 5.0 5.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.9100, device='cuda:0')
+7.0 6.0 7.0 7.0 6.0 5.0 5.0 5.0 6.0 4.0 4.0 5.0 5.0 5.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.9800, device='cuda:0')
+7.0 5.0 8.0 7.0 6.0 5.0 5.0 5.0 6.0 4.0 4.0 5.0 5.0 5.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.3700, device='cuda:0')
+6.0 6.0 8.0 7.0 6.0 5.0 5.0 5.0 6.0 4.0 4.0 5.0 5.0 5.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.9900, device='cuda:0')
+
+loop max_ii = 13 max_top1 = tensor(93.0700, device='cuda:0')
+time = 55.23222182194392
+Loop 50================================
+7.0 6.0 8.0 7.0 6.0 5.0 5.0 5.0 6.0 4.0 4.0 5.0 5.0 4.0 3.0 4.0 2.0 
+Evaluation accuracy before quantization and fusion:tensor(90.7900, device='cuda:0')
+7.0 6.0 8.0 7.0 6.0 5.0 5.0 5.0 6.0 4.0 4.0 5.0 5.0 4.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.9900, device='cuda:0')
+7.0 6.0 8.0 7.0 6.0 5.0 5.0 5.0 6.0 4.0 4.0 5.0 5.0 4.0 2.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(14.8900, device='cuda:0')
+7.0 6.0 8.0 7.0 6.0 5.0 5.0 5.0 6.0 4.0 4.0 5.0 5.0 3.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.3900, device='cuda:0')
+7.0 6.0 8.0 7.0 6.0 5.0 5.0 5.0 6.0 4.0 4.0 5.0 4.0 4.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(93.2700, device='cuda:0')
+7.0 6.0 8.0 7.0 6.0 5.0 5.0 5.0 6.0 4.0 4.0 4.0 5.0 4.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.6100, device='cuda:0')
+7.0 6.0 8.0 7.0 6.0 5.0 5.0 5.0 6.0 4.0 3.0 5.0 5.0 4.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.6300, device='cuda:0')
+7.0 6.0 8.0 7.0 6.0 5.0 5.0 5.0 6.0 3.0 4.0 5.0 5.0 4.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(90.6100, device='cuda:0')
+7.0 6.0 8.0 7.0 6.0 5.0 5.0 5.0 5.0 4.0 4.0 5.0 5.0 4.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.7500, device='cuda:0')
+7.0 6.0 8.0 7.0 6.0 5.0 5.0 4.0 6.0 4.0 4.0 5.0 5.0 4.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(93.0200, device='cuda:0')
+7.0 6.0 8.0 7.0 6.0 5.0 4.0 5.0 6.0 4.0 4.0 5.0 5.0 4.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.7000, device='cuda:0')
+7.0 6.0 8.0 7.0 6.0 4.0 5.0 5.0 6.0 4.0 4.0 5.0 5.0 4.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.7100, device='cuda:0')
+7.0 6.0 8.0 7.0 5.0 5.0 5.0 5.0 6.0 4.0 4.0 5.0 5.0 4.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.9200, device='cuda:0')
+7.0 6.0 8.0 6.0 6.0 5.0 5.0 5.0 6.0 4.0 4.0 5.0 5.0 4.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.9300, device='cuda:0')
+7.0 6.0 7.0 7.0 6.0 5.0 5.0 5.0 6.0 4.0 4.0 5.0 5.0 4.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.9600, device='cuda:0')
+7.0 5.0 8.0 7.0 6.0 5.0 5.0 5.0 6.0 4.0 4.0 5.0 5.0 4.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.3500, device='cuda:0')
+6.0 6.0 8.0 7.0 6.0 5.0 5.0 5.0 6.0 4.0 4.0 5.0 5.0 4.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(93.0700, device='cuda:0')
+
+loop max_ii = 12 max_top1 = tensor(93.2700, device='cuda:0')
+time = 56.37680404980977
+Loop 51================================
+7.0 6.0 8.0 7.0 6.0 5.0 5.0 5.0 6.0 4.0 4.0 5.0 4.0 4.0 3.0 4.0 2.0 
+Evaluation accuracy before quantization and fusion:tensor(91.3100, device='cuda:0')
+7.0 6.0 8.0 7.0 6.0 5.0 5.0 5.0 6.0 4.0 4.0 5.0 4.0 4.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(93.1900, device='cuda:0')
+7.0 6.0 8.0 7.0 6.0 5.0 5.0 5.0 6.0 4.0 4.0 5.0 4.0 4.0 2.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(16.2800, device='cuda:0')
+7.0 6.0 8.0 7.0 6.0 5.0 5.0 5.0 6.0 4.0 4.0 5.0 4.0 3.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.5500, device='cuda:0')
+7.0 6.0 8.0 7.0 6.0 5.0 5.0 5.0 6.0 4.0 4.0 5.0 3.0 4.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(90.7800, device='cuda:0')
+7.0 6.0 8.0 7.0 6.0 5.0 5.0 5.0 6.0 4.0 4.0 4.0 4.0 4.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.4600, device='cuda:0')
+7.0 6.0 8.0 7.0 6.0 5.0 5.0 5.0 6.0 4.0 3.0 5.0 4.0 4.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.6300, device='cuda:0')
+7.0 6.0 8.0 7.0 6.0 5.0 5.0 5.0 6.0 3.0 4.0 5.0 4.0 4.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(91.1400, device='cuda:0')
+7.0 6.0 8.0 7.0 6.0 5.0 5.0 5.0 5.0 4.0 4.0 5.0 4.0 4.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(93., device='cuda:0')
+7.0 6.0 8.0 7.0 6.0 5.0 5.0 4.0 6.0 4.0 4.0 5.0 4.0 4.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(93.0100, device='cuda:0')
+7.0 6.0 8.0 7.0 6.0 5.0 4.0 5.0 6.0 4.0 4.0 5.0 4.0 4.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.7000, device='cuda:0')
+7.0 6.0 8.0 7.0 6.0 4.0 5.0 5.0 6.0 4.0 4.0 5.0 4.0 4.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.8000, device='cuda:0')
+7.0 6.0 8.0 7.0 5.0 5.0 5.0 5.0 6.0 4.0 4.0 5.0 4.0 4.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.9300, device='cuda:0')
+7.0 6.0 8.0 6.0 6.0 5.0 5.0 5.0 6.0 4.0 4.0 5.0 4.0 4.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(93.1000, device='cuda:0')
+7.0 6.0 7.0 7.0 6.0 5.0 5.0 5.0 6.0 4.0 4.0 5.0 4.0 4.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(93.1600, device='cuda:0')
+7.0 5.0 8.0 7.0 6.0 5.0 5.0 5.0 6.0 4.0 4.0 5.0 4.0 4.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.5200, device='cuda:0')
+6.0 6.0 8.0 7.0 6.0 5.0 5.0 5.0 6.0 4.0 4.0 5.0 4.0 4.0 3.0 4.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(93.1900, device='cuda:0')
+
+loop max_ii = 15 max_top1 = tensor(93.1900, device='cuda:0')
+time = 57.51381565332413
+Loop 52================================
+7.0 6.0 8.0 7.0 6.0 5.0 5.0 5.0 6.0 4.0 4.0 5.0 4.0 4.0 3.0 3.0 2.0 
+Evaluation accuracy before quantization and fusion:tensor(83.7600, device='cuda:0')
+7.0 6.0 8.0 7.0 6.0 5.0 5.0 5.0 6.0 4.0 4.0 5.0 4.0 4.0 3.0 2.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(16.8100, device='cuda:0')
+7.0 6.0 8.0 7.0 6.0 5.0 5.0 5.0 6.0 4.0 4.0 5.0 4.0 4.0 2.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(10.0200, device='cuda:0')
+7.0 6.0 8.0 7.0 6.0 5.0 5.0 5.0 6.0 4.0 4.0 5.0 4.0 3.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.4000, device='cuda:0')
+7.0 6.0 8.0 7.0 6.0 5.0 5.0 5.0 6.0 4.0 4.0 5.0 3.0 4.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(91.6700, device='cuda:0')
+7.0 6.0 8.0 7.0 6.0 5.0 5.0 5.0 6.0 4.0 4.0 4.0 4.0 4.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.0500, device='cuda:0')
+7.0 6.0 8.0 7.0 6.0 5.0 5.0 5.0 6.0 4.0 3.0 5.0 4.0 4.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.2000, device='cuda:0')
+7.0 6.0 8.0 7.0 6.0 5.0 5.0 5.0 6.0 3.0 4.0 5.0 4.0 4.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(90.2700, device='cuda:0')
+7.0 6.0 8.0 7.0 6.0 5.0 5.0 5.0 5.0 4.0 4.0 5.0 4.0 4.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(93.0900, device='cuda:0')
+7.0 6.0 8.0 7.0 6.0 5.0 5.0 4.0 6.0 4.0 4.0 5.0 4.0 4.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.9000, device='cuda:0')
+7.0 6.0 8.0 7.0 6.0 5.0 4.0 5.0 6.0 4.0 4.0 5.0 4.0 4.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.6900, device='cuda:0')
+7.0 6.0 8.0 7.0 6.0 4.0 5.0 5.0 6.0 4.0 4.0 5.0 4.0 4.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.7300, device='cuda:0')
+7.0 6.0 8.0 7.0 5.0 5.0 5.0 5.0 6.0 4.0 4.0 5.0 4.0 4.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.9900, device='cuda:0')
+7.0 6.0 8.0 6.0 6.0 5.0 5.0 5.0 6.0 4.0 4.0 5.0 4.0 4.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(93.0400, device='cuda:0')
+7.0 6.0 7.0 7.0 6.0 5.0 5.0 5.0 6.0 4.0 4.0 5.0 4.0 4.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.9700, device='cuda:0')
+7.0 5.0 8.0 7.0 6.0 5.0 5.0 5.0 6.0 4.0 4.0 5.0 4.0 4.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.4200, device='cuda:0')
+6.0 6.0 8.0 7.0 6.0 5.0 5.0 5.0 6.0 4.0 4.0 5.0 4.0 4.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(93.1100, device='cuda:0')
+
+loop max_ii = 0 max_top1 = tensor(93.1100, device='cuda:0')
+time = 58.6528272430102
+Loop 53================================
+6.0 6.0 8.0 7.0 6.0 5.0 5.0 5.0 6.0 4.0 4.0 5.0 4.0 4.0 3.0 3.0 2.0 
+Evaluation accuracy before quantization and fusion:tensor(83.8500, device='cuda:0')
+6.0 6.0 8.0 7.0 6.0 5.0 5.0 5.0 6.0 4.0 4.0 5.0 4.0 4.0 3.0 2.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(16.7500, device='cuda:0')
+6.0 6.0 8.0 7.0 6.0 5.0 5.0 5.0 6.0 4.0 4.0 5.0 4.0 4.0 2.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(10.0200, device='cuda:0')
+6.0 6.0 8.0 7.0 6.0 5.0 5.0 5.0 6.0 4.0 4.0 5.0 4.0 3.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.5200, device='cuda:0')
+6.0 6.0 8.0 7.0 6.0 5.0 5.0 5.0 6.0 4.0 4.0 5.0 3.0 4.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(91.5500, device='cuda:0')
+6.0 6.0 8.0 7.0 6.0 5.0 5.0 5.0 6.0 4.0 4.0 4.0 4.0 4.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.1300, device='cuda:0')
+6.0 6.0 8.0 7.0 6.0 5.0 5.0 5.0 6.0 4.0 3.0 5.0 4.0 4.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.2300, device='cuda:0')
+6.0 6.0 8.0 7.0 6.0 5.0 5.0 5.0 6.0 3.0 4.0 5.0 4.0 4.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(90.4300, device='cuda:0')
+6.0 6.0 8.0 7.0 6.0 5.0 5.0 5.0 5.0 4.0 4.0 5.0 4.0 4.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(93.0300, device='cuda:0')
+6.0 6.0 8.0 7.0 6.0 5.0 5.0 4.0 6.0 4.0 4.0 5.0 4.0 4.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.9500, device='cuda:0')
+6.0 6.0 8.0 7.0 6.0 5.0 4.0 5.0 6.0 4.0 4.0 5.0 4.0 4.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.7300, device='cuda:0')
+6.0 6.0 8.0 7.0 6.0 4.0 5.0 5.0 6.0 4.0 4.0 5.0 4.0 4.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.7100, device='cuda:0')
+6.0 6.0 8.0 7.0 5.0 5.0 5.0 5.0 6.0 4.0 4.0 5.0 4.0 4.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(93.0600, device='cuda:0')
+6.0 6.0 8.0 6.0 6.0 5.0 5.0 5.0 6.0 4.0 4.0 5.0 4.0 4.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(93.0100, device='cuda:0')
+6.0 6.0 7.0 7.0 6.0 5.0 5.0 5.0 6.0 4.0 4.0 5.0 4.0 4.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.9100, device='cuda:0')
+6.0 5.0 8.0 7.0 6.0 5.0 5.0 5.0 6.0 4.0 4.0 5.0 4.0 4.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.3500, device='cuda:0')
+5.0 6.0 8.0 7.0 6.0 5.0 5.0 5.0 6.0 4.0 4.0 5.0 4.0 4.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.8800, device='cuda:0')
+
+loop max_ii = 4 max_top1 = tensor(93.0600, device='cuda:0')
+time = 59.788249067465465
+Loop 54================================
+6.0 6.0 8.0 7.0 5.0 5.0 5.0 5.0 6.0 4.0 4.0 5.0 4.0 4.0 3.0 3.0 2.0 
+Evaluation accuracy before quantization and fusion:tensor(83.8500, device='cuda:0')
+6.0 6.0 8.0 7.0 5.0 5.0 5.0 5.0 6.0 4.0 4.0 5.0 4.0 4.0 3.0 2.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(13.9500, device='cuda:0')
+6.0 6.0 8.0 7.0 5.0 5.0 5.0 5.0 6.0 4.0 4.0 5.0 4.0 4.0 2.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(10., device='cuda:0')
+6.0 6.0 8.0 7.0 5.0 5.0 5.0 5.0 6.0 4.0 4.0 5.0 4.0 3.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.6100, device='cuda:0')
+6.0 6.0 8.0 7.0 5.0 5.0 5.0 5.0 6.0 4.0 4.0 5.0 3.0 4.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(91.3300, device='cuda:0')
+6.0 6.0 8.0 7.0 5.0 5.0 5.0 5.0 6.0 4.0 4.0 4.0 4.0 4.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.2400, device='cuda:0')
+6.0 6.0 8.0 7.0 5.0 5.0 5.0 5.0 6.0 4.0 3.0 5.0 4.0 4.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.4100, device='cuda:0')
+6.0 6.0 8.0 7.0 5.0 5.0 5.0 5.0 6.0 3.0 4.0 5.0 4.0 4.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(90.6200, device='cuda:0')
+6.0 6.0 8.0 7.0 5.0 5.0 5.0 5.0 5.0 4.0 4.0 5.0 4.0 4.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(93.0200, device='cuda:0')
+6.0 6.0 8.0 7.0 5.0 5.0 5.0 4.0 6.0 4.0 4.0 5.0 4.0 4.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.9000, device='cuda:0')
+6.0 6.0 8.0 7.0 5.0 5.0 4.0 5.0 6.0 4.0 4.0 5.0 4.0 4.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.8300, device='cuda:0')
+6.0 6.0 8.0 7.0 5.0 4.0 5.0 5.0 6.0 4.0 4.0 5.0 4.0 4.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.7600, device='cuda:0')
+6.0 6.0 8.0 7.0 4.0 5.0 5.0 5.0 6.0 4.0 4.0 5.0 4.0 4.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.8600, device='cuda:0')
+6.0 6.0 8.0 6.0 5.0 5.0 5.0 5.0 6.0 4.0 4.0 5.0 4.0 4.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(93.0500, device='cuda:0')
+6.0 6.0 7.0 7.0 5.0 5.0 5.0 5.0 6.0 4.0 4.0 5.0 4.0 4.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(93.0400, device='cuda:0')
+6.0 5.0 8.0 7.0 5.0 5.0 5.0 5.0 6.0 4.0 4.0 5.0 4.0 4.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.5400, device='cuda:0')
+5.0 6.0 8.0 7.0 5.0 5.0 5.0 5.0 6.0 4.0 4.0 5.0 4.0 4.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.8100, device='cuda:0')
+
+loop max_ii = 3 max_top1 = tensor(93.0500, device='cuda:0')
+time = 60.95889135996501
+Loop 55================================
+6.0 6.0 8.0 6.0 5.0 5.0 5.0 5.0 6.0 4.0 4.0 5.0 4.0 4.0 3.0 3.0 2.0 
+Evaluation accuracy before quantization and fusion:tensor(83.9400, device='cuda:0')
+6.0 6.0 8.0 6.0 5.0 5.0 5.0 5.0 6.0 4.0 4.0 5.0 4.0 4.0 3.0 2.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(13.7500, device='cuda:0')
+6.0 6.0 8.0 6.0 5.0 5.0 5.0 5.0 6.0 4.0 4.0 5.0 4.0 4.0 2.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(10., device='cuda:0')
+6.0 6.0 8.0 6.0 5.0 5.0 5.0 5.0 6.0 4.0 4.0 5.0 4.0 3.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.5400, device='cuda:0')
+6.0 6.0 8.0 6.0 5.0 5.0 5.0 5.0 6.0 4.0 4.0 5.0 3.0 4.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(91.4300, device='cuda:0')
+6.0 6.0 8.0 6.0 5.0 5.0 5.0 5.0 6.0 4.0 4.0 4.0 4.0 4.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.2500, device='cuda:0')
+6.0 6.0 8.0 6.0 5.0 5.0 5.0 5.0 6.0 4.0 3.0 5.0 4.0 4.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.2600, device='cuda:0')
+6.0 6.0 8.0 6.0 5.0 5.0 5.0 5.0 6.0 3.0 4.0 5.0 4.0 4.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(90.7100, device='cuda:0')
+6.0 6.0 8.0 6.0 5.0 5.0 5.0 5.0 5.0 4.0 4.0 5.0 4.0 4.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.9700, device='cuda:0')
+6.0 6.0 8.0 6.0 5.0 5.0 5.0 4.0 6.0 4.0 4.0 5.0 4.0 4.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.8800, device='cuda:0')
+6.0 6.0 8.0 6.0 5.0 5.0 4.0 5.0 6.0 4.0 4.0 5.0 4.0 4.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.6700, device='cuda:0')
+6.0 6.0 8.0 6.0 5.0 4.0 5.0 5.0 6.0 4.0 4.0 5.0 4.0 4.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.7900, device='cuda:0')
+6.0 6.0 8.0 6.0 4.0 5.0 5.0 5.0 6.0 4.0 4.0 5.0 4.0 4.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.8000, device='cuda:0')
+6.0 6.0 8.0 5.0 5.0 5.0 5.0 5.0 6.0 4.0 4.0 5.0 4.0 4.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.9200, device='cuda:0')
+6.0 6.0 7.0 6.0 5.0 5.0 5.0 5.0 6.0 4.0 4.0 5.0 4.0 4.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.9500, device='cuda:0')
+6.0 5.0 8.0 6.0 5.0 5.0 5.0 5.0 6.0 4.0 4.0 5.0 4.0 4.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.5100, device='cuda:0')
+5.0 6.0 8.0 6.0 5.0 5.0 5.0 5.0 6.0 4.0 4.0 5.0 4.0 4.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.7900, device='cuda:0')
+
+loop max_ii = 8 max_top1 = tensor(92.9700, device='cuda:0')
+time = 62.11553867260615
+Loop 56================================
+6.0 6.0 8.0 6.0 5.0 5.0 5.0 5.0 5.0 4.0 4.0 5.0 4.0 4.0 3.0 3.0 2.0 
+Evaluation accuracy before quantization and fusion:tensor(83.5400, device='cuda:0')
+6.0 6.0 8.0 6.0 5.0 5.0 5.0 5.0 5.0 4.0 4.0 5.0 4.0 4.0 3.0 2.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(15.0400, device='cuda:0')
+6.0 6.0 8.0 6.0 5.0 5.0 5.0 5.0 5.0 4.0 4.0 5.0 4.0 4.0 2.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(10., device='cuda:0')
+6.0 6.0 8.0 6.0 5.0 5.0 5.0 5.0 5.0 4.0 4.0 5.0 4.0 3.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.4800, device='cuda:0')
+6.0 6.0 8.0 6.0 5.0 5.0 5.0 5.0 5.0 4.0 4.0 5.0 3.0 4.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(91.2800, device='cuda:0')
+6.0 6.0 8.0 6.0 5.0 5.0 5.0 5.0 5.0 4.0 4.0 4.0 4.0 4.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.3000, device='cuda:0')
+6.0 6.0 8.0 6.0 5.0 5.0 5.0 5.0 5.0 4.0 3.0 5.0 4.0 4.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.3000, device='cuda:0')
+6.0 6.0 8.0 6.0 5.0 5.0 5.0 5.0 5.0 3.0 4.0 5.0 4.0 4.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(91., device='cuda:0')
+6.0 6.0 8.0 6.0 5.0 5.0 5.0 5.0 4.0 4.0 4.0 5.0 4.0 4.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.8900, device='cuda:0')
+6.0 6.0 8.0 6.0 5.0 5.0 5.0 4.0 5.0 4.0 4.0 5.0 4.0 4.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.8800, device='cuda:0')
+6.0 6.0 8.0 6.0 5.0 5.0 4.0 5.0 5.0 4.0 4.0 5.0 4.0 4.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.5800, device='cuda:0')
+6.0 6.0 8.0 6.0 5.0 4.0 5.0 5.0 5.0 4.0 4.0 5.0 4.0 4.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.6600, device='cuda:0')
+6.0 6.0 8.0 6.0 4.0 5.0 5.0 5.0 5.0 4.0 4.0 5.0 4.0 4.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.7600, device='cuda:0')
+6.0 6.0 8.0 5.0 5.0 5.0 5.0 5.0 5.0 4.0 4.0 5.0 4.0 4.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.8800, device='cuda:0')
+6.0 6.0 7.0 6.0 5.0 5.0 5.0 5.0 5.0 4.0 4.0 5.0 4.0 4.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.9200, device='cuda:0')
+6.0 5.0 8.0 6.0 5.0 5.0 5.0 5.0 5.0 4.0 4.0 5.0 4.0 4.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.4200, device='cuda:0')
+5.0 6.0 8.0 6.0 5.0 5.0 5.0 5.0 5.0 4.0 4.0 5.0 4.0 4.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.7300, device='cuda:0')
+
+loop max_ii = 2 max_top1 = tensor(92.9200, device='cuda:0')
+time = 63.28835197289785
+Loop 57================================
+6.0 6.0 7.0 6.0 5.0 5.0 5.0 5.0 5.0 4.0 4.0 5.0 4.0 4.0 3.0 3.0 2.0 
+Evaluation accuracy before quantization and fusion:tensor(83.6200, device='cuda:0')
+6.0 6.0 7.0 6.0 5.0 5.0 5.0 5.0 5.0 4.0 4.0 5.0 4.0 4.0 3.0 2.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(15.1300, device='cuda:0')
+6.0 6.0 7.0 6.0 5.0 5.0 5.0 5.0 5.0 4.0 4.0 5.0 4.0 4.0 2.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(10., device='cuda:0')
+6.0 6.0 7.0 6.0 5.0 5.0 5.0 5.0 5.0 4.0 4.0 5.0 4.0 3.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.4300, device='cuda:0')
+6.0 6.0 7.0 6.0 5.0 5.0 5.0 5.0 5.0 4.0 4.0 5.0 3.0 4.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(91.2300, device='cuda:0')
+6.0 6.0 7.0 6.0 5.0 5.0 5.0 5.0 5.0 4.0 4.0 4.0 4.0 4.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.2500, device='cuda:0')
+6.0 6.0 7.0 6.0 5.0 5.0 5.0 5.0 5.0 4.0 3.0 5.0 4.0 4.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.2500, device='cuda:0')
+6.0 6.0 7.0 6.0 5.0 5.0 5.0 5.0 5.0 3.0 4.0 5.0 4.0 4.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(90.8500, device='cuda:0')
+6.0 6.0 7.0 6.0 5.0 5.0 5.0 5.0 4.0 4.0 4.0 5.0 4.0 4.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.7900, device='cuda:0')
+6.0 6.0 7.0 6.0 5.0 5.0 5.0 4.0 5.0 4.0 4.0 5.0 4.0 4.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.8300, device='cuda:0')
+6.0 6.0 7.0 6.0 5.0 5.0 4.0 5.0 5.0 4.0 4.0 5.0 4.0 4.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.4400, device='cuda:0')
+6.0 6.0 7.0 6.0 5.0 4.0 5.0 5.0 5.0 4.0 4.0 5.0 4.0 4.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.5000, device='cuda:0')
+6.0 6.0 7.0 6.0 4.0 5.0 5.0 5.0 5.0 4.0 4.0 5.0 4.0 4.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.6000, device='cuda:0')
+6.0 6.0 7.0 5.0 5.0 5.0 5.0 5.0 5.0 4.0 4.0 5.0 4.0 4.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.8900, device='cuda:0')
+6.0 6.0 6.0 6.0 5.0 5.0 5.0 5.0 5.0 4.0 4.0 5.0 4.0 4.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.8700, device='cuda:0')
+6.0 5.0 7.0 6.0 5.0 5.0 5.0 5.0 5.0 4.0 4.0 5.0 4.0 4.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.2700, device='cuda:0')
+5.0 6.0 7.0 6.0 5.0 5.0 5.0 5.0 5.0 4.0 4.0 5.0 4.0 4.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.5700, device='cuda:0')
+
+loop max_ii = 3 max_top1 = tensor(92.8900, device='cuda:0')
+time = 64.45576250155767
+Loop 58================================
+6.0 6.0 7.0 5.0 5.0 5.0 5.0 5.0 5.0 4.0 4.0 5.0 4.0 4.0 3.0 3.0 2.0 
+Evaluation accuracy before quantization and fusion:tensor(84.1100, device='cuda:0')
+6.0 6.0 7.0 5.0 5.0 5.0 5.0 5.0 5.0 4.0 4.0 5.0 4.0 4.0 3.0 2.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(14.6100, device='cuda:0')
+6.0 6.0 7.0 5.0 5.0 5.0 5.0 5.0 5.0 4.0 4.0 5.0 4.0 4.0 2.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(10., device='cuda:0')
+6.0 6.0 7.0 5.0 5.0 5.0 5.0 5.0 5.0 4.0 4.0 5.0 4.0 3.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.3600, device='cuda:0')
+6.0 6.0 7.0 5.0 5.0 5.0 5.0 5.0 5.0 4.0 4.0 5.0 3.0 4.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(91.3200, device='cuda:0')
+6.0 6.0 7.0 5.0 5.0 5.0 5.0 5.0 5.0 4.0 4.0 4.0 4.0 4.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.1500, device='cuda:0')
+6.0 6.0 7.0 5.0 5.0 5.0 5.0 5.0 5.0 4.0 3.0 5.0 4.0 4.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.2900, device='cuda:0')
+6.0 6.0 7.0 5.0 5.0 5.0 5.0 5.0 5.0 3.0 4.0 5.0 4.0 4.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(90.4700, device='cuda:0')
+6.0 6.0 7.0 5.0 5.0 5.0 5.0 5.0 4.0 4.0 4.0 5.0 4.0 4.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.8300, device='cuda:0')
+6.0 6.0 7.0 5.0 5.0 5.0 5.0 4.0 5.0 4.0 4.0 5.0 4.0 4.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.8300, device='cuda:0')
+6.0 6.0 7.0 5.0 5.0 5.0 4.0 5.0 5.0 4.0 4.0 5.0 4.0 4.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.7000, device='cuda:0')
+6.0 6.0 7.0 5.0 5.0 4.0 5.0 5.0 5.0 4.0 4.0 5.0 4.0 4.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.5800, device='cuda:0')
+6.0 6.0 7.0 5.0 4.0 5.0 5.0 5.0 5.0 4.0 4.0 5.0 4.0 4.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.5700, device='cuda:0')
+6.0 6.0 7.0 4.0 5.0 5.0 5.0 5.0 5.0 4.0 4.0 5.0 4.0 4.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.6100, device='cuda:0')
+6.0 6.0 6.0 5.0 5.0 5.0 5.0 5.0 5.0 4.0 4.0 5.0 4.0 4.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.5400, device='cuda:0')
+6.0 5.0 7.0 5.0 5.0 5.0 5.0 5.0 5.0 4.0 4.0 5.0 4.0 4.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.2300, device='cuda:0')
+5.0 6.0 7.0 5.0 5.0 5.0 5.0 5.0 5.0 4.0 4.0 5.0 4.0 4.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.6200, device='cuda:0')
+
+loop max_ii = 8 max_top1 = tensor(92.8300, device='cuda:0')
+time = 65.61910041968028
+Loop 59================================
+6.0 6.0 7.0 5.0 5.0 5.0 5.0 5.0 4.0 4.0 4.0 5.0 4.0 4.0 3.0 3.0 2.0 
+Evaluation accuracy before quantization and fusion:tensor(83.6700, device='cuda:0')
+6.0 6.0 7.0 5.0 5.0 5.0 5.0 5.0 4.0 4.0 4.0 5.0 4.0 4.0 3.0 2.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(13.6100, device='cuda:0')
+6.0 6.0 7.0 5.0 5.0 5.0 5.0 5.0 4.0 4.0 4.0 5.0 4.0 4.0 2.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(10., device='cuda:0')
+6.0 6.0 7.0 5.0 5.0 5.0 5.0 5.0 4.0 4.0 4.0 5.0 4.0 3.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.3800, device='cuda:0')
+6.0 6.0 7.0 5.0 5.0 5.0 5.0 5.0 4.0 4.0 4.0 5.0 3.0 4.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(91.2800, device='cuda:0')
+6.0 6.0 7.0 5.0 5.0 5.0 5.0 5.0 4.0 4.0 4.0 4.0 4.0 4.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.1500, device='cuda:0')
+6.0 6.0 7.0 5.0 5.0 5.0 5.0 5.0 4.0 4.0 3.0 5.0 4.0 4.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.2000, device='cuda:0')
+6.0 6.0 7.0 5.0 5.0 5.0 5.0 5.0 4.0 3.0 4.0 5.0 4.0 4.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(90.4500, device='cuda:0')
+6.0 6.0 7.0 5.0 5.0 5.0 5.0 5.0 3.0 4.0 4.0 5.0 4.0 4.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(88.7100, device='cuda:0')
+6.0 6.0 7.0 5.0 5.0 5.0 5.0 4.0 4.0 4.0 4.0 5.0 4.0 4.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.9100, device='cuda:0')
+6.0 6.0 7.0 5.0 5.0 5.0 4.0 5.0 4.0 4.0 4.0 5.0 4.0 4.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.6400, device='cuda:0')
+6.0 6.0 7.0 5.0 5.0 4.0 5.0 5.0 4.0 4.0 4.0 5.0 4.0 4.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.7000, device='cuda:0')
+6.0 6.0 7.0 5.0 4.0 5.0 5.0 5.0 4.0 4.0 4.0 5.0 4.0 4.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.6700, device='cuda:0')
+6.0 6.0 7.0 4.0 5.0 5.0 5.0 5.0 4.0 4.0 4.0 5.0 4.0 4.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.5000, device='cuda:0')
+6.0 6.0 6.0 5.0 5.0 5.0 5.0 5.0 4.0 4.0 4.0 5.0 4.0 4.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.6900, device='cuda:0')
+6.0 5.0 7.0 5.0 5.0 5.0 5.0 5.0 4.0 4.0 4.0 5.0 4.0 4.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.2800, device='cuda:0')
+5.0 6.0 7.0 5.0 5.0 5.0 5.0 5.0 4.0 4.0 4.0 5.0 4.0 4.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.5400, device='cuda:0')
+
+loop max_ii = 7 max_top1 = tensor(92.9100, device='cuda:0')
+time = 66.77729875246683
+Loop 60================================
+6.0 6.0 7.0 5.0 5.0 5.0 5.0 4.0 4.0 4.0 4.0 5.0 4.0 4.0 3.0 3.0 2.0 
+Evaluation accuracy before quantization and fusion:tensor(82.9200, device='cuda:0')
+6.0 6.0 7.0 5.0 5.0 5.0 5.0 4.0 4.0 4.0 4.0 5.0 4.0 4.0 3.0 2.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(12.3600, device='cuda:0')
+6.0 6.0 7.0 5.0 5.0 5.0 5.0 4.0 4.0 4.0 4.0 5.0 4.0 4.0 2.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(10., device='cuda:0')
+6.0 6.0 7.0 5.0 5.0 5.0 5.0 4.0 4.0 4.0 4.0 5.0 4.0 3.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.4700, device='cuda:0')
+6.0 6.0 7.0 5.0 5.0 5.0 5.0 4.0 4.0 4.0 4.0 5.0 3.0 4.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(91.2700, device='cuda:0')
+6.0 6.0 7.0 5.0 5.0 5.0 5.0 4.0 4.0 4.0 4.0 4.0 4.0 4.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(91.8900, device='cuda:0')
+6.0 6.0 7.0 5.0 5.0 5.0 5.0 4.0 4.0 4.0 3.0 5.0 4.0 4.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.2400, device='cuda:0')
+6.0 6.0 7.0 5.0 5.0 5.0 5.0 4.0 4.0 3.0 4.0 5.0 4.0 4.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(90.5600, device='cuda:0')
+6.0 6.0 7.0 5.0 5.0 5.0 5.0 4.0 3.0 4.0 4.0 5.0 4.0 4.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(88.5400, device='cuda:0')
+6.0 6.0 7.0 5.0 5.0 5.0 5.0 3.0 4.0 4.0 4.0 5.0 4.0 4.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(87.4500, device='cuda:0')
+6.0 6.0 7.0 5.0 5.0 5.0 4.0 4.0 4.0 4.0 4.0 5.0 4.0 4.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.6500, device='cuda:0')
+6.0 6.0 7.0 5.0 5.0 4.0 5.0 4.0 4.0 4.0 4.0 5.0 4.0 4.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.5400, device='cuda:0')
+6.0 6.0 7.0 5.0 4.0 5.0 5.0 4.0 4.0 4.0 4.0 5.0 4.0 4.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.5400, device='cuda:0')
+6.0 6.0 7.0 4.0 5.0 5.0 5.0 4.0 4.0 4.0 4.0 5.0 4.0 4.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.6500, device='cuda:0')
+6.0 6.0 6.0 5.0 5.0 5.0 5.0 4.0 4.0 4.0 4.0 5.0 4.0 4.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.7000, device='cuda:0')
+6.0 5.0 7.0 5.0 5.0 5.0 5.0 4.0 4.0 4.0 4.0 5.0 4.0 4.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.2800, device='cuda:0')
+5.0 6.0 7.0 5.0 5.0 5.0 5.0 4.0 4.0 4.0 4.0 5.0 4.0 4.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.4900, device='cuda:0')
+
+loop max_ii = 2 max_top1 = tensor(92.7000, device='cuda:0')
+time = 67.9399028857549
+Loop 61================================
+6.0 6.0 6.0 5.0 5.0 5.0 5.0 4.0 4.0 4.0 4.0 5.0 4.0 4.0 3.0 3.0 2.0 
+Evaluation accuracy before quantization and fusion:tensor(82.9000, device='cuda:0')
+6.0 6.0 6.0 5.0 5.0 5.0 5.0 4.0 4.0 4.0 4.0 5.0 4.0 4.0 3.0 2.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(12.0600, device='cuda:0')
+6.0 6.0 6.0 5.0 5.0 5.0 5.0 4.0 4.0 4.0 4.0 5.0 4.0 4.0 2.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(10., device='cuda:0')
+6.0 6.0 6.0 5.0 5.0 5.0 5.0 4.0 4.0 4.0 4.0 5.0 4.0 3.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.3700, device='cuda:0')
+6.0 6.0 6.0 5.0 5.0 5.0 5.0 4.0 4.0 4.0 4.0 5.0 3.0 4.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(91.1400, device='cuda:0')
+6.0 6.0 6.0 5.0 5.0 5.0 5.0 4.0 4.0 4.0 4.0 4.0 4.0 4.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(91.8400, device='cuda:0')
+6.0 6.0 6.0 5.0 5.0 5.0 5.0 4.0 4.0 4.0 3.0 5.0 4.0 4.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.1600, device='cuda:0')
+6.0 6.0 6.0 5.0 5.0 5.0 5.0 4.0 4.0 3.0 4.0 5.0 4.0 4.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(90.4900, device='cuda:0')
+6.0 6.0 6.0 5.0 5.0 5.0 5.0 4.0 3.0 4.0 4.0 5.0 4.0 4.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(88.4300, device='cuda:0')
+6.0 6.0 6.0 5.0 5.0 5.0 5.0 3.0 4.0 4.0 4.0 5.0 4.0 4.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(87.3000, device='cuda:0')
+6.0 6.0 6.0 5.0 5.0 5.0 4.0 4.0 4.0 4.0 4.0 5.0 4.0 4.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.5000, device='cuda:0')
+6.0 6.0 6.0 5.0 5.0 4.0 5.0 4.0 4.0 4.0 4.0 5.0 4.0 4.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.5600, device='cuda:0')
+6.0 6.0 6.0 5.0 4.0 5.0 5.0 4.0 4.0 4.0 4.0 5.0 4.0 4.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.4400, device='cuda:0')
+6.0 6.0 6.0 4.0 5.0 5.0 5.0 4.0 4.0 4.0 4.0 5.0 4.0 4.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.4800, device='cuda:0')
+6.0 6.0 5.0 5.0 5.0 5.0 5.0 4.0 4.0 4.0 4.0 5.0 4.0 4.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.5300, device='cuda:0')
+6.0 5.0 6.0 5.0 5.0 5.0 5.0 4.0 4.0 4.0 4.0 5.0 4.0 4.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.2000, device='cuda:0')
+5.0 6.0 6.0 5.0 5.0 5.0 5.0 4.0 4.0 4.0 4.0 5.0 4.0 4.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.5200, device='cuda:0')
+
+loop max_ii = 5 max_top1 = tensor(92.5600, device='cuda:0')
+time = 69.10889951785406
+Loop 62================================
+6.0 6.0 6.0 5.0 5.0 4.0 5.0 4.0 4.0 4.0 4.0 5.0 4.0 4.0 3.0 3.0 2.0 
+Evaluation accuracy before quantization and fusion:tensor(82.3600, device='cuda:0')
+6.0 6.0 6.0 5.0 5.0 4.0 5.0 4.0 4.0 4.0 4.0 5.0 4.0 4.0 3.0 2.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(11.4900, device='cuda:0')
+6.0 6.0 6.0 5.0 5.0 4.0 5.0 4.0 4.0 4.0 4.0 5.0 4.0 4.0 2.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(10., device='cuda:0')
+6.0 6.0 6.0 5.0 5.0 4.0 5.0 4.0 4.0 4.0 4.0 5.0 4.0 3.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.1200, device='cuda:0')
+6.0 6.0 6.0 5.0 5.0 4.0 5.0 4.0 4.0 4.0 4.0 5.0 3.0 4.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(90.6200, device='cuda:0')
+6.0 6.0 6.0 5.0 5.0 4.0 5.0 4.0 4.0 4.0 4.0 4.0 4.0 4.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(91.6600, device='cuda:0')
+6.0 6.0 6.0 5.0 5.0 4.0 5.0 4.0 4.0 4.0 3.0 5.0 4.0 4.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.1700, device='cuda:0')
+6.0 6.0 6.0 5.0 5.0 4.0 5.0 4.0 4.0 3.0 4.0 5.0 4.0 4.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(90.1700, device='cuda:0')
+6.0 6.0 6.0 5.0 5.0 4.0 5.0 4.0 3.0 4.0 4.0 5.0 4.0 4.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(88.1300, device='cuda:0')
+6.0 6.0 6.0 5.0 5.0 4.0 5.0 3.0 4.0 4.0 4.0 5.0 4.0 4.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(86.9300, device='cuda:0')
+6.0 6.0 6.0 5.0 5.0 4.0 4.0 4.0 4.0 4.0 4.0 5.0 4.0 4.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.4700, device='cuda:0')
+6.0 6.0 6.0 5.0 5.0 3.0 5.0 4.0 4.0 4.0 4.0 5.0 4.0 4.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(86.7600, device='cuda:0')
+6.0 6.0 6.0 5.0 4.0 4.0 5.0 4.0 4.0 4.0 4.0 5.0 4.0 4.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.3200, device='cuda:0')
+6.0 6.0 6.0 4.0 5.0 4.0 5.0 4.0 4.0 4.0 4.0 5.0 4.0 4.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.4500, device='cuda:0')
+6.0 6.0 5.0 5.0 5.0 4.0 5.0 4.0 4.0 4.0 4.0 5.0 4.0 4.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.2800, device='cuda:0')
+6.0 5.0 6.0 5.0 5.0 4.0 5.0 4.0 4.0 4.0 4.0 5.0 4.0 4.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(91.9700, device='cuda:0')
+5.0 6.0 6.0 5.0 5.0 4.0 5.0 4.0 4.0 4.0 4.0 5.0 4.0 4.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.2600, device='cuda:0')
+
+loop max_ii = 6 max_top1 = tensor(92.4700, device='cuda:0')
+time = 70.27614231506983
+Loop 63================================
+6.0 6.0 6.0 5.0 5.0 4.0 4.0 4.0 4.0 4.0 4.0 5.0 4.0 4.0 3.0 3.0 2.0 
+Evaluation accuracy before quantization and fusion:tensor(82.1500, device='cuda:0')
+6.0 6.0 6.0 5.0 5.0 4.0 4.0 4.0 4.0 4.0 4.0 5.0 4.0 4.0 3.0 2.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(10.8200, device='cuda:0')
+6.0 6.0 6.0 5.0 5.0 4.0 4.0 4.0 4.0 4.0 4.0 5.0 4.0 4.0 2.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(10., device='cuda:0')
+6.0 6.0 6.0 5.0 5.0 4.0 4.0 4.0 4.0 4.0 4.0 5.0 4.0 3.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(91.9700, device='cuda:0')
+6.0 6.0 6.0 5.0 5.0 4.0 4.0 4.0 4.0 4.0 4.0 5.0 3.0 4.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(90.7100, device='cuda:0')
+6.0 6.0 6.0 5.0 5.0 4.0 4.0 4.0 4.0 4.0 4.0 4.0 4.0 4.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(91.8300, device='cuda:0')
+6.0 6.0 6.0 5.0 5.0 4.0 4.0 4.0 4.0 4.0 3.0 5.0 4.0 4.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.0400, device='cuda:0')
+6.0 6.0 6.0 5.0 5.0 4.0 4.0 4.0 4.0 3.0 4.0 5.0 4.0 4.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(90.1200, device='cuda:0')
+6.0 6.0 6.0 5.0 5.0 4.0 4.0 4.0 3.0 4.0 4.0 5.0 4.0 4.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(88.3300, device='cuda:0')
+6.0 6.0 6.0 5.0 5.0 4.0 4.0 3.0 4.0 4.0 4.0 5.0 4.0 4.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(86.7500, device='cuda:0')
+6.0 6.0 6.0 5.0 5.0 4.0 3.0 4.0 4.0 4.0 4.0 5.0 4.0 4.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(91.9600, device='cuda:0')
+6.0 6.0 6.0 5.0 5.0 3.0 4.0 4.0 4.0 4.0 4.0 5.0 4.0 4.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(87.4500, device='cuda:0')
+6.0 6.0 6.0 5.0 4.0 4.0 4.0 4.0 4.0 4.0 4.0 5.0 4.0 4.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.2400, device='cuda:0')
+6.0 6.0 6.0 4.0 5.0 4.0 4.0 4.0 4.0 4.0 4.0 5.0 4.0 4.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.2800, device='cuda:0')
+6.0 6.0 5.0 5.0 5.0 4.0 4.0 4.0 4.0 4.0 4.0 5.0 4.0 4.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.1300, device='cuda:0')
+6.0 5.0 6.0 5.0 5.0 4.0 4.0 4.0 4.0 4.0 4.0 5.0 4.0 4.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(91.9200, device='cuda:0')
+5.0 6.0 6.0 5.0 5.0 4.0 4.0 4.0 4.0 4.0 4.0 5.0 4.0 4.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.1400, device='cuda:0')
+
+loop max_ii = 3 max_top1 = tensor(92.2800, device='cuda:0')
+time = 71.44260360002518
+Loop 64================================
+6.0 6.0 6.0 4.0 5.0 4.0 4.0 4.0 4.0 4.0 4.0 5.0 4.0 4.0 3.0 3.0 2.0 
+Evaluation accuracy before quantization and fusion:tensor(82.3000, device='cuda:0')
+6.0 6.0 6.0 4.0 5.0 4.0 4.0 4.0 4.0 4.0 4.0 5.0 4.0 4.0 3.0 2.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(12.0600, device='cuda:0')
+6.0 6.0 6.0 4.0 5.0 4.0 4.0 4.0 4.0 4.0 4.0 5.0 4.0 4.0 2.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(10., device='cuda:0')
+6.0 6.0 6.0 4.0 5.0 4.0 4.0 4.0 4.0 4.0 4.0 5.0 4.0 3.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(91.7400, device='cuda:0')
+6.0 6.0 6.0 4.0 5.0 4.0 4.0 4.0 4.0 4.0 4.0 5.0 3.0 4.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(90.7300, device='cuda:0')
+6.0 6.0 6.0 4.0 5.0 4.0 4.0 4.0 4.0 4.0 4.0 4.0 4.0 4.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(91.7200, device='cuda:0')
+6.0 6.0 6.0 4.0 5.0 4.0 4.0 4.0 4.0 4.0 3.0 5.0 4.0 4.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(91.7600, device='cuda:0')
+6.0 6.0 6.0 4.0 5.0 4.0 4.0 4.0 4.0 3.0 4.0 5.0 4.0 4.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(89.6400, device='cuda:0')
+6.0 6.0 6.0 4.0 5.0 4.0 4.0 4.0 3.0 4.0 4.0 5.0 4.0 4.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(87.8800, device='cuda:0')
+6.0 6.0 6.0 4.0 5.0 4.0 4.0 3.0 4.0 4.0 4.0 5.0 4.0 4.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(87.0900, device='cuda:0')
+6.0 6.0 6.0 4.0 5.0 4.0 3.0 4.0 4.0 4.0 4.0 5.0 4.0 4.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(91.8300, device='cuda:0')
+6.0 6.0 6.0 4.0 5.0 3.0 4.0 4.0 4.0 4.0 4.0 5.0 4.0 4.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(86.9600, device='cuda:0')
+6.0 6.0 6.0 4.0 4.0 4.0 4.0 4.0 4.0 4.0 4.0 5.0 4.0 4.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(91.9700, device='cuda:0')
+6.0 6.0 6.0 3.0 5.0 4.0 4.0 4.0 4.0 4.0 4.0 5.0 4.0 4.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(89.2000, device='cuda:0')
+6.0 6.0 5.0 4.0 5.0 4.0 4.0 4.0 4.0 4.0 4.0 5.0 4.0 4.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(92.0400, device='cuda:0')
+6.0 5.0 6.0 4.0 5.0 4.0 4.0 4.0 4.0 4.0 4.0 5.0 4.0 4.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(91.8300, device='cuda:0')
+5.0 6.0 6.0 4.0 5.0 4.0 4.0 4.0 4.0 4.0 4.0 5.0 4.0 4.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(91.7800, device='cuda:0')
+
+loop max_ii = 2 max_top1 = tensor(92.0400, device='cuda:0')
+time = 72.60361562172572
+Loop 65================================
+6.0 6.0 5.0 4.0 5.0 4.0 4.0 4.0 4.0 4.0 4.0 5.0 4.0 4.0 3.0 3.0 2.0 
+Evaluation accuracy before quantization and fusion:tensor(82.5800, device='cuda:0')
+6.0 6.0 5.0 4.0 5.0 4.0 4.0 4.0 4.0 4.0 4.0 5.0 4.0 4.0 3.0 2.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(11.6600, device='cuda:0')
+6.0 6.0 5.0 4.0 5.0 4.0 4.0 4.0 4.0 4.0 4.0 5.0 4.0 4.0 2.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(10., device='cuda:0')
+6.0 6.0 5.0 4.0 5.0 4.0 4.0 4.0 4.0 4.0 4.0 5.0 4.0 3.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(91.4400, device='cuda:0')
+6.0 6.0 5.0 4.0 5.0 4.0 4.0 4.0 4.0 4.0 4.0 5.0 3.0 4.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(90.5300, device='cuda:0')
+6.0 6.0 5.0 4.0 5.0 4.0 4.0 4.0 4.0 4.0 4.0 4.0 4.0 4.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(91.1700, device='cuda:0')
+6.0 6.0 5.0 4.0 5.0 4.0 4.0 4.0 4.0 4.0 3.0 5.0 4.0 4.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(91.5300, device='cuda:0')
+6.0 6.0 5.0 4.0 5.0 4.0 4.0 4.0 4.0 3.0 4.0 5.0 4.0 4.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(89.3400, device='cuda:0')
+6.0 6.0 5.0 4.0 5.0 4.0 4.0 4.0 3.0 4.0 4.0 5.0 4.0 4.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(87.7800, device='cuda:0')
+6.0 6.0 5.0 4.0 5.0 4.0 4.0 3.0 4.0 4.0 4.0 5.0 4.0 4.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(87.2700, device='cuda:0')
+6.0 6.0 5.0 4.0 5.0 4.0 3.0 4.0 4.0 4.0 4.0 5.0 4.0 4.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(91.4500, device='cuda:0')
+6.0 6.0 5.0 4.0 5.0 3.0 4.0 4.0 4.0 4.0 4.0 5.0 4.0 4.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(86.3400, device='cuda:0')
+6.0 6.0 5.0 4.0 4.0 4.0 4.0 4.0 4.0 4.0 4.0 5.0 4.0 4.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(91.7200, device='cuda:0')
+6.0 6.0 5.0 3.0 5.0 4.0 4.0 4.0 4.0 4.0 4.0 5.0 4.0 4.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(88.4300, device='cuda:0')
+6.0 6.0 4.0 4.0 5.0 4.0 4.0 4.0 4.0 4.0 4.0 5.0 4.0 4.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(90.5200, device='cuda:0')
+6.0 5.0 5.0 4.0 5.0 4.0 4.0 4.0 4.0 4.0 4.0 5.0 4.0 4.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(91.5700, device='cuda:0')
+5.0 6.0 5.0 4.0 5.0 4.0 4.0 4.0 4.0 4.0 4.0 5.0 4.0 4.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(91.9100, device='cuda:0')
+
+loop max_ii = 0 max_top1 = tensor(91.9100, device='cuda:0')
+time = 73.777849817276
+Loop 66================================
+5.0 6.0 5.0 4.0 5.0 4.0 4.0 4.0 4.0 4.0 4.0 5.0 4.0 4.0 3.0 3.0 2.0 
+Evaluation accuracy before quantization and fusion:tensor(82.7000, device='cuda:0')
+5.0 6.0 5.0 4.0 5.0 4.0 4.0 4.0 4.0 4.0 4.0 5.0 4.0 4.0 3.0 2.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(11.2700, device='cuda:0')
+5.0 6.0 5.0 4.0 5.0 4.0 4.0 4.0 4.0 4.0 4.0 5.0 4.0 4.0 2.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(10., device='cuda:0')
+5.0 6.0 5.0 4.0 5.0 4.0 4.0 4.0 4.0 4.0 4.0 5.0 4.0 3.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(91.4100, device='cuda:0')
+5.0 6.0 5.0 4.0 5.0 4.0 4.0 4.0 4.0 4.0 4.0 5.0 3.0 4.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(90.4400, device='cuda:0')
+5.0 6.0 5.0 4.0 5.0 4.0 4.0 4.0 4.0 4.0 4.0 4.0 4.0 4.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(91.0900, device='cuda:0')
+5.0 6.0 5.0 4.0 5.0 4.0 4.0 4.0 4.0 4.0 3.0 5.0 4.0 4.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(91.2100, device='cuda:0')
+5.0 6.0 5.0 4.0 5.0 4.0 4.0 4.0 4.0 3.0 4.0 5.0 4.0 4.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(89.4600, device='cuda:0')
+5.0 6.0 5.0 4.0 5.0 4.0 4.0 4.0 3.0 4.0 4.0 5.0 4.0 4.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(87.2800, device='cuda:0')
+5.0 6.0 5.0 4.0 5.0 4.0 4.0 3.0 4.0 4.0 4.0 5.0 4.0 4.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(87.6200, device='cuda:0')
+5.0 6.0 5.0 4.0 5.0 4.0 3.0 4.0 4.0 4.0 4.0 5.0 4.0 4.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(91.1500, device='cuda:0')
+5.0 6.0 5.0 4.0 5.0 3.0 4.0 4.0 4.0 4.0 4.0 5.0 4.0 4.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(85.8400, device='cuda:0')
+5.0 6.0 5.0 4.0 4.0 4.0 4.0 4.0 4.0 4.0 4.0 5.0 4.0 4.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(91.5500, device='cuda:0')
+5.0 6.0 5.0 3.0 5.0 4.0 4.0 4.0 4.0 4.0 4.0 5.0 4.0 4.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(87.6500, device='cuda:0')
+5.0 6.0 4.0 4.0 5.0 4.0 4.0 4.0 4.0 4.0 4.0 5.0 4.0 4.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(90.4200, device='cuda:0')
+5.0 5.0 5.0 4.0 5.0 4.0 4.0 4.0 4.0 4.0 4.0 5.0 4.0 4.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(91.3300, device='cuda:0')
+4.0 6.0 5.0 4.0 5.0 4.0 4.0 4.0 4.0 4.0 4.0 5.0 4.0 4.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(90.2900, device='cuda:0')
+
+loop max_ii = 4 max_top1 = tensor(91.5500, device='cuda:0')
+time = 74.94822376171747
+Loop 67================================
+5.0 6.0 5.0 4.0 4.0 4.0 4.0 4.0 4.0 4.0 4.0 5.0 4.0 4.0 3.0 3.0 2.0 
+Evaluation accuracy before quantization and fusion:tensor(82.5800, device='cuda:0')
+5.0 6.0 5.0 4.0 4.0 4.0 4.0 4.0 4.0 4.0 4.0 5.0 4.0 4.0 3.0 2.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(10.5800, device='cuda:0')
+5.0 6.0 5.0 4.0 4.0 4.0 4.0 4.0 4.0 4.0 4.0 5.0 4.0 4.0 2.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(10., device='cuda:0')
+5.0 6.0 5.0 4.0 4.0 4.0 4.0 4.0 4.0 4.0 4.0 5.0 4.0 3.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(91.0800, device='cuda:0')
+5.0 6.0 5.0 4.0 4.0 4.0 4.0 4.0 4.0 4.0 4.0 5.0 3.0 4.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(89.7800, device='cuda:0')
+5.0 6.0 5.0 4.0 4.0 4.0 4.0 4.0 4.0 4.0 4.0 4.0 4.0 4.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(90.5600, device='cuda:0')
+5.0 6.0 5.0 4.0 4.0 4.0 4.0 4.0 4.0 4.0 3.0 5.0 4.0 4.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(90.8700, device='cuda:0')
+5.0 6.0 5.0 4.0 4.0 4.0 4.0 4.0 4.0 3.0 4.0 5.0 4.0 4.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(89.4100, device='cuda:0')
+5.0 6.0 5.0 4.0 4.0 4.0 4.0 4.0 3.0 4.0 4.0 5.0 4.0 4.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(86.4900, device='cuda:0')
+5.0 6.0 5.0 4.0 4.0 4.0 4.0 3.0 4.0 4.0 4.0 5.0 4.0 4.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(87.3900, device='cuda:0')
+5.0 6.0 5.0 4.0 4.0 4.0 3.0 4.0 4.0 4.0 4.0 5.0 4.0 4.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(90.9600, device='cuda:0')
+5.0 6.0 5.0 4.0 4.0 3.0 4.0 4.0 4.0 4.0 4.0 5.0 4.0 4.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(85.3600, device='cuda:0')
+5.0 6.0 5.0 4.0 3.0 4.0 4.0 4.0 4.0 4.0 4.0 5.0 4.0 4.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(81.0800, device='cuda:0')
+5.0 6.0 5.0 3.0 4.0 4.0 4.0 4.0 4.0 4.0 4.0 5.0 4.0 4.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(87.4300, device='cuda:0')
+5.0 6.0 4.0 4.0 4.0 4.0 4.0 4.0 4.0 4.0 4.0 5.0 4.0 4.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(90.4700, device='cuda:0')
+5.0 5.0 5.0 4.0 4.0 4.0 4.0 4.0 4.0 4.0 4.0 5.0 4.0 4.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(91.2900, device='cuda:0')
+4.0 6.0 5.0 4.0 4.0 4.0 4.0 4.0 4.0 4.0 4.0 5.0 4.0 4.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(90.1800, device='cuda:0')
+
+loop max_ii = 1 max_top1 = tensor(91.2900, device='cuda:0')
+time = 76.10863198041916
+Loop 68================================
+5.0 5.0 5.0 4.0 4.0 4.0 4.0 4.0 4.0 4.0 4.0 5.0 4.0 4.0 3.0 3.0 2.0 
+Evaluation accuracy before quantization and fusion:tensor(82.3800, device='cuda:0')
+5.0 5.0 5.0 4.0 4.0 4.0 4.0 4.0 4.0 4.0 4.0 5.0 4.0 4.0 3.0 2.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(10.4300, device='cuda:0')
+5.0 5.0 5.0 4.0 4.0 4.0 4.0 4.0 4.0 4.0 4.0 5.0 4.0 4.0 2.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(10., device='cuda:0')
+5.0 5.0 5.0 4.0 4.0 4.0 4.0 4.0 4.0 4.0 4.0 5.0 4.0 3.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(90.7000, device='cuda:0')
+5.0 5.0 5.0 4.0 4.0 4.0 4.0 4.0 4.0 4.0 4.0 5.0 3.0 4.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(89.2300, device='cuda:0')
+5.0 5.0 5.0 4.0 4.0 4.0 4.0 4.0 4.0 4.0 4.0 4.0 4.0 4.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(90.4600, device='cuda:0')
+5.0 5.0 5.0 4.0 4.0 4.0 4.0 4.0 4.0 4.0 3.0 5.0 4.0 4.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(90.4300, device='cuda:0')
+5.0 5.0 5.0 4.0 4.0 4.0 4.0 4.0 4.0 3.0 4.0 5.0 4.0 4.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(88.5700, device='cuda:0')
+5.0 5.0 5.0 4.0 4.0 4.0 4.0 4.0 3.0 4.0 4.0 5.0 4.0 4.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(85.6900, device='cuda:0')
+5.0 5.0 5.0 4.0 4.0 4.0 4.0 3.0 4.0 4.0 4.0 5.0 4.0 4.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(86.6000, device='cuda:0')
+5.0 5.0 5.0 4.0 4.0 4.0 3.0 4.0 4.0 4.0 4.0 5.0 4.0 4.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(90.4700, device='cuda:0')
+5.0 5.0 5.0 4.0 4.0 3.0 4.0 4.0 4.0 4.0 4.0 5.0 4.0 4.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(85.0800, device='cuda:0')
+5.0 5.0 5.0 4.0 3.0 4.0 4.0 4.0 4.0 4.0 4.0 5.0 4.0 4.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(81.1400, device='cuda:0')
+5.0 5.0 5.0 3.0 4.0 4.0 4.0 4.0 4.0 4.0 4.0 5.0 4.0 4.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(87.3000, device='cuda:0')
+5.0 5.0 4.0 4.0 4.0 4.0 4.0 4.0 4.0 4.0 4.0 5.0 4.0 4.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(89.9400, device='cuda:0')
+5.0 4.0 5.0 4.0 4.0 4.0 4.0 4.0 4.0 4.0 4.0 5.0 4.0 4.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(87.0300, device='cuda:0')
+4.0 5.0 5.0 4.0 4.0 4.0 4.0 4.0 4.0 4.0 4.0 5.0 4.0 4.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(89.8700, device='cuda:0')
+
+loop max_ii = 13 max_top1 = tensor(90.7000, device='cuda:0')
+time = 77.27856962283452
+Loop 69================================
+5.0 5.0 5.0 4.0 4.0 4.0 4.0 4.0 4.0 4.0 4.0 5.0 4.0 3.0 3.0 3.0 2.0 
+Evaluation accuracy before quantization and fusion:tensor(79.6100, device='cuda:0')
+5.0 5.0 5.0 4.0 4.0 4.0 4.0 4.0 4.0 4.0 4.0 5.0 4.0 3.0 3.0 2.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(10.4200, device='cuda:0')
+5.0 5.0 5.0 4.0 4.0 4.0 4.0 4.0 4.0 4.0 4.0 5.0 4.0 3.0 2.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(10., device='cuda:0')
+5.0 5.0 5.0 4.0 4.0 4.0 4.0 4.0 4.0 4.0 4.0 5.0 4.0 2.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(20.2300, device='cuda:0')
+5.0 5.0 5.0 4.0 4.0 4.0 4.0 4.0 4.0 4.0 4.0 5.0 3.0 3.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(75.5000, device='cuda:0')
+5.0 5.0 5.0 4.0 4.0 4.0 4.0 4.0 4.0 4.0 4.0 4.0 4.0 3.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(87.6900, device='cuda:0')
+5.0 5.0 5.0 4.0 4.0 4.0 4.0 4.0 4.0 4.0 3.0 5.0 4.0 3.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(89.2500, device='cuda:0')
+5.0 5.0 5.0 4.0 4.0 4.0 4.0 4.0 4.0 3.0 4.0 5.0 4.0 3.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(87.3600, device='cuda:0')
+5.0 5.0 5.0 4.0 4.0 4.0 4.0 4.0 3.0 4.0 4.0 5.0 4.0 3.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(84.5400, device='cuda:0')
+5.0 5.0 5.0 4.0 4.0 4.0 4.0 3.0 4.0 4.0 4.0 5.0 4.0 3.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(84.6900, device='cuda:0')
+5.0 5.0 5.0 4.0 4.0 4.0 3.0 4.0 4.0 4.0 4.0 5.0 4.0 3.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(89.5500, device='cuda:0')
+5.0 5.0 5.0 4.0 4.0 3.0 4.0 4.0 4.0 4.0 4.0 5.0 4.0 3.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(82.4100, device='cuda:0')
+5.0 5.0 5.0 4.0 3.0 4.0 4.0 4.0 4.0 4.0 4.0 5.0 4.0 3.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(79.0700, device='cuda:0')
+5.0 5.0 5.0 3.0 4.0 4.0 4.0 4.0 4.0 4.0 4.0 5.0 4.0 3.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(86.7500, device='cuda:0')
+5.0 5.0 4.0 4.0 4.0 4.0 4.0 4.0 4.0 4.0 4.0 5.0 4.0 3.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(89.7200, device='cuda:0')
+5.0 4.0 5.0 4.0 4.0 4.0 4.0 4.0 4.0 4.0 4.0 5.0 4.0 3.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(87.4500, device='cuda:0')
+4.0 5.0 5.0 4.0 4.0 4.0 4.0 4.0 4.0 4.0 4.0 5.0 4.0 3.0 3.0 3.0 3.0 
+Evaluation accuracy before quantization and fusion:tensor(89.5000, device='cuda:0')
+
+loop max_ii = 2 max_top1 = tensor(89.7200, device='cuda:0')
+time = 78.45280179580053
